@@ -1,0 +1,389 @@
+<<<======This is test : 1======>>>
+Thu Sep 12 14:48:28 +07 2019
+Using uid:0, gid:0.
+Writing intelligently...done
+Rewriting...done
+Reading intelligently...done
+start 'em...done...done...done...
+Version 1.03e       ------Sequential Output------ --Sequential Input- --Random-
+                    -Per Chr- --Block-- -Rewrite- -Per Chr- --Block-- --Seeks--
+Machine        Size K/sec %CP K/sec %CP K/sec %CP K/sec %CP K/sec %CP  /sec %CP
+bonnietest       8G           108387   6 49757   4           134535   7 215.6   0
+bonnietest,8G,,,108387,6,49757,4,,,134535,7,215.6,0,,,,,,,,,,,,,
+<<<======This is test : 2======>>>
+Thu Sep 12 14:54:22 +07 2019
+Using uid:0, gid:0.
+Writing intelligently...done
+Rewriting...done
+Reading intelligently...done
+start 'em...done...done...done...
+Version 1.03e       ------Sequential Output------ --Sequential Input- --Random-
+                    -Per Chr- --Block-- -Rewrite- -Per Chr- --Block-- --Seeks--
+Machine        Size K/sec %CP K/sec %CP K/sec %CP K/sec %CP K/sec %CP  /sec %CP
+bonnietest       8G           108099   6 49248   4           129927   6 191.8   0
+bonnietest,8G,,,108099,6,49248,4,,,129927,6,191.8,0,,,,,,,,,,,,,
+<<<======This is test : 3======>>>
+Thu Sep 12 15:00:24 +07 2019
+Using uid:0, gid:0.
+Writing intelligently...done
+Rewriting...done
+Reading intelligently...done
+start 'em...done...done...done...
+Version 1.03e       ------Sequential Output------ --Sequential Input- --Random-
+                    -Per Chr- --Block-- -Rewrite- -Per Chr- --Block-- --Seeks--
+Machine        Size K/sec %CP K/sec %CP K/sec %CP K/sec %CP K/sec %CP  /sec %CP
+bonnietest       8G           108784   5 50067   4           138235   7 208.4   0
+bonnietest,8G,,,108784,5,50067,4,,,138235,7,208.4,0,,,,,,,,,,,,,
+<<<======This is test : 4======>>>
+Thu Sep 12 15:06:16 +07 2019
+Using uid:0, gid:0.
+Writing intelligently...done
+Rewriting...done
+Reading intelligently...done
+start 'em...done...done...done...
+Version 1.03e       ------Sequential Output------ --Sequential Input- --Random-
+                    -Per Chr- --Block-- -Rewrite- -Per Chr- --Block-- --Seeks--
+Machine        Size K/sec %CP K/sec %CP K/sec %CP K/sec %CP K/sec %CP  /sec %CP
+bonnietest       8G           108395   6 49728   4           134910   7 198.5   0
+bonnietest,8G,,,108395,6,49728,4,,,134910,7,198.5,0,,,,,,,,,,,,,
+<<<======This is test : 5======>>>
+Thu Sep 12 15:12:12 +07 2019
+Using uid:0, gid:0.
+Writing intelligently...done
+Rewriting...done
+Reading intelligently...done
+start 'em...done...done...done...
+Version 1.03e       ------Sequential Output------ --Sequential Input- --Random-
+                    -Per Chr- --Block-- -Rewrite- -Per Chr- --Block-- --Seeks--
+Machine        Size K/sec %CP K/sec %CP K/sec %CP K/sec %CP K/sec %CP  /sec %CP
+bonnietest       8G           109834   6 49936   4           140910   7 205.9   0
+bonnietest,8G,,,109834,6,49936,4,,,140910,7,205.9,0,,,,,,,,,,,,,
+<<<======This is test : 6======>>>
+Thu Sep 12 15:18:03 +07 2019
+Using uid:0, gid:0.
+Writing intelligently...done
+Rewriting...done
+Reading intelligently...done
+start 'em...done...done...done...
+Version 1.03e       ------Sequential Output------ --Sequential Input- --Random-
+                    -Per Chr- --Block-- -Rewrite- -Per Chr- --Block-- --Seeks--
+Machine        Size K/sec %CP K/sec %CP K/sec %CP K/sec %CP K/sec %CP  /sec %CP
+bonnietest       8G           108101   6 49728   4           139252   7 212.7   0
+bonnietest,8G,,,108101,6,49728,4,,,139252,7,212.7,0,,,,,,,,,,,,,
+<<<======This is test : 7======>>>
+Thu Sep 12 15:23:55 +07 2019
+Using uid:0, gid:0.
+Writing intelligently...done
+Rewriting...done
+Reading intelligently...done
+start 'em...done...done...done...
+Version 1.03e       ------Sequential Output------ --Sequential Input- --Random-
+                    -Per Chr- --Block-- -Rewrite- -Per Chr- --Block-- --Seeks--
+Machine        Size K/sec %CP K/sec %CP K/sec %CP K/sec %CP K/sec %CP  /sec %CP
+bonnietest       8G           110040   5 50496   4           138927   6 204.1   0
+bonnietest,8G,,,110040,5,50496,4,,,138927,6,204.1,0,,,,,,,,,,,,,
+<<<======This is test : 8======>>>
+Thu Sep 12 15:29:45 +07 2019
+Using uid:0, gid:0.
+Writing intelligently...done
+Rewriting...done
+Reading intelligently...done
+start 'em...done...done...done...
+Version 1.03e       ------Sequential Output------ --Sequential Input- --Random-
+                    -Per Chr- --Block-- -Rewrite- -Per Chr- --Block-- --Seeks--
+Machine        Size K/sec %CP K/sec %CP K/sec %CP K/sec %CP K/sec %CP  /sec %CP
+bonnietest       8G           107654   5 49567   4           137378   7 218.8   0
+bonnietest,8G,,,107654,5,49567,4,,,137378,7,218.8,0,,,,,,,,,,,,,
+<<<======This is test : 9======>>>
+Thu Sep 12 15:35:38 +07 2019
+Using uid:0, gid:0.
+Writing intelligently...done
+Rewriting...done
+Reading intelligently...done
+start 'em...done...done...done...
+Version 1.03e       ------Sequential Output------ --Sequential Input- --Random-
+                    -Per Chr- --Block-- -Rewrite- -Per Chr- --Block-- --Seeks--
+Machine        Size K/sec %CP K/sec %CP K/sec %CP K/sec %CP K/sec %CP  /sec %CP
+bonnietest       8G           110216   6 50471   4           133921   6 195.6   0
+bonnietest,8G,,,110216,6,50471,4,,,133921,6,195.6,0,,,,,,,,,,,,,
+<<<======This is test : 10======>>>
+Thu Sep 12 15:41:32 +07 2019
+Using uid:0, gid:0.
+Writing intelligently...done
+Rewriting...done
+Reading intelligently...done
+start 'em...done...done...done...
+Version 1.03e       ------Sequential Output------ --Sequential Input- --Random-
+                    -Per Chr- --Block-- -Rewrite- -Per Chr- --Block-- --Seeks--
+Machine        Size K/sec %CP K/sec %CP K/sec %CP K/sec %CP K/sec %CP  /sec %CP
+bonnietest       8G           107731   6 49545   4           138244   6 201.3   0
+bonnietest,8G,,,107731,6,49545,4,,,138244,6,201.3,0,,,,,,,,,,,,,
+<<<======This is test : 11======>>>
+Thu Sep 12 15:47:27 +07 2019
+Using uid:0, gid:0.
+Writing intelligently...done
+Rewriting...done
+Reading intelligently...done
+start 'em...done...done...done...
+Version 1.03e       ------Sequential Output------ --Sequential Input- --Random-
+                    -Per Chr- --Block-- -Rewrite- -Per Chr- --Block-- --Seeks--
+Machine        Size K/sec %CP K/sec %CP K/sec %CP K/sec %CP K/sec %CP  /sec %CP
+bonnietest       8G           108909   6 49956   4           134826   6 206.0   0
+bonnietest,8G,,,108909,6,49956,4,,,134826,6,206.0,0,,,,,,,,,,,,,
+<<<======This is test : 12======>>>
+Thu Sep 12 15:53:21 +07 2019
+Using uid:0, gid:0.
+Writing intelligently...done
+Rewriting...done
+Reading intelligently...done
+start 'em...done...done...done...
+Version 1.03e       ------Sequential Output------ --Sequential Input- --Random-
+                    -Per Chr- --Block-- -Rewrite- -Per Chr- --Block-- --Seeks--
+Machine        Size K/sec %CP K/sec %CP K/sec %CP K/sec %CP K/sec %CP  /sec %CP
+bonnietest       8G           109022   6 50477   4           144403   7 194.5   0
+bonnietest,8G,,,109022,6,50477,4,,,144403,7,194.5,0,,,,,,,,,,,,,
+<<<======This is test : 13======>>>
+Thu Sep 12 15:59:12 +07 2019
+Using uid:0, gid:0.
+Writing intelligently...done
+Rewriting...done
+Reading intelligently...done
+start 'em...done...done...done...
+Version 1.03e       ------Sequential Output------ --Sequential Input- --Random-
+                    -Per Chr- --Block-- -Rewrite- -Per Chr- --Block-- --Seeks--
+Machine        Size K/sec %CP K/sec %CP K/sec %CP K/sec %CP K/sec %CP  /sec %CP
+bonnietest       8G           108865   5 49924   4           133945   6 178.8   0
+bonnietest,8G,,,108865,5,49924,4,,,133945,6,178.8,0,,,,,,,,,,,,,
+<<<======This is test : 14======>>>
+Thu Sep 12 16:05:12 +07 2019
+Using uid:0, gid:0.
+Writing intelligently...done
+Rewriting...done
+Reading intelligently...done
+start 'em...done...done...done...
+Version 1.03e       ------Sequential Output------ --Sequential Input- --Random-
+                    -Per Chr- --Block-- -Rewrite- -Per Chr- --Block-- --Seeks--
+Machine        Size K/sec %CP K/sec %CP K/sec %CP K/sec %CP K/sec %CP  /sec %CP
+bonnietest       8G           108564   6 50144   4           136652   6 197.5   0
+bonnietest,8G,,,108564,6,50144,4,,,136652,6,197.5,0,,,,,,,,,,,,,
+<<<======This is test : 15======>>>
+Thu Sep 12 16:11:07 +07 2019
+Using uid:0, gid:0.
+Writing intelligently...done
+Rewriting...done
+Reading intelligently...done
+start 'em...done...done...done...
+Version 1.03e       ------Sequential Output------ --Sequential Input- --Random-
+                    -Per Chr- --Block-- -Rewrite- -Per Chr- --Block-- --Seeks--
+Machine        Size K/sec %CP K/sec %CP K/sec %CP K/sec %CP K/sec %CP  /sec %CP
+bonnietest       8G           108317   6 49002   4           134185   6 212.6   0
+bonnietest,8G,,,108317,6,49002,4,,,134185,6,212.6,0,,,,,,,,,,,,,
+<<<======This is test : 16======>>>
+Thu Sep 12 16:17:03 +07 2019
+Using uid:0, gid:0.
+Writing intelligently...done
+Rewriting...done
+Reading intelligently...done
+start 'em...done...done...done...
+Version 1.03e       ------Sequential Output------ --Sequential Input- --Random-
+                    -Per Chr- --Block-- -Rewrite- -Per Chr- --Block-- --Seeks--
+Machine        Size K/sec %CP K/sec %CP K/sec %CP K/sec %CP K/sec %CP  /sec %CP
+bonnietest       8G           109912   6 50144   4           140999   7 188.0   0
+bonnietest,8G,,,109912,6,50144,4,,,140999,7,188.0,0,,,,,,,,,,,,,
+<<<======This is test : 17======>>>
+Thu Sep 12 16:22:57 +07 2019
+Using uid:0, gid:0.
+Writing intelligently...done
+Rewriting...done
+Reading intelligently...done
+start 'em...done...done...done...
+Version 1.03e       ------Sequential Output------ --Sequential Input- --Random-
+                    -Per Chr- --Block-- -Rewrite- -Per Chr- --Block-- --Seeks--
+Machine        Size K/sec %CP K/sec %CP K/sec %CP K/sec %CP K/sec %CP  /sec %CP
+bonnietest       8G           108005   5 49050   4           133159   6 202.2   0
+bonnietest,8G,,,108005,5,49050,4,,,133159,6,202.2,0,,,,,,,,,,,,,
+<<<======This is test : 18======>>>
+Thu Sep 12 16:28:56 +07 2019
+Using uid:0, gid:0.
+Writing intelligently...done
+Rewriting...done
+Reading intelligently...done
+start 'em...done...done...done...
+Version 1.03e       ------Sequential Output------ --Sequential Input- --Random-
+                    -Per Chr- --Block-- -Rewrite- -Per Chr- --Block-- --Seeks--
+Machine        Size K/sec %CP K/sec %CP K/sec %CP K/sec %CP K/sec %CP  /sec %CP
+bonnietest       8G           109640   6 49704   4           134008   6 201.6   0
+bonnietest,8G,,,109640,6,49704,4,,,134008,6,201.6,0,,,,,,,,,,,,,
+<<<======This is test : 19======>>>
+Thu Sep 12 16:34:52 +07 2019
+Using uid:0, gid:0.
+Writing intelligently...done
+Rewriting...done
+Reading intelligently...done
+start 'em...done...done...done...
+Version 1.03e       ------Sequential Output------ --Sequential Input- --Random-
+                    -Per Chr- --Block-- -Rewrite- -Per Chr- --Block-- --Seeks--
+Machine        Size K/sec %CP K/sec %CP K/sec %CP K/sec %CP K/sec %CP  /sec %CP
+bonnietest       8G           107713   6 49651   4           138178   7 234.4   0
+bonnietest,8G,,,107713,6,49651,4,,,138178,7,234.4,0,,,,,,,,,,,,,
+<<<======This is test : 20======>>>
+Thu Sep 12 16:40:41 +07 2019
+Using uid:0, gid:0.
+Writing intelligently...done
+Rewriting...done
+Reading intelligently...done
+start 'em...done...done...done...
+Version 1.03e       ------Sequential Output------ --Sequential Input- --Random-
+                    -Per Chr- --Block-- -Rewrite- -Per Chr- --Block-- --Seeks--
+Machine        Size K/sec %CP K/sec %CP K/sec %CP K/sec %CP K/sec %CP  /sec %CP
+bonnietest       8G           109337   6 50445   4           134736   7 201.6   0
+bonnietest,8G,,,109337,6,50445,4,,,134736,7,201.6,0,,,,,,,,,,,,,
+<<<======This is test : 21======>>>
+Thu Sep 12 16:46:34 +07 2019
+Using uid:0, gid:0.
+Writing intelligently...done
+Rewriting...done
+Reading intelligently...done
+start 'em...done...done...done...
+Version 1.03e       ------Sequential Output------ --Sequential Input- --Random-
+                    -Per Chr- --Block-- -Rewrite- -Per Chr- --Block-- --Seeks--
+Machine        Size K/sec %CP K/sec %CP K/sec %CP K/sec %CP K/sec %CP  /sec %CP
+bonnietest       8G           108974   6 50028   4           130606   6 191.5   0
+bonnietest,8G,,,108974,6,50028,4,,,130606,6,191.5,0,,,,,,,,,,,,,
+<<<======This is test : 22======>>>
+Thu Sep 12 16:52:33 +07 2019
+Using uid:0, gid:0.
+Writing intelligently...done
+Rewriting...done
+Reading intelligently...done
+start 'em...done...done...done...
+Version 1.03e       ------Sequential Output------ --Sequential Input- --Random-
+                    -Per Chr- --Block-- -Rewrite- -Per Chr- --Block-- --Seeks--
+Machine        Size K/sec %CP K/sec %CP K/sec %CP K/sec %CP K/sec %CP  /sec %CP
+bonnietest       8G           107746   6 50131   4           129199   6 217.8   0
+bonnietest,8G,,,107746,6,50131,4,,,129199,6,217.8,0,,,,,,,,,,,,,
+<<<======This is test : 23======>>>
+Thu Sep 12 16:58:28 +07 2019
+Using uid:0, gid:0.
+Writing intelligently...done
+Rewriting...done
+Reading intelligently...done
+start 'em...done...done...done...
+Version 1.03e       ------Sequential Output------ --Sequential Input- --Random-
+                    -Per Chr- --Block-- -Rewrite- -Per Chr- --Block-- --Seeks--
+Machine        Size K/sec %CP K/sec %CP K/sec %CP K/sec %CP K/sec %CP  /sec %CP
+bonnietest       8G           107791   6 49993   4           141446   7 220.0   0
+bonnietest,8G,,,107791,6,49993,4,,,141446,7,220.0,0,,,,,,,,,,,,,
+<<<======This is test : 24======>>>
+Thu Sep 12 17:04:17 +07 2019
+Using uid:0, gid:0.
+Writing intelligently...done
+Rewriting...done
+Reading intelligently...done
+start 'em...done...done...done...
+Version 1.03e       ------Sequential Output------ --Sequential Input- --Random-
+                    -Per Chr- --Block-- -Rewrite- -Per Chr- --Block-- --Seeks--
+Machine        Size K/sec %CP K/sec %CP K/sec %CP K/sec %CP K/sec %CP  /sec %CP
+bonnietest       8G           108861   6 49936   4           136855   6 208.7   0
+bonnietest,8G,,,108861,6,49936,4,,,136855,6,208.7,0,,,,,,,,,,,,,
+<<<======This is test : 25======>>>
+Thu Sep 12 17:10:10 +07 2019
+Using uid:0, gid:0.
+Writing intelligently...done
+Rewriting...done
+Reading intelligently...done
+start 'em...done...done...done...
+Version 1.03e       ------Sequential Output------ --Sequential Input- --Random-
+                    -Per Chr- --Block-- -Rewrite- -Per Chr- --Block-- --Seeks--
+Machine        Size K/sec %CP K/sec %CP K/sec %CP K/sec %CP K/sec %CP  /sec %CP
+bonnietest       8G           107631   6 50377   4           137165   7 212.6   0
+bonnietest,8G,,,107631,6,50377,4,,,137165,7,212.6,0,,,,,,,,,,,,,
+<<<======This is test : 26======>>>
+Thu Sep 12 17:16:01 +07 2019
+Using uid:0, gid:0.
+Writing intelligently...done
+Rewriting...done
+Reading intelligently...done
+start 'em...done...done...done...
+Version 1.03e       ------Sequential Output------ --Sequential Input- --Random-
+                    -Per Chr- --Block-- -Rewrite- -Per Chr- --Block-- --Seeks--
+Machine        Size K/sec %CP K/sec %CP K/sec %CP K/sec %CP K/sec %CP  /sec %CP
+bonnietest       8G           109848   6 49858   4           133393   6 208.6   0
+bonnietest,8G,,,109848,6,49858,4,,,133393,6,208.6,0,,,,,,,,,,,,,
+<<<======This is test : 27======>>>
+Thu Sep 12 17:21:55 +07 2019
+Using uid:0, gid:0.
+Writing intelligently...done
+Rewriting...done
+Reading intelligently...done
+start 'em...done...done...done...
+Version 1.03e       ------Sequential Output------ --Sequential Input- --Random-
+                    -Per Chr- --Block-- -Rewrite- -Per Chr- --Block-- --Seeks--
+Machine        Size K/sec %CP K/sec %CP K/sec %CP K/sec %CP K/sec %CP  /sec %CP
+bonnietest       8G           108285   6 49945   4           139471   7 226.7   0
+bonnietest,8G,,,108285,6,49945,4,,,139471,7,226.7,0,,,,,,,,,,,,,
+<<<======This is test : 28======>>>
+Thu Sep 12 17:27:44 +07 2019
+Using uid:0, gid:0.
+Writing intelligently...done
+Rewriting...done
+Reading intelligently...done
+start 'em...done...done...done...
+Version 1.03e       ------Sequential Output------ --Sequential Input- --Random-
+                    -Per Chr- --Block-- -Rewrite- -Per Chr- --Block-- --Seeks--
+Machine        Size K/sec %CP K/sec %CP K/sec %CP K/sec %CP K/sec %CP  /sec %CP
+bonnietest       8G           109812   6 50514   4           134924   6 206.8   0
+bonnietest,8G,,,109812,6,50514,4,,,134924,6,206.8,0,,,,,,,,,,,,,
+<<<======This is test : 29======>>>
+Thu Sep 12 17:33:35 +07 2019
+Using uid:0, gid:0.
+Writing intelligently...done
+Rewriting...done
+Reading intelligently...done
+start 'em...done...done...done...
+Version 1.03e       ------Sequential Output------ --Sequential Input- --Random-
+                    -Per Chr- --Block-- -Rewrite- -Per Chr- --Block-- --Seeks--
+Machine        Size K/sec %CP K/sec %CP K/sec %CP K/sec %CP K/sec %CP  /sec %CP
+bonnietest       8G           108489   6 49916   4           138364   7 208.4   0
+bonnietest,8G,,,108489,6,49916,4,,,138364,7,208.4,0,,,,,,,,,,,,,
+<<<======This is test : 30======>>>
+Thu Sep 12 17:39:27 +07 2019
+Using uid:0, gid:0.
+Writing intelligently...done
+Rewriting...done
+Reading intelligently...done
+start 'em...done...done...done...
+Version 1.03e       ------Sequential Output------ --Sequential Input- --Random-
+                    -Per Chr- --Block-- -Rewrite- -Per Chr- --Block-- --Seeks--
+Machine        Size K/sec %CP K/sec %CP K/sec %CP K/sec %CP K/sec %CP  /sec %CP
+bonnietest       8G           108325   6 49543   4           134467   6 207.6   0
+bonnietest,8G,,,108325,6,49543,4,,,134467,6,207.6,0,,,,,,,,,,,,,
+<<<======This is test : 31======>>>
+Thu Sep 12 17:45:23 +07 2019
+Using uid:0, gid:0.
+Writing intelligently...done
+Rewriting...done
+Reading intelligently...done
+start 'em...done...done...done...
+Version 1.03e       ------Sequential Output------ --Sequential Input- --Random-
+                    -Per Chr- --Block-- -Rewrite- -Per Chr- --Block-- --Seeks--
+Machine        Size K/sec %CP K/sec %CP K/sec %CP K/sec %CP K/sec %CP  /sec %CP
+bonnietest       8G           108849   6 50740   4           144317   7 219.8   0
+bonnietest,8G,,,108849,6,50740,4,,,144317,7,219.8,0,,,,,,,,,,,,,
+<<<======This is test : 32======>>>
+Thu Sep 12 17:51:07 +07 2019
+Using uid:0, gid:0.
+Writing intelligently...done
+Rewriting...done
+Reading intelligently...done
+start 'em...done...done...done...
+Version 1.03e       ------Sequential Output------ --Sequential Input- --Random-
+                    -Per Chr- --Block-- -Rewrite- -Per Chr- --Block-- --Seeks--
+Machine        Size K/sec %CP K/sec %CP K/sec %CP K/sec %CP K/sec %CP  /sec %CP
+bonnietest       8G           107960   5 50106   4           127957   6 203.5   0
+bonnietest,8G,,,107960,5,50106,4,,,127957,6,203.5,0,,,,,,,,,,,,,
+<<<======This is test : 33======>>>
+Thu Sep 12 17:57:05 +07 2019
+Using uid:0, gid:0.
+Writing intelligently...done
+Rewriting...
