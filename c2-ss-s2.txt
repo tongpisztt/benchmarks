@@ -1,0 +1,2015 @@
+<<<======This is test : 1======>>>
+Mon Sep 16 12:34:17 +07 2019
+-------------------------------------------------------------
+STREAM version $Revision: 5.10 $
+-------------------------------------------------------------
+This system uses 8 bytes per array element.
+-------------------------------------------------------------
+Array size = 60000000 (elements), Offset = 0 (elements)
+Memory per array = 457.8 MiB (= 0.4 GiB).
+Total memory required = 1373.3 MiB (= 1.3 GiB).
+Each kernel will be executed 200 times.
+ The *best* time for each kernel (excluding the first iteration)
+ will be used to compute the reported bandwidth.
+-------------------------------------------------------------
+Your clock granularity/precision appears to be 1 microseconds.
+Each test below will take on the order of 155380 microseconds.
+   (= 155380 clock ticks)
+Increase the size of the arrays if this shows that
+you are not getting at least 20 clock ticks per test.
+-------------------------------------------------------------
+WARNING -- The above is only a rough guideline.
+For best results, please be sure you know the
+precision of your system timer.
+-------------------------------------------------------------
+<<<======This is test : 2======>>>
+Mon Sep 16 12:37:17 +07 2019
+<<<======This is test : 3======>>>
+Mon Sep 16 12:37:18 +07 2019
+<<<======This is test : 4======>>>
+Mon Sep 16 12:37:18 +07 2019
+-------------------------------------------------------------
+STREAM version $Revision: 5.10 $
+-------------------------------------------------------------
+This system uses 8 bytes per array element.
+-------------------------------------------------------------
+Array size = 60000000 (elements), Offset = 0 (elements)
+Memory per array = 457.8 MiB (= 0.4 GiB).
+Total memory required = 1373.3 MiB (= 1.3 GiB).
+Each kernel will be executed 200 times.
+ The *best* time for each kernel (excluding the first iteration)
+ will be used to compute the reported bandwidth.
+-------------------------------------------------------------
+Your clock granularity/precision appears to be 1 microseconds.
+Each test below will take on the order of 163444 microseconds.
+   (= 163444 clock ticks)
+Increase the size of the arrays if this shows that
+you are not getting at least 20 clock ticks per test.
+-------------------------------------------------------------
+WARNING -- The above is only a rough guideline.
+For best results, please be sure you know the
+precision of your system timer.
+-------------------------------------------------------------
+Function    Best Rate MB/s  Avg time     Min time     Max time
+Copy:            5098.1     0.192831     0.188307     0.197527
+Scale:           4909.0     0.201069     0.195560     0.206640
+Add:             5957.4     0.246726     0.241715     0.253101
+Triad:           5711.4     0.257027     0.252127     0.263372
+-------------------------------------------------------------
+Solution Validates: avg error less than 1.000000e-13 on all three arrays
+-------------------------------------------------------------
+<<<======This is test : 5======>>>
+Mon Sep 16 12:40:19 +07 2019
+-------------------------------------------------------------
+STREAM version $Revision: 5.10 $
+-------------------------------------------------------------
+This system uses 8 bytes per array element.
+-------------------------------------------------------------
+Array size = 60000000 (elements), Offset = 0 (elements)
+Memory per array = 457.8 MiB (= 0.4 GiB).
+Total memory required = 1373.3 MiB (= 1.3 GiB).
+Each kernel will be executed 200 times.
+ The *best* time for each kernel (excluding the first iteration)
+ will be used to compute the reported bandwidth.
+<<<======This is test : 6======>>>
+Mon Sep 16 12:40:19 +07 2019
+<<<======This is test : 7======>>>
+Mon Sep 16 12:40:20 +07 2019
+-------------------------------------------------------------
+STREAM version $Revision: 5.10 $
+-------------------------------------------------------------
+This system uses 8 bytes per array element.
+-------------------------------------------------------------
+Array size = 60000000 (elements), Offset = 0 (elements)
+Memory per array = 457.8 MiB (= 0.4 GiB).
+Total memory required = 1373.3 MiB (= 1.3 GiB).
+Each kernel will be executed 200 times.
+ The *best* time for each kernel (excluding the first iteration)
+ will be used to compute the reported bandwidth.
+-------------------------------------------------------------
+Your clock granularity/precision appears to be 1 microseconds.
+Each test below will take on the order of 163591 microseconds.
+   (= 163591 clock ticks)
+Increase the size of the arrays if this shows that
+you are not getting at least 20 clock ticks per test.
+-------------------------------------------------------------
+WARNING -- The above is only a rough guideline.
+For best results, please be sure you know the
+precision of your system timer.
+-------------------------------------------------------------
+Function    Best Rate MB/s  Avg time     Min time     Max time
+Copy:            5087.9     0.192825     0.188682     0.197972
+Scale:           4840.0     0.202797     0.198347     0.207835
+Add:             5949.5     0.246412     0.242038     0.251245
+Triad:           6522.3     0.257701     0.220780     0.260999
+-------------------------------------------------------------
+Solution Validates: avg error less than 1.000000e-13 on all three arrays
+-------------------------------------------------------------
+<<<======This is test : 8======>>>
+Mon Sep 16 12:43:21 +07 2019
+<<<======This is test : 9======>>>
+Mon Sep 16 12:43:22 +07 2019
+<<<======This is test : 10======>>>
+Mon Sep 16 12:43:22 +07 2019
+-------------------------------------------------------------
+STREAM version $Revision: 5.10 $
+-------------------------------------------------------------
+This system uses 8 bytes per array element.
+-------------------------------------------------------------
+Array size = 60000000 (elements), Offset = 0 (elements)
+Memory per array = 457.8 MiB (= 0.4 GiB).
+Total memory required = 1373.3 MiB (= 1.3 GiB).
+Each kernel will be executed 200 times.
+ The *best* time for each kernel (excluding the first iteration)
+ will be used to compute the reported bandwidth.
+-------------------------------------------------------------
+Your clock granularity/precision appears to be 1 microseconds.
+Each test below will take on the order of 162052 microseconds.
+   (= 162052 clock ticks)
+Increase the size of the arrays if this shows that
+you are not getting at least 20 clock ticks per test.
+-------------------------------------------------------------
+WARNING -- The above is only a rough guideline.
+For best results, please be sure you know the
+precision of your system timer.
+-------------------------------------------------------------
+Function    Best Rate MB/s  Avg time     Min time     Max time
+Copy:            5249.6     0.189196     0.182871     0.194802
+Scale:           4986.5     0.198395     0.192521     0.204270
+Add:             6127.8     0.241772     0.234995     0.249595
+Triad:           6815.3     0.253171     0.211289     0.264124
+-------------------------------------------------------------
+Solution Validates: avg error less than 1.000000e-13 on all three arrays
+-------------------------------------------------------------
+<<<======This is test : 11======>>>
+Mon Sep 16 12:46:20 +07 2019
+<<<======This is test : 12======>>>
+Mon Sep 16 12:46:21 +07 2019
+<<<======This is test : 13======>>>
+Mon Sep 16 12:46:21 +07 2019
+-------------------------------------------------------------
+STREAM version $Revision: 5.10 $
+-------------------------------------------------------------
+This system uses 8 bytes per array element.
+-------------------------------------------------------------
+Array size = 60000000 (elements), Offset = 0 (elements)
+Memory per array = 457.8 MiB (= 0.4 GiB).
+Total memory required = 1373.3 MiB (= 1.3 GiB).
+Each kernel will be executed 200 times.
+ The *best* time for each kernel (excluding the first iteration)
+ will be used to compute the reported bandwidth.
+-------------------------------------------------------------
+Your clock granularity/precision appears to be 1 microseconds.
+Each test below will take on the order of 158593 microseconds.
+   (= 158593 clock ticks)
+Increase the size of the arrays if this shows that
+you are not getting at least 20 clock ticks per test.
+-------------------------------------------------------------
+WARNING -- The above is only a rough guideline.
+For best results, please be sure you know the
+precision of your system timer.
+-------------------------------------------------------------
+Function    Best Rate MB/s  Avg time     Min time     Max time
+Copy:            5259.0     0.186838     0.182545     0.191643
+Scale:           5058.4     0.195439     0.189784     0.201006
+Add:             6142.3     0.239281     0.234439     0.245544
+Triad:           5887.1     0.249728     0.244603     0.256015
+-------------------------------------------------------------
+Solution Validates: avg error less than 1.000000e-13 on all three arrays
+-------------------------------------------------------------
+<<<======This is test : 14======>>>
+Mon Sep 16 12:49:17 +07 2019
+-------------------------------------------------------------
+STREAM version $Revision: 5.10 $
+-------------------------------------------------------------
+This system uses 8 bytes per array element.
+-------------------------------------------------------------
+Array size = 60000000 (elements), Offset = 0 (elements)
+Memory per array = 457.8 MiB (= 0.4 GiB).
+Total memory required = 1373.3 MiB (= 1.3 GiB).
+Each kernel will be executed 200 times.
+ The *best* time for each kernel (excluding the first iteration)
+ will be used to compute the reported bandwidth.
+<<<======This is test : 15======>>>
+Mon Sep 16 12:49:17 +07 2019
+<<<======This is test : 16======>>>
+Mon Sep 16 12:49:18 +07 2019
+<<<======This is test : 17======>>>
+Mon Sep 16 12:49:18 +07 2019
+-------------------------------------------------------------
+STREAM version $Revision: 5.10 $
+-------------------------------------------------------------
+This system uses 8 bytes per array element.
+-------------------------------------------------------------
+Array size = 60000000 (elements), Offset = 0 (elements)
+Memory per array = 457.8 MiB (= 0.4 GiB).
+Total memory required = 1373.3 MiB (= 1.3 GiB).
+Each kernel will be executed 200 times.
+ The *best* time for each kernel (excluding the first iteration)
+ will be used to compute the reported bandwidth.
+-------------------------------------------------------------
+Your clock granularity/precision appears to be 1 microseconds.
+Each test below will take on the order of 157716 microseconds.
+   (= 157716 clock ticks)
+Increase the size of the arrays if this shows that
+you are not getting at least 20 clock ticks per test.
+-------------------------------------------------------------
+WARNING -- The above is only a rough guideline.
+For best results, please be sure you know the
+precision of your system timer.
+-------------------------------------------------------------
+<<<======This is test : 18======>>>
+Mon Sep 16 12:52:14 +07 2019
+<<<======This is test : 19======>>>
+Mon Sep 16 12:52:15 +07 2019
+<<<======This is test : 20======>>>
+Mon Sep 16 12:52:15 +07 2019
+-------------------------------------------------------------
+STREAM version $Revision: 5.10 $
+-------------------------------------------------------------
+This system uses 8 bytes per array element.
+-------------------------------------------------------------
+Array size = 60000000 (elements), Offset = 0 (elements)
+Memory per array = 457.8 MiB (= 0.4 GiB).
+Total memory required = 1373.3 MiB (= 1.3 GiB).
+Each kernel will be executed 200 times.
+ The *best* time for each kernel (excluding the first iteration)
+ will be used to compute the reported bandwidth.
+-------------------------------------------------------------
+Your clock granularity/precision appears to be 1 microseconds.
+Each test below will take on the order of 158631 microseconds.
+   (= 158631 clock ticks)
+Increase the size of the arrays if this shows that
+you are not getting at least 20 clock ticks per test.
+-------------------------------------------------------------
+WARNING -- The above is only a rough guideline.
+For best results, please be sure you know the
+precision of your system timer.
+-------------------------------------------------------------
+Function    Best Rate MB/s  Avg time     Min time     Max time
+Copy:            5253.0     0.187306     0.182753     0.191869
+Scale:           5055.3     0.195168     0.189901     0.201252
+Add:             6134.8     0.239791     0.234727     0.245634
+Triad:           5881.0     0.249563     0.244857     0.255879
+-------------------------------------------------------------
+Solution Validates: avg error less than 1.000000e-13 on all three arrays
+-------------------------------------------------------------
+<<<======This is test : 21======>>>
+Mon Sep 16 12:55:11 +07 2019
+<<<======This is test : 22======>>>
+Mon Sep 16 12:55:11 +07 2019
+<<<======This is test : 23======>>>
+Mon Sep 16 12:55:12 +07 2019
+-------------------------------------------------------------
+STREAM version $Revision: 5.10 $
+-------------------------------------------------------------
+This system uses 8 bytes per array element.
+-------------------------------------------------------------
+Array size = 60000000 (elements), Offset = 0 (elements)
+Memory per array = 457.8 MiB (= 0.4 GiB).
+Total memory required = 1373.3 MiB (= 1.3 GiB).
+Each kernel will be executed 200 times.
+ The *best* time for each kernel (excluding the first iteration)
+ will be used to compute the reported bandwidth.
+-------------------------------------------------------------
+Your clock granularity/precision appears to be 1 microseconds.
+Each test below will take on the order of 155714 microseconds.
+   (= 155714 clock ticks)
+Increase the size of the arrays if this shows that
+you are not getting at least 20 clock ticks per test.
+-------------------------------------------------------------
+WARNING -- The above is only a rough guideline.
+For best results, please be sure you know the
+precision of your system timer.
+-------------------------------------------------------------
+Function    Best Rate MB/s  Avg time     Min time     Max time
+Copy:            5263.1     0.186632     0.182402     0.191281
+Scale:           5068.7     0.194767     0.189397     0.200667
+Add:             6144.2     0.239388     0.234369     0.245273
+Triad:           5894.9     0.249323     0.244279     0.255440
+-------------------------------------------------------------
+Solution Validates: avg error less than 1.000000e-13 on all three arrays
+-------------------------------------------------------------
+<<<======This is test : 24======>>>
+Mon Sep 16 12:58:08 +07 2019
+-------------------------------------------------------------
+STREAM version $Revision: 5.10 $
+-------------------------------------------------------------
+This system uses 8 bytes per array element.
+-------------------------------------------------------------
+Array size = 60000000 (elements), Offset = 0 (elements)
+Memory per array = 457.8 MiB (= 0.4 GiB).
+Total memory required = 1373.3 MiB (= 1.3 GiB).
+Each kernel will be executed 200 times.
+ The *best* time for each kernel (excluding the first iteration)
+ will be used to compute the reported bandwidth.
+<<<======This is test : 25======>>>
+Mon Sep 16 12:58:09 +07 2019
+<<<======This is test : 26======>>>
+Mon Sep 16 12:58:09 +07 2019
+<<<======This is test : 27======>>>
+Mon Sep 16 12:58:09 +07 2019
+-------------------------------------------------------------
+STREAM version $Revision: 5.10 $
+-------------------------------------------------------------
+This system uses 8 bytes per array element.
+-------------------------------------------------------------
+Array size = 60000000 (elements), Offset = 0 (elements)
+Memory per array = 457.8 MiB (= 0.4 GiB).
+Total memory required = 1373.3 MiB (= 1.3 GiB).
+Each kernel will be executed 200 times.
+ The *best* time for each kernel (excluding the first iteration)
+ will be used to compute the reported bandwidth.
+-------------------------------------------------------------
+Your clock granularity/precision appears to be 1 microseconds.
+Each test below will take on the order of 158021 microseconds.
+   (= 158021 clock ticks)
+Increase the size of the arrays if this shows that
+you are not getting at least 20 clock ticks per test.
+-------------------------------------------------------------
+WARNING -- The above is only a rough guideline.
+For best results, please be sure you know the
+precision of your system timer.
+-------------------------------------------------------------
+Function    Best Rate MB/s  Avg time     Min time     Max time
+Copy:            5250.7     0.187685     0.182834     0.195976
+Scale:           5054.4     0.196023     0.189932     0.201133
+Add:             6133.1     0.241069     0.234791     0.250248
+Triad:           5881.8     0.251087     0.244824     0.261703
+-------------------------------------------------------------
+Solution Validates: avg error less than 1.000000e-13 on all three arrays
+-------------------------------------------------------------
+<<<======This is test : 28======>>>
+Mon Sep 16 13:01:06 +07 2019
+<<<======This is test : 29======>>>
+Mon Sep 16 13:01:06 +07 2019
+<<<======This is test : 30======>>>
+Mon Sep 16 13:01:07 +07 2019
+<<<======This is test : 31======>>>
+Mon Sep 16 13:01:07 +07 2019
+-------------------------------------------------------------
+STREAM version $Revision: 5.10 $
+-------------------------------------------------------------
+This system uses 8 bytes per array element.
+-------------------------------------------------------------
+Array size = 60000000 (elements), Offset = 0 (elements)
+Memory per array = 457.8 MiB (= 0.4 GiB).
+Total memory required = 1373.3 MiB (= 1.3 GiB).
+Each kernel will be executed 200 times.
+ The *best* time for each kernel (excluding the first iteration)
+ will be used to compute the reported bandwidth.
+-------------------------------------------------------------
+Your clock granularity/precision appears to be 1 microseconds.
+Each test below will take on the order of 163249 microseconds.
+   (= 163249 clock ticks)
+Increase the size of the arrays if this shows that
+you are not getting at least 20 clock ticks per test.
+-------------------------------------------------------------
+WARNING -- The above is only a rough guideline.
+For best results, please be sure you know the
+precision of your system timer.
+-------------------------------------------------------------
+Function    Best Rate MB/s  Avg time     Min time     Max time
+Copy:            5098.4     0.192521     0.188295     0.197853
+Scale:           4906.3     0.201454     0.195667     0.206605
+Add:             5962.9     0.246461     0.241492     0.252876
+Triad:           5713.0     0.257109     0.252056     0.263435
+-------------------------------------------------------------
+Solution Validates: avg error less than 1.000000e-13 on all three arrays
+-------------------------------------------------------------
+<<<======This is test : 32======>>>
+Mon Sep 16 13:04:08 +07 2019
+-------------------------------------------------------------
+STREAM version $Revision: 5.10 $
+-------------------------------------------------------------
+This system uses 8 bytes per array element.
+-------------------------------------------------------------
+Array size = 60000000 (elements), Offset = 0 (elements)
+Memory per array = 457.8 MiB (= 0.4 GiB).
+Total memory required = 1373.3 MiB (= 1.3 GiB).
+Each kernel will be executed 200 times.
+ The *best* time for each kernel (excluding the first iteration)
+ will be used to compute the reported bandwidth.
+<<<======This is test : 33======>>>
+Mon Sep 16 13:04:09 +07 2019
+<<<======This is test : 34======>>>
+Mon Sep 16 13:04:09 +07 2019
+<<<======This is test : 35======>>>
+Mon Sep 16 13:04:09 +07 2019
+-------------------------------------------------------------
+STREAM version $Revision: 5.10 $
+-------------------------------------------------------------
+This system uses 8 bytes per array element.
+-------------------------------------------------------------
+Array size = 60000000 (elements), Offset = 0 (elements)
+Memory per array = 457.8 MiB (= 0.4 GiB).
+Total memory required = 1373.3 MiB (= 1.3 GiB).
+Each kernel will be executed 200 times.
+ The *best* time for each kernel (excluding the first iteration)
+ will be used to compute the reported bandwidth.
+-------------------------------------------------------------
+Your clock granularity/precision appears to be 1 microseconds.
+Each test below will take on the order of 162555 microseconds.
+   (= 162555 clock ticks)
+Increase the size of the arrays if this shows that
+you are not getting at least 20 clock ticks per test.
+-------------------------------------------------------------
+WARNING -- The above is only a rough guideline.
+For best results, please be sure you know the
+precision of your system timer.
+-------------------------------------------------------------
+Function    Best Rate MB/s  Avg time     Min time     Max time
+Copy:            5098.7     0.192378     0.188283     0.197560
+Scale:           4907.5     0.201382     0.195618     0.206602
+Add:             5962.2     0.246331     0.241520     0.252727
+Triad:           5715.6     0.257224     0.251942     0.263296
+-------------------------------------------------------------
+Solution Validates: avg error less than 1.000000e-13 on all three arrays
+-------------------------------------------------------------
+<<<======This is test : 36======>>>
+Mon Sep 16 13:07:11 +07 2019
+-------------------------------------------------------------
+STREAM version $Revision: 5.10 $
+-------------------------------------------------------------
+This system uses 8 bytes per array element.
+-------------------------------------------------------------
+Array size = 60000000 (elements), Offset = 0 (elements)
+Memory per array = 457.8 MiB (= 0.4 GiB).
+Total memory required = 1373.3 MiB (= 1.3 GiB).
+Each kernel will be executed 200 times.
+ The *best* time for each kernel (excluding the first iteration)
+ will be used to compute the reported bandwidth.
+<<<======This is test : 37======>>>
+Mon Sep 16 13:07:11 +07 2019
+<<<======This is test : 38======>>>
+Mon Sep 16 13:07:12 +07 2019
+-------------------------------------------------------------
+STREAM version $Revision: 5.10 $
+-------------------------------------------------------------
+This system uses 8 bytes per array element.
+-------------------------------------------------------------
+Array size = 60000000 (elements), Offset = 0 (elements)
+Memory per array = 457.8 MiB (= 0.4 GiB).
+Total memory required = 1373.3 MiB (= 1.3 GiB).
+Each kernel will be executed 200 times.
+ The *best* time for each kernel (excluding the first iteration)
+ will be used to compute the reported bandwidth.
+-------------------------------------------------------------
+Your clock granularity/precision appears to be 1 microseconds.
+Each test below will take on the order of 163423 microseconds.
+   (= 163423 clock ticks)
+Increase the size of the arrays if this shows that
+you are not getting at least 20 clock ticks per test.
+-------------------------------------------------------------
+WARNING -- The above is only a rough guideline.
+For best results, please be sure you know the
+precision of your system timer.
+-------------------------------------------------------------
+Function    Best Rate MB/s  Avg time     Min time     Max time
+Copy:            5093.7     0.192997     0.188469     0.197782
+Scale:           4903.3     0.201232     0.195785     0.207168
+Add:             5957.5     0.247498     0.241711     0.253262
+Triad:           5703.9     0.257065     0.252461     0.264887
+-------------------------------------------------------------
+Solution Validates: avg error less than 1.000000e-13 on all three arrays
+-------------------------------------------------------------
+<<<======This is test : 39======>>>
+Mon Sep 16 13:10:13 +07 2019
+OCI runtime exec failed: exec failed: container_linux.go:345: starting container process caused "process_linux.go:91: executing setns process caused \"exit status 21\"": unknown
+<<<======This is test : 40======>>>
+Mon Sep 16 13:10:13 +07 2019
+<<<======This is test : 41======>>>
+Mon Sep 16 13:10:14 +07 2019
+-------------------------------------------------------------
+STREAM version $Revision: 5.10 $
+-------------------------------------------------------------
+This system uses 8 bytes per array element.
+-------------------------------------------------------------
+Array size = 60000000 (elements), Offset = 0 (elements)
+Memory per array = 457.8 MiB (= 0.4 GiB).
+Total memory required = 1373.3 MiB (= 1.3 GiB).
+Each kernel will be executed 200 times.
+ The *best* time for each kernel (excluding the first iteration)
+ will be used to compute the reported bandwidth.
+-------------------------------------------------------------
+Your clock granularity/precision appears to be 1 microseconds.
+Each test below will take on the order of 163004 microseconds.
+   (= 163004 clock ticks)
+Increase the size of the arrays if this shows that
+you are not getting at least 20 clock ticks per test.
+-------------------------------------------------------------
+WARNING -- The above is only a rough guideline.
+For best results, please be sure you know the
+precision of your system timer.
+-------------------------------------------------------------
+Function    Best Rate MB/s  Avg time     Min time     Max time
+Copy:            5258.8     0.188936     0.182551     0.197415
+Scale:           5057.3     0.197837     0.189823     0.206600
+Add:             6140.0     0.242001     0.234527     0.249748
+Triad:           5883.3     0.252418     0.244762     0.260208
+-------------------------------------------------------------
+Solution Validates: avg error less than 1.000000e-13 on all three arrays
+-------------------------------------------------------------
+<<<======This is test : 42======>>>
+Mon Sep 16 13:13:12 +07 2019
+-------------------------------------------------------------
+STREAM version $Revision: 5.10 $
+-------------------------------------------------------------
+This system uses 8 bytes per array element.
+-------------------------------------------------------------
+Array size = 60000000 (elements), Offset = 0 (elements)
+Memory per array = 457.8 MiB (= 0.4 GiB).
+Total memory required = 1373.3 MiB (= 1.3 GiB).
+Each kernel will be executed 200 times.
+ The *best* time for each kernel (excluding the first iteration)
+ will be used to compute the reported bandwidth.
+<<<======This is test : 43======>>>
+Mon Sep 16 13:13:12 +07 2019
+<<<======This is test : 44======>>>
+Mon Sep 16 13:13:13 +07 2019
+-------------------------------------------------------------
+STREAM version $Revision: 5.10 $
+-------------------------------------------------------------
+This system uses 8 bytes per array element.
+-------------------------------------------------------------
+Array size = 60000000 (elements), Offset = 0 (elements)
+Memory per array = 457.8 MiB (= 0.4 GiB).
+Total memory required = 1373.3 MiB (= 1.3 GiB).
+Each kernel will be executed 200 times.
+ The *best* time for each kernel (excluding the first iteration)
+ will be used to compute the reported bandwidth.
+-------------------------------------------------------------
+Your clock granularity/precision appears to be 1 microseconds.
+Each test below will take on the order of 157999 microseconds.
+   (= 157999 clock ticks)
+Increase the size of the arrays if this shows that
+you are not getting at least 20 clock ticks per test.
+-------------------------------------------------------------
+WARNING -- The above is only a rough guideline.
+For best results, please be sure you know the
+precision of your system timer.
+-------------------------------------------------------------
+Function    Best Rate MB/s  Avg time     Min time     Max time
+Copy:            5252.6     0.186607     0.182767     0.191782
+Scale:           5054.4     0.195296     0.189934     0.200902
+Add:             6137.7     0.239640     0.234614     0.245940
+Triad:           5880.7     0.250360     0.244868     0.256096
+-------------------------------------------------------------
+Solution Validates: avg error less than 1.000000e-13 on all three arrays
+-------------------------------------------------------------
+<<<======This is test : 45======>>>
+Mon Sep 16 13:16:09 +07 2019
+OCI runtime exec failed: exec failed: container_linux.go:345: starting container process caused "read init-p: connection reset by peer": unknown
+<<<======This is test : 46======>>>
+Mon Sep 16 13:16:09 +07 2019
+<<<======This is test : 47======>>>
+Mon Sep 16 13:16:10 +07 2019
+<<<======This is test : 48======>>>
+Mon Sep 16 13:16:10 +07 2019
+-------------------------------------------------------------
+STREAM version $Revision: 5.10 $
+-------------------------------------------------------------
+This system uses 8 bytes per array element.
+-------------------------------------------------------------
+Array size = 60000000 (elements), Offset = 0 (elements)
+Memory per array = 457.8 MiB (= 0.4 GiB).
+Total memory required = 1373.3 MiB (= 1.3 GiB).
+Each kernel will be executed 200 times.
+ The *best* time for each kernel (excluding the first iteration)
+ will be used to compute the reported bandwidth.
+-------------------------------------------------------------
+Your clock granularity/precision appears to be 1 microseconds.
+Each test below will take on the order of 158296 microseconds.
+   (= 158296 clock ticks)
+Increase the size of the arrays if this shows that
+you are not getting at least 20 clock ticks per test.
+-------------------------------------------------------------
+WARNING -- The above is only a rough guideline.
+For best results, please be sure you know the
+precision of your system timer.
+-------------------------------------------------------------
+Function    Best Rate MB/s  Avg time     Min time     Max time
+Copy:            5251.4     0.188372     0.182808     0.195197
+Scale:           5051.9     0.196870     0.190026     0.203760
+Add:             6139.4     0.241860     0.234552     0.250127
+Triad:           5873.5     0.252152     0.245169     0.263617
+-------------------------------------------------------------
+Solution Validates: avg error less than 1.000000e-13 on all three arrays
+-------------------------------------------------------------
+<<<======This is test : 49======>>>
+Mon Sep 16 13:19:07 +07 2019
+OCI runtime exec failed: exec failed: container_linux.go:345: starting container process caused "read init-p: connection reset by peer": unknown
+<<<======This is test : 50======>>>
+Mon Sep 16 13:19:08 +07 2019
+<<<======This is test : 51======>>>
+Mon Sep 16 13:19:08 +07 2019
+-------------------------------------------------------------
+STREAM version $Revision: 5.10 $
+-------------------------------------------------------------
+This system uses 8 bytes per array element.
+-------------------------------------------------------------
+Array size = 60000000 (elements), Offset = 0 (elements)
+Memory per array = 457.8 MiB (= 0.4 GiB).
+Total memory required = 1373.3 MiB (= 1.3 GiB).
+Each kernel will be executed 200 times.
+ The *best* time for each kernel (excluding the first iteration)
+ will be used to compute the reported bandwidth.
+-------------------------------------------------------------
+Your clock granularity/precision appears to be 1 microseconds.
+Each test below will take on the order of 162750 microseconds.
+   (= 162750 clock ticks)
+Increase the size of the arrays if this shows that
+you are not getting at least 20 clock ticks per test.
+-------------------------------------------------------------
+WARNING -- The above is only a rough guideline.
+For best results, please be sure you know the
+precision of your system timer.
+-------------------------------------------------------------
+Function    Best Rate MB/s  Avg time     Min time     Max time
+Copy:            5097.7     0.192651     0.188319     0.198225
+Scale:           4908.1     0.201442     0.195597     0.206699
+Add:             5960.5     0.246533     0.241592     0.253412
+Triad:           5713.2     0.257142     0.252047     0.263343
+-------------------------------------------------------------
+Solution Validates: avg error less than 1.000000e-13 on all three arrays
+-------------------------------------------------------------
+<<<======This is test : 52======>>>
+Mon Sep 16 13:22:09 +07 2019
+-------------------------------------------------------------
+STREAM version $Revision: 5.10 $
+-------------------------------------------------------------
+This system uses 8 bytes per array element.
+-------------------------------------------------------------
+Array size = 60000000 (elements), Offset = 0 (elements)
+Memory per array = 457.8 MiB (= 0.4 GiB).
+Total memory required = 1373.3 MiB (= 1.3 GiB).
+Each kernel will be executed 200 times.
+ The *best* time for each kernel (excluding the first iteration)
+ will be used to compute the reported bandwidth.
+<<<======This is test : 53======>>>
+Mon Sep 16 13:22:10 +07 2019
+<<<======This is test : 54======>>>
+Mon Sep 16 13:22:10 +07 2019
+-------------------------------------------------------------
+STREAM version $Revision: 5.10 $
+-------------------------------------------------------------
+This system uses 8 bytes per array element.
+-------------------------------------------------------------
+Array size = 60000000 (elements), Offset = 0 (elements)
+Memory per array = 457.8 MiB (= 0.4 GiB).
+Total memory required = 1373.3 MiB (= 1.3 GiB).
+Each kernel will be executed 200 times.
+ The *best* time for each kernel (excluding the first iteration)
+ will be used to compute the reported bandwidth.
+-------------------------------------------------------------
+Your clock granularity/precision appears to be 1 microseconds.
+Each test below will take on the order of 162564 microseconds.
+   (= 162564 clock ticks)
+Increase the size of the arrays if this shows that
+you are not getting at least 20 clock ticks per test.
+-------------------------------------------------------------
+WARNING -- The above is only a rough guideline.
+For best results, please be sure you know the
+precision of your system timer.
+-------------------------------------------------------------
+Function    Best Rate MB/s  Avg time     Min time     Max time
+Copy:            5095.7     0.192640     0.188393     0.197572
+Scale:           4909.5     0.201174     0.195540     0.207072
+Add:             5960.2     0.246467     0.241603     0.252897
+Triad:           5713.8     0.257155     0.252020     0.263413
+-------------------------------------------------------------
+Solution Validates: avg error less than 1.000000e-13 on all three arrays
+-------------------------------------------------------------
+<<<======This is test : 55======>>>
+Mon Sep 16 13:25:12 +07 2019
+-------------------------------------------------------------
+STREAM version $Revision: 5.10 $
+-------------------------------------------------------------
+This system uses 8 bytes per array element.
+-------------------------------------------------------------
+Array size = 60000000 (elements), Offset = 0 (elements)
+Memory per array = 457.8 MiB (= 0.4 GiB).
+Total memory required = 1373.3 MiB (= 1.3 GiB).
+Each kernel will be executed 200 times.
+ The *best* time for each kernel (excluding the first iteration)
+ will be used to compute the reported bandwidth.
+<<<======This is test : 56======>>>
+Mon Sep 16 13:25:12 +07 2019
+<<<======This is test : 57======>>>
+Mon Sep 16 13:25:12 +07 2019
+<<<======This is test : 58======>>>
+Mon Sep 16 13:25:12 +07 2019
+-------------------------------------------------------------
+STREAM version $Revision: 5.10 $
+-------------------------------------------------------------
+This system uses 8 bytes per array element.
+-------------------------------------------------------------
+Array size = 60000000 (elements), Offset = 0 (elements)
+Memory per array = 457.8 MiB (= 0.4 GiB).
+Total memory required = 1373.3 MiB (= 1.3 GiB).
+Each kernel will be executed 200 times.
+ The *best* time for each kernel (excluding the first iteration)
+ will be used to compute the reported bandwidth.
+-------------------------------------------------------------
+Your clock granularity/precision appears to be 1 microseconds.
+Each test below will take on the order of 163575 microseconds.
+   (= 163575 clock ticks)
+Increase the size of the arrays if this shows that
+you are not getting at least 20 clock ticks per test.
+-------------------------------------------------------------
+WARNING -- The above is only a rough guideline.
+For best results, please be sure you know the
+precision of your system timer.
+-------------------------------------------------------------
+Function    Best Rate MB/s  Avg time     Min time     Max time
+Copy:            5086.3     0.193349     0.188742     0.198034
+Scale:           4836.7     0.202460     0.198482     0.207339
+Add:             5950.7     0.246563     0.241989     0.250643
+Triad:           6667.3     0.257359     0.215979     0.261112
+-------------------------------------------------------------
+Solution Validates: avg error less than 1.000000e-13 on all three arrays
+-------------------------------------------------------------
+<<<======This is test : 59======>>>
+Mon Sep 16 13:28:14 +07 2019
+<<<======This is test : 60======>>>
+Mon Sep 16 13:28:15 +07 2019
+-------------------------------------------------------------
+STREAM version $Revision: 5.10 $
+-------------------------------------------------------------
+This system uses 8 bytes per array element.
+-------------------------------------------------------------
+Array size = 60000000 (elements), Offset = 0 (elements)
+Memory per array = 457.8 MiB (= 0.4 GiB).
+Total memory required = 1373.3 MiB (= 1.3 GiB).
+Each kernel will be executed 200 times.
+ The *best* time for each kernel (excluding the first iteration)
+ will be used to compute the reported bandwidth.
+-------------------------------------------------------------
+Your clock granularity/precision appears to be 1 microseconds.
+Each test below will take on the order of 163273 microseconds.
+   (= 163273 clock ticks)
+Increase the size of the arrays if this shows that
+you are not getting at least 20 clock ticks per test.
+-------------------------------------------------------------
+WARNING -- The above is only a rough guideline.
+For best results, please be sure you know the
+precision of your system timer.
+-------------------------------------------------------------
+Function    Best Rate MB/s  Avg time     Min time     Max time
+Copy:            5144.5     0.191834     0.186607     0.197845
+Scale:           5031.0     0.200955     0.190818     0.207506
+Add:             5961.1     0.245945     0.241568     0.250283
+Triad:           5923.9     0.256041     0.243081     0.261033
+-------------------------------------------------------------
+Solution Validates: avg error less than 1.000000e-13 on all three arrays
+-------------------------------------------------------------
+<<<======This is test : 61======>>>
+Mon Sep 16 13:31:16 +07 2019
+OCI runtime exec failed: exec failed: cannot exec a container that has stopped: unknown
+<<<======This is test : 62======>>>
+Mon Sep 16 13:31:16 +07 2019
+<<<======This is test : 63======>>>
+Mon Sep 16 13:31:16 +07 2019
+-------------------------------------------------------------
+STREAM version $Revision: 5.10 $
+-------------------------------------------------------------
+This system uses 8 bytes per array element.
+-------------------------------------------------------------
+Array size = 60000000 (elements), Offset = 0 (elements)
+Memory per array = 457.8 MiB (= 0.4 GiB).
+Total memory required = 1373.3 MiB (= 1.3 GiB).
+Each kernel will be executed 200 times.
+ The *best* time for each kernel (excluding the first iteration)
+ will be used to compute the reported bandwidth.
+-------------------------------------------------------------
+Your clock granularity/precision appears to be 1 microseconds.
+Each test below will take on the order of 158559 microseconds.
+   (= 158559 clock ticks)
+Increase the size of the arrays if this shows that
+you are not getting at least 20 clock ticks per test.
+-------------------------------------------------------------
+WARNING -- The above is only a rough guideline.
+For best results, please be sure you know the
+precision of your system timer.
+-------------------------------------------------------------
+Function    Best Rate MB/s  Avg time     Min time     Max time
+Copy:            5252.4     0.187273     0.182772     0.191778
+Scale:           5052.7     0.195303     0.189997     0.201631
+Add:             6132.6     0.239591     0.234812     0.245561
+Triad:           5879.4     0.249587     0.244922     0.256042
+-------------------------------------------------------------
+Solution Validates: avg error less than 1.000000e-13 on all three arrays
+-------------------------------------------------------------
+<<<======This is test : 64======>>>
+Mon Sep 16 13:34:12 +07 2019
+-------------------------------------------------------------
+STREAM version $Revision: 5.10 $
+-------------------------------------------------------------
+This system uses 8 bytes per array element.
+-------------------------------------------------------------
+Array size = 60000000 (elements), Offset = 0 (elements)
+Memory per array = 457.8 MiB (= 0.4 GiB).
+Total memory required = 1373.3 MiB (= 1.3 GiB).
+Each kernel will be executed 200 times.
+ The *best* time for each kernel (excluding the first iteration)
+ will be used to compute the reported bandwidth.
+<<<======This is test : 65======>>>
+Mon Sep 16 13:34:13 +07 2019
+<<<======This is test : 66======>>>
+Mon Sep 16 13:34:13 +07 2019
+-------------------------------------------------------------
+STREAM version $Revision: 5.10 $
+-------------------------------------------------------------
+This system uses 8 bytes per array element.
+-------------------------------------------------------------
+Array size = 60000000 (elements), Offset = 0 (elements)
+Memory per array = 457.8 MiB (= 0.4 GiB).
+Total memory required = 1373.3 MiB (= 1.3 GiB).
+Each kernel will be executed 200 times.
+ The *best* time for each kernel (excluding the first iteration)
+ will be used to compute the reported bandwidth.
+-------------------------------------------------------------
+Your clock granularity/precision appears to be 1 microseconds.
+Each test below will take on the order of 158596 microseconds.
+   (= 158596 clock ticks)
+Increase the size of the arrays if this shows that
+you are not getting at least 20 clock ticks per test.
+-------------------------------------------------------------
+WARNING -- The above is only a rough guideline.
+For best results, please be sure you know the
+precision of your system timer.
+-------------------------------------------------------------
+Function    Best Rate MB/s  Avg time     Min time     Max time
+Copy:            5253.7     0.187245     0.182729     0.192001
+Scale:           5052.9     0.195483     0.189989     0.201300
+Add:             6138.9     0.239515     0.234570     0.245711
+Triad:           5881.1     0.249576     0.244852     0.256020
+-------------------------------------------------------------
+Solution Validates: avg error less than 1.000000e-13 on all three arrays
+-------------------------------------------------------------
+<<<======This is test : 67======>>>
+Mon Sep 16 13:37:09 +07 2019
+-------------------------------------------------------------
+STREAM version $Revision: 5.10 $
+-------------------------------------------------------------
+This system uses 8 bytes per array element.
+-------------------------------------------------------------
+Array size = 60000000 (elements), Offset = 0 (elements)
+Memory per array = 457.8 MiB (= 0.4 GiB).
+Total memory required = 1373.3 MiB (= 1.3 GiB).
+Each kernel will be executed 200 times.
+ The *best* time for each kernel (excluding the first iteration)
+ will be used to compute the reported bandwidth.
+<<<======This is test : 68======>>>
+Mon Sep 16 13:37:10 +07 2019
+cannot exec in a stopped state: unknown
+<<<======This is test : 69======>>>
+Mon Sep 16 13:37:10 +07 2019
+<<<======This is test : 70======>>>
+Mon Sep 16 13:37:10 +07 2019
+<<<======This is test : 71======>>>
+Mon Sep 16 13:37:10 +07 2019
+-------------------------------------------------------------
+STREAM version $Revision: 5.10 $
+-------------------------------------------------------------
+This system uses 8 bytes per array element.
+-------------------------------------------------------------
+Array size = 60000000 (elements), Offset = 0 (elements)
+Memory per array = 457.8 MiB (= 0.4 GiB).
+Total memory required = 1373.3 MiB (= 1.3 GiB).
+Each kernel will be executed 200 times.
+ The *best* time for each kernel (excluding the first iteration)
+ will be used to compute the reported bandwidth.
+-------------------------------------------------------------
+Your clock granularity/precision appears to be 1 microseconds.
+Each test below will take on the order of 158563 microseconds.
+   (= 158563 clock ticks)
+Increase the size of the arrays if this shows that
+you are not getting at least 20 clock ticks per test.
+-------------------------------------------------------------
+WARNING -- The above is only a rough guideline.
+For best results, please be sure you know the
+precision of your system timer.
+-------------------------------------------------------------
+Function    Best Rate MB/s  Avg time     Min time     Max time
+Copy:            5256.1     0.186953     0.182646     0.191866
+Scale:           5056.5     0.195558     0.189856     0.203106
+Add:             6136.8     0.239343     0.234651     0.245813
+Triad:           5891.6     0.249634     0.244416     0.256095
+-------------------------------------------------------------
+Solution Validates: avg error less than 1.000000e-13 on all three arrays
+-------------------------------------------------------------
+<<<======This is test : 72======>>>
+Mon Sep 16 13:40:06 +07 2019
+-------------------------------------------------------------
+STREAM version $Revision: 5.10 $
+-------------------------------------------------------------
+This system uses 8 bytes per array element.
+-------------------------------------------------------------
+Array size = 60000000 (elements), Offset = 0 (elements)
+Memory per array = 457.8 MiB (= 0.4 GiB).
+Total memory required = 1373.3 MiB (= 1.3 GiB).
+Each kernel will be executed 200 times.
+ The *best* time for each kernel (excluding the first iteration)
+ will be used to compute the reported bandwidth.
+<<<======This is test : 73======>>>
+Mon Sep 16 13:40:07 +07 2019
+cannot exec in a stopped state: unknown
+<<<======This is test : 74======>>>
+Mon Sep 16 13:40:07 +07 2019
+<<<======This is test : 75======>>>
+Mon Sep 16 13:40:07 +07 2019
+<<<======This is test : 76======>>>
+Mon Sep 16 13:40:07 +07 2019
+-------------------------------------------------------------
+STREAM version $Revision: 5.10 $
+-------------------------------------------------------------
+This system uses 8 bytes per array element.
+-------------------------------------------------------------
+Array size = 60000000 (elements), Offset = 0 (elements)
+Memory per array = 457.8 MiB (= 0.4 GiB).
+Total memory required = 1373.3 MiB (= 1.3 GiB).
+Each kernel will be executed 200 times.
+ The *best* time for each kernel (excluding the first iteration)
+ will be used to compute the reported bandwidth.
+-------------------------------------------------------------
+Your clock granularity/precision appears to be 1 microseconds.
+Each test below will take on the order of 158653 microseconds.
+   (= 158653 clock ticks)
+Increase the size of the arrays if this shows that
+you are not getting at least 20 clock ticks per test.
+-------------------------------------------------------------
+WARNING -- The above is only a rough guideline.
+For best results, please be sure you know the
+precision of your system timer.
+-------------------------------------------------------------
+Function    Best Rate MB/s  Avg time     Min time     Max time
+Copy:            5253.8     0.187401     0.182726     0.191937
+Scale:           5052.9     0.195562     0.189990     0.201304
+Add:             6132.6     0.240455     0.234810     0.246047
+Triad:           5869.5     0.249478     0.245334     0.253135
+-------------------------------------------------------------
+Solution Validates: avg error less than 1.000000e-13 on all three arrays
+-------------------------------------------------------------
+<<<======This is test : 77======>>>
+Mon Sep 16 13:43:03 +07 2019
+OCI runtime exec failed: exec failed: container_linux.go:345: starting container process caused "process_linux.go:91: executing setns process caused \"exit status 21\"": unknown
+<<<======This is test : 78======>>>
+Mon Sep 16 13:43:04 +07 2019
+<<<======This is test : 79======>>>
+Mon Sep 16 13:43:04 +07 2019
+-------------------------------------------------------------
+STREAM version $Revision: 5.10 $
+-------------------------------------------------------------
+This system uses 8 bytes per array element.
+-------------------------------------------------------------
+Array size = 60000000 (elements), Offset = 0 (elements)
+Memory per array = 457.8 MiB (= 0.4 GiB).
+Total memory required = 1373.3 MiB (= 1.3 GiB).
+Each kernel will be executed 200 times.
+ The *best* time for each kernel (excluding the first iteration)
+ will be used to compute the reported bandwidth.
+-------------------------------------------------------------
+Your clock granularity/precision appears to be 1 microseconds.
+Each test below will take on the order of 157233 microseconds.
+   (= 157233 clock ticks)
+Increase the size of the arrays if this shows that
+you are not getting at least 20 clock ticks per test.
+-------------------------------------------------------------
+WARNING -- The above is only a rough guideline.
+For best results, please be sure you know the
+precision of your system timer.
+-------------------------------------------------------------
+Function    Best Rate MB/s  Avg time     Min time     Max time
+Copy:            5252.8     0.189379     0.182761     0.193843
+Scale:           4984.7     0.202824     0.192591     0.208024
+Add:             6154.6     0.242644     0.233973     0.249311
+Triad:           7177.0     0.256107     0.200640     0.261251
+-------------------------------------------------------------
+<<<======This is test : 80======>>>
+Mon Sep 16 13:46:04 +07 2019
+<<<======This is test : 81======>>>
+Mon Sep 16 13:46:04 +07 2019
+-------------------------------------------------------------
+STREAM version $Revision: 5.10 $
+-------------------------------------------------------------
+This system uses 8 bytes per array element.
+-------------------------------------------------------------
+Array size = 60000000 (elements), Offset = 0 (elements)
+Memory per array = 457.8 MiB (= 0.4 GiB).
+Total memory required = 1373.3 MiB (= 1.3 GiB).
+Each kernel will be executed 200 times.
+ The *best* time for each kernel (excluding the first iteration)
+ will be used to compute the reported bandwidth.
+-------------------------------------------------------------
+Your clock granularity/precision appears to be 1 microseconds.
+Each test below will take on the order of 163170 microseconds.
+   (= 163170 clock ticks)
+Increase the size of the arrays if this shows that
+you are not getting at least 20 clock ticks per test.
+-------------------------------------------------------------
+WARNING -- The above is only a rough guideline.
+For best results, please be sure you know the
+precision of your system timer.
+-------------------------------------------------------------
+Function    Best Rate MB/s  Avg time     Min time     Max time
+Copy:            5095.5     0.192586     0.188401     0.197493
+Scale:           4910.5     0.201466     0.195500     0.206733
+Add:             5962.7     0.246448     0.241501     0.253410
+Triad:           5709.8     0.257120     0.252199     0.263346
+-------------------------------------------------------------
+Solution Validates: avg error less than 1.000000e-13 on all three arrays
+-------------------------------------------------------------
+<<<======This is test : 82======>>>
+Mon Sep 16 13:49:06 +07 2019
+-------------------------------------------------------------
+STREAM version $Revision: 5.10 $
+-------------------------------------------------------------
+This system uses 8 bytes per array element.
+-------------------------------------------------------------
+Array size = 60000000 (elements), Offset = 0 (elements)
+Memory per array = 457.8 MiB (= 0.4 GiB).
+Total memory required = 1373.3 MiB (= 1.3 GiB).
+Each kernel will be executed 200 times.
+ The *best* time for each kernel (excluding the first iteration)
+ will be used to compute the reported bandwidth.
+<<<======This is test : 83======>>>
+Mon Sep 16 13:49:06 +07 2019
+cannot exec in a stopped state: unknown
+<<<======This is test : 84======>>>
+Mon Sep 16 13:49:06 +07 2019
+<<<======This is test : 85======>>>
+Mon Sep 16 13:49:07 +07 2019
+<<<======This is test : 86======>>>
+Mon Sep 16 13:49:07 +07 2019
+-------------------------------------------------------------
+STREAM version $Revision: 5.10 $
+-------------------------------------------------------------
+This system uses 8 bytes per array element.
+-------------------------------------------------------------
+Array size = 60000000 (elements), Offset = 0 (elements)
+Memory per array = 457.8 MiB (= 0.4 GiB).
+Total memory required = 1373.3 MiB (= 1.3 GiB).
+Each kernel will be executed 200 times.
+ The *best* time for each kernel (excluding the first iteration)
+ will be used to compute the reported bandwidth.
+-------------------------------------------------------------
+Your clock granularity/precision appears to be 1 microseconds.
+Each test below will take on the order of 160804 microseconds.
+   (= 160804 clock ticks)
+Increase the size of the arrays if this shows that
+you are not getting at least 20 clock ticks per test.
+-------------------------------------------------------------
+WARNING -- The above is only a rough guideline.
+For best results, please be sure you know the
+precision of your system timer.
+-------------------------------------------------------------
+Function    Best Rate MB/s  Avg time     Min time     Max time
+Copy:            5097.6     0.192702     0.188324     0.197625
+Scale:           4910.7     0.200861     0.195490     0.206737
+Add:             5961.1     0.246806     0.241566     0.253102
+Triad:           5711.6     0.257240     0.252117     0.263417
+-------------------------------------------------------------
+Solution Validates: avg error less than 1.000000e-13 on all three arrays
+-------------------------------------------------------------
+<<<======This is test : 87======>>>
+Mon Sep 16 13:52:08 +07 2019
+<<<======This is test : 88======>>>
+Mon Sep 16 13:52:09 +07 2019
+<<<======This is test : 89======>>>
+Mon Sep 16 13:52:09 +07 2019
+<<<======This is test : 90======>>>
+Mon Sep 16 13:52:09 +07 2019
+-------------------------------------------------------------
+STREAM version $Revision: 5.10 $
+-------------------------------------------------------------
+This system uses 8 bytes per array element.
+-------------------------------------------------------------
+Array size = 60000000 (elements), Offset = 0 (elements)
+Memory per array = 457.8 MiB (= 0.4 GiB).
+Total memory required = 1373.3 MiB (= 1.3 GiB).
+Each kernel will be executed 200 times.
+ The *best* time for each kernel (excluding the first iteration)
+ will be used to compute the reported bandwidth.
+-------------------------------------------------------------
+Your clock granularity/precision appears to be 1 microseconds.
+Each test below will take on the order of 161105 microseconds.
+   (= 161105 clock ticks)
+Increase the size of the arrays if this shows that
+you are not getting at least 20 clock ticks per test.
+-------------------------------------------------------------
+WARNING -- The above is only a rough guideline.
+For best results, please be sure you know the
+precision of your system timer.
+-------------------------------------------------------------
+Function    Best Rate MB/s  Avg time     Min time     Max time
+Copy:            5245.7     0.191945     0.183008     0.198176
+Scale:           4837.7     0.201505     0.198442     0.207388
+Add:             6096.5     0.244790     0.236203     0.250534
+Triad:           6807.4     0.255406     0.211535     0.260423
+-------------------------------------------------------------
+Solution Validates: avg error less than 1.000000e-13 on all three arrays
+-------------------------------------------------------------
+<<<======This is test : 91======>>>
+Mon Sep 16 13:55:10 +07 2019
+<<<======This is test : 92======>>>
+Mon Sep 16 13:55:10 +07 2019
+<<<======This is test : 93======>>>
+Mon Sep 16 13:55:10 +07 2019
+-------------------------------------------------------------
+STREAM version $Revision: 5.10 $
+-------------------------------------------------------------
+This system uses 8 bytes per array element.
+-------------------------------------------------------------
+Array size = 60000000 (elements), Offset = 0 (elements)
+Memory per array = 457.8 MiB (= 0.4 GiB).
+Total memory required = 1373.3 MiB (= 1.3 GiB).
+Each kernel will be executed 200 times.
+ The *best* time for each kernel (excluding the first iteration)
+ will be used to compute the reported bandwidth.
+-------------------------------------------------------------
+Your clock granularity/precision appears to be 1 microseconds.
+Each test below will take on the order of 158787 microseconds.
+   (= 158787 clock ticks)
+Increase the size of the arrays if this shows that
+you are not getting at least 20 clock ticks per test.
+-------------------------------------------------------------
+WARNING -- The above is only a rough guideline.
+For best results, please be sure you know the
+precision of your system timer.
+-------------------------------------------------------------
+Function    Best Rate MB/s  Avg time     Min time     Max time
+Copy:            5244.1     0.187363     0.183062     0.192131
+Scale:           4980.5     0.196360     0.192750     0.201445
+Add:             6129.6     0.239321     0.234925     0.243287
+Triad:           6840.1     0.250349     0.210524     0.256757
+-------------------------------------------------------------
+Solution Validates: avg error less than 1.000000e-13 on all three arrays
+-------------------------------------------------------------
+<<<======This is test : 94======>>>
+Mon Sep 16 13:58:07 +07 2019
+cannot exec in a stopped state: unknown
+<<<======This is test : 95======>>>
+Mon Sep 16 13:58:07 +07 2019
+<<<======This is test : 96======>>>
+Mon Sep 16 13:58:07 +07 2019
+<<<======This is test : 97======>>>
+Mon Sep 16 13:58:07 +07 2019
+-------------------------------------------------------------
+STREAM version $Revision: 5.10 $
+-------------------------------------------------------------
+This system uses 8 bytes per array element.
+-------------------------------------------------------------
+Array size = 60000000 (elements), Offset = 0 (elements)
+Memory per array = 457.8 MiB (= 0.4 GiB).
+Total memory required = 1373.3 MiB (= 1.3 GiB).
+Each kernel will be executed 200 times.
+ The *best* time for each kernel (excluding the first iteration)
+ will be used to compute the reported bandwidth.
+-------------------------------------------------------------
+Your clock granularity/precision appears to be 1 microseconds.
+Each test below will take on the order of 156775 microseconds.
+   (= 156775 clock ticks)
+Increase the size of the arrays if this shows that
+you are not getting at least 20 clock ticks per test.
+-------------------------------------------------------------
+WARNING -- The above is only a rough guideline.
+For best results, please be sure you know the
+precision of your system timer.
+-------------------------------------------------------------
+Function    Best Rate MB/s  Avg time     Min time     Max time
+Copy:            5246.0     0.187301     0.182998     0.192254
+Scale:           4980.4     0.196432     0.192757     0.201599
+Add:             6127.8     0.239065     0.234994     0.243075
+Triad:           6897.1     0.250587     0.208782     0.256728
+-------------------------------------------------------------
+Solution Validates: avg error less than 1.000000e-13 on all three arrays
+-------------------------------------------------------------
+<<<======This is test : 98======>>>
+Mon Sep 16 14:01:04 +07 2019
+<<<======This is test : 99======>>>
+Mon Sep 16 14:01:04 +07 2019
+-------------------------------------------------------------
+STREAM version $Revision: 5.10 $
+-------------------------------------------------------------
+This system uses 8 bytes per array element.
+-------------------------------------------------------------
+Array size = 60000000 (elements), Offset = 0 (elements)
+Memory per array = 457.8 MiB (= 0.4 GiB).
+Total memory required = 1373.3 MiB (= 1.3 GiB).
+Each kernel will be executed 200 times.
+ The *best* time for each kernel (excluding the first iteration)
+ will be used to compute the reported bandwidth.
+-------------------------------------------------------------
+Your clock granularity/precision appears to be 1 microseconds.
+Each test below will take on the order of 156393 microseconds.
+   (= 156393 clock ticks)
+Increase the size of the arrays if this shows that
+you are not getting at least 20 clock ticks per test.
+-------------------------------------------------------------
+WARNING -- The above is only a rough guideline.
+For best results, please be sure you know the
+precision of your system timer.
+-------------------------------------------------------------
+<<<======This is test : 100======>>>
+Mon Sep 16 14:04:01 +07 2019
+<<<======This is test : 101======>>>
+Mon Sep 16 14:04:01 +07 2019
+<<<======This is test : 102======>>>
+Mon Sep 16 14:04:01 +07 2019
+<<<======This is test : 103======>>>
+Mon Sep 16 14:04:01 +07 2019
+<<<======This is test : 104======>>>
+Mon Sep 16 14:04:01 +07 2019
+<<<======This is test : 105======>>>
+Mon Sep 16 14:04:01 +07 2019
+<<<======This is test : 106======>>>
+Mon Sep 16 14:04:01 +07 2019
+<<<======This is test : 107======>>>
+Mon Sep 16 14:04:01 +07 2019
+<<<======This is test : 108======>>>
+Mon Sep 16 14:04:01 +07 2019
+<<<======This is test : 109======>>>
+Mon Sep 16 14:04:01 +07 2019
+<<<======This is test : 110======>>>
+Mon Sep 16 14:04:01 +07 2019
+<<<======This is test : 111======>>>
+Mon Sep 16 14:04:01 +07 2019
+<<<======This is test : 112======>>>
+Mon Sep 16 14:04:01 +07 2019
+<<<======This is test : 113======>>>
+Mon Sep 16 14:04:02 +07 2019
+<<<======This is test : 114======>>>
+Mon Sep 16 14:04:02 +07 2019
+<<<======This is test : 115======>>>
+Mon Sep 16 14:04:02 +07 2019
+<<<======This is test : 116======>>>
+Mon Sep 16 14:04:02 +07 2019
+<<<======This is test : 117======>>>
+Mon Sep 16 14:04:02 +07 2019
+<<<======This is test : 118======>>>
+Mon Sep 16 14:04:02 +07 2019
+<<<======This is test : 119======>>>
+Mon Sep 16 14:04:02 +07 2019
+<<<======This is test : 120======>>>
+Mon Sep 16 14:04:02 +07 2019
+<<<======This is test : 121======>>>
+Mon Sep 16 14:04:02 +07 2019
+<<<======This is test : 122======>>>
+Mon Sep 16 14:04:02 +07 2019
+<<<======This is test : 123======>>>
+Mon Sep 16 14:04:02 +07 2019
+<<<======This is test : 124======>>>
+Mon Sep 16 14:04:02 +07 2019
+<<<======This is test : 125======>>>
+Mon Sep 16 14:04:02 +07 2019
+<<<======This is test : 126======>>>
+Mon Sep 16 14:04:02 +07 2019
+<<<======This is test : 127======>>>
+Mon Sep 16 14:04:02 +07 2019
+<<<======This is test : 128======>>>
+Mon Sep 16 14:04:02 +07 2019
+<<<======This is test : 129======>>>
+Mon Sep 16 14:04:02 +07 2019
+<<<======This is test : 130======>>>
+Mon Sep 16 14:04:02 +07 2019
+<<<======This is test : 131======>>>
+Mon Sep 16 14:04:02 +07 2019
+<<<======This is test : 132======>>>
+Mon Sep 16 14:04:02 +07 2019
+<<<======This is test : 133======>>>
+Mon Sep 16 14:04:02 +07 2019
+<<<======This is test : 134======>>>
+Mon Sep 16 14:04:02 +07 2019
+<<<======This is test : 135======>>>
+Mon Sep 16 14:04:02 +07 2019
+<<<======This is test : 136======>>>
+Mon Sep 16 14:04:02 +07 2019
+<<<======This is test : 137======>>>
+Mon Sep 16 14:04:02 +07 2019
+<<<======This is test : 138======>>>
+Mon Sep 16 14:04:02 +07 2019
+<<<======This is test : 139======>>>
+Mon Sep 16 14:04:02 +07 2019
+<<<======This is test : 140======>>>
+Mon Sep 16 14:04:02 +07 2019
+<<<======This is test : 141======>>>
+Mon Sep 16 14:04:02 +07 2019
+<<<======This is test : 142======>>>
+Mon Sep 16 14:04:02 +07 2019
+<<<======This is test : 143======>>>
+Mon Sep 16 14:04:02 +07 2019
+<<<======This is test : 144======>>>
+Mon Sep 16 14:04:02 +07 2019
+<<<======This is test : 145======>>>
+Mon Sep 16 14:04:02 +07 2019
+<<<======This is test : 146======>>>
+Mon Sep 16 14:04:02 +07 2019
+<<<======This is test : 147======>>>
+Mon Sep 16 14:04:02 +07 2019
+<<<======This is test : 148======>>>
+Mon Sep 16 14:04:02 +07 2019
+<<<======This is test : 149======>>>
+Mon Sep 16 14:04:02 +07 2019
+<<<======This is test : 150======>>>
+Mon Sep 16 14:04:02 +07 2019
+<<<======This is test : 151======>>>
+Mon Sep 16 14:04:02 +07 2019
+<<<======This is test : 152======>>>
+Mon Sep 16 14:04:02 +07 2019
+<<<======This is test : 153======>>>
+Mon Sep 16 14:04:02 +07 2019
+<<<======This is test : 154======>>>
+Mon Sep 16 14:04:02 +07 2019
+<<<======This is test : 155======>>>
+Mon Sep 16 14:04:03 +07 2019
+<<<======This is test : 156======>>>
+Mon Sep 16 14:04:03 +07 2019
+<<<======This is test : 157======>>>
+Mon Sep 16 14:04:03 +07 2019
+<<<======This is test : 158======>>>
+Mon Sep 16 14:04:03 +07 2019
+<<<======This is test : 159======>>>
+Mon Sep 16 14:04:03 +07 2019
+<<<======This is test : 160======>>>
+Mon Sep 16 14:04:03 +07 2019
+<<<======This is test : 161======>>>
+Mon Sep 16 14:04:03 +07 2019
+<<<======This is test : 162======>>>
+Mon Sep 16 14:04:03 +07 2019
+<<<======This is test : 163======>>>
+Mon Sep 16 14:04:03 +07 2019
+<<<======This is test : 164======>>>
+Mon Sep 16 14:04:03 +07 2019
+<<<======This is test : 165======>>>
+Mon Sep 16 14:04:03 +07 2019
+<<<======This is test : 166======>>>
+Mon Sep 16 14:04:03 +07 2019
+<<<======This is test : 167======>>>
+Mon Sep 16 14:04:03 +07 2019
+<<<======This is test : 168======>>>
+Mon Sep 16 14:04:03 +07 2019
+<<<======This is test : 169======>>>
+Mon Sep 16 14:04:03 +07 2019
+<<<======This is test : 170======>>>
+Mon Sep 16 14:04:03 +07 2019
+<<<======This is test : 171======>>>
+Mon Sep 16 14:04:03 +07 2019
+<<<======This is test : 172======>>>
+Mon Sep 16 14:04:03 +07 2019
+<<<======This is test : 173======>>>
+Mon Sep 16 14:04:03 +07 2019
+<<<======This is test : 174======>>>
+Mon Sep 16 14:04:03 +07 2019
+<<<======This is test : 175======>>>
+Mon Sep 16 14:04:03 +07 2019
+<<<======This is test : 176======>>>
+Mon Sep 16 14:04:03 +07 2019
+<<<======This is test : 177======>>>
+Mon Sep 16 14:04:03 +07 2019
+<<<======This is test : 178======>>>
+Mon Sep 16 14:04:03 +07 2019
+<<<======This is test : 179======>>>
+Mon Sep 16 14:04:03 +07 2019
+<<<======This is test : 180======>>>
+Mon Sep 16 14:04:03 +07 2019
+<<<======This is test : 181======>>>
+Mon Sep 16 14:04:03 +07 2019
+<<<======This is test : 182======>>>
+Mon Sep 16 14:04:03 +07 2019
+<<<======This is test : 183======>>>
+Mon Sep 16 14:04:03 +07 2019
+<<<======This is test : 184======>>>
+Mon Sep 16 14:04:03 +07 2019
+<<<======This is test : 185======>>>
+Mon Sep 16 14:04:03 +07 2019
+<<<======This is test : 186======>>>
+Mon Sep 16 14:04:03 +07 2019
+<<<======This is test : 187======>>>
+Mon Sep 16 14:04:03 +07 2019
+<<<======This is test : 188======>>>
+Mon Sep 16 14:04:03 +07 2019
+<<<======This is test : 189======>>>
+Mon Sep 16 14:04:03 +07 2019
+<<<======This is test : 190======>>>
+Mon Sep 16 14:04:03 +07 2019
+<<<======This is test : 191======>>>
+Mon Sep 16 14:04:03 +07 2019
+<<<======This is test : 192======>>>
+Mon Sep 16 14:04:03 +07 2019
+<<<======This is test : 193======>>>
+Mon Sep 16 14:04:03 +07 2019
+<<<======This is test : 194======>>>
+Mon Sep 16 14:04:03 +07 2019
+<<<======This is test : 195======>>>
+Mon Sep 16 14:04:03 +07 2019
+<<<======This is test : 196======>>>
+Mon Sep 16 14:04:04 +07 2019
+<<<======This is test : 197======>>>
+Mon Sep 16 14:04:04 +07 2019
+<<<======This is test : 198======>>>
+Mon Sep 16 14:04:04 +07 2019
+<<<======This is test : 199======>>>
+Mon Sep 16 14:04:04 +07 2019
+<<<======This is test : 200======>>>
+Mon Sep 16 14:04:04 +07 2019
+<<<======This is test : 201======>>>
+Mon Sep 16 14:04:04 +07 2019
+<<<======This is test : 202======>>>
+Mon Sep 16 14:04:04 +07 2019
+<<<======This is test : 203======>>>
+Mon Sep 16 14:04:04 +07 2019
+<<<======This is test : 204======>>>
+Mon Sep 16 14:04:04 +07 2019
+<<<======This is test : 205======>>>
+Mon Sep 16 14:04:04 +07 2019
+<<<======This is test : 206======>>>
+Mon Sep 16 14:04:04 +07 2019
+<<<======This is test : 207======>>>
+Mon Sep 16 14:04:04 +07 2019
+<<<======This is test : 208======>>>
+Mon Sep 16 14:04:04 +07 2019
+<<<======This is test : 209======>>>
+Mon Sep 16 14:04:04 +07 2019
+<<<======This is test : 210======>>>
+Mon Sep 16 14:04:04 +07 2019
+<<<======This is test : 211======>>>
+Mon Sep 16 14:04:04 +07 2019
+<<<======This is test : 212======>>>
+Mon Sep 16 14:04:04 +07 2019
+<<<======This is test : 213======>>>
+Mon Sep 16 14:04:04 +07 2019
+<<<======This is test : 214======>>>
+Mon Sep 16 14:04:04 +07 2019
+<<<======This is test : 215======>>>
+Mon Sep 16 14:04:04 +07 2019
+<<<======This is test : 216======>>>
+Mon Sep 16 14:04:04 +07 2019
+<<<======This is test : 217======>>>
+Mon Sep 16 14:04:04 +07 2019
+<<<======This is test : 218======>>>
+Mon Sep 16 14:04:04 +07 2019
+<<<======This is test : 219======>>>
+Mon Sep 16 14:04:04 +07 2019
+<<<======This is test : 220======>>>
+Mon Sep 16 14:04:04 +07 2019
+<<<======This is test : 221======>>>
+Mon Sep 16 14:04:04 +07 2019
+<<<======This is test : 222======>>>
+Mon Sep 16 14:04:04 +07 2019
+<<<======This is test : 223======>>>
+Mon Sep 16 14:04:04 +07 2019
+<<<======This is test : 224======>>>
+Mon Sep 16 14:04:04 +07 2019
+<<<======This is test : 225======>>>
+Mon Sep 16 14:04:04 +07 2019
+<<<======This is test : 226======>>>
+Mon Sep 16 14:04:04 +07 2019
+<<<======This is test : 227======>>>
+Mon Sep 16 14:04:04 +07 2019
+<<<======This is test : 228======>>>
+Mon Sep 16 14:04:04 +07 2019
+<<<======This is test : 229======>>>
+Mon Sep 16 14:04:04 +07 2019
+<<<======This is test : 230======>>>
+Mon Sep 16 14:04:04 +07 2019
+<<<======This is test : 231======>>>
+Mon Sep 16 14:04:04 +07 2019
+<<<======This is test : 232======>>>
+Mon Sep 16 14:04:04 +07 2019
+<<<======This is test : 233======>>>
+Mon Sep 16 14:04:04 +07 2019
+<<<======This is test : 234======>>>
+Mon Sep 16 14:04:04 +07 2019
+<<<======This is test : 235======>>>
+Mon Sep 16 14:04:04 +07 2019
+<<<======This is test : 236======>>>
+Mon Sep 16 14:04:04 +07 2019
+<<<======This is test : 237======>>>
+Mon Sep 16 14:04:04 +07 2019
+<<<======This is test : 238======>>>
+Mon Sep 16 14:04:05 +07 2019
+<<<======This is test : 239======>>>
+Mon Sep 16 14:04:05 +07 2019
+<<<======This is test : 240======>>>
+Mon Sep 16 14:04:05 +07 2019
+<<<======This is test : 241======>>>
+Mon Sep 16 14:04:05 +07 2019
+<<<======This is test : 242======>>>
+Mon Sep 16 14:04:05 +07 2019
+<<<======This is test : 243======>>>
+Mon Sep 16 14:04:05 +07 2019
+<<<======This is test : 244======>>>
+Mon Sep 16 14:04:05 +07 2019
+<<<======This is test : 245======>>>
+Mon Sep 16 14:04:05 +07 2019
+<<<======This is test : 246======>>>
+Mon Sep 16 14:04:05 +07 2019
+<<<======This is test : 247======>>>
+Mon Sep 16 14:04:05 +07 2019
+<<<======This is test : 248======>>>
+Mon Sep 16 14:04:05 +07 2019
+<<<======This is test : 249======>>>
+Mon Sep 16 14:04:05 +07 2019
+<<<======This is test : 250======>>>
+Mon Sep 16 14:04:05 +07 2019
+<<<======This is test : 251======>>>
+Mon Sep 16 14:04:05 +07 2019
+<<<======This is test : 252======>>>
+Mon Sep 16 14:04:05 +07 2019
+<<<======This is test : 253======>>>
+Mon Sep 16 14:04:05 +07 2019
+<<<======This is test : 254======>>>
+Mon Sep 16 14:04:05 +07 2019
+<<<======This is test : 255======>>>
+Mon Sep 16 14:04:05 +07 2019
+<<<======This is test : 256======>>>
+Mon Sep 16 14:04:05 +07 2019
+<<<======This is test : 257======>>>
+Mon Sep 16 14:04:05 +07 2019
+<<<======This is test : 258======>>>
+Mon Sep 16 14:04:05 +07 2019
+<<<======This is test : 259======>>>
+Mon Sep 16 14:04:05 +07 2019
+<<<======This is test : 260======>>>
+Mon Sep 16 14:04:05 +07 2019
+<<<======This is test : 261======>>>
+Mon Sep 16 14:04:05 +07 2019
+<<<======This is test : 262======>>>
+Mon Sep 16 14:04:05 +07 2019
+<<<======This is test : 263======>>>
+Mon Sep 16 14:04:05 +07 2019
+<<<======This is test : 264======>>>
+Mon Sep 16 14:04:05 +07 2019
+<<<======This is test : 265======>>>
+Mon Sep 16 14:04:05 +07 2019
+<<<======This is test : 266======>>>
+Mon Sep 16 14:04:05 +07 2019
+<<<======This is test : 267======>>>
+Mon Sep 16 14:04:05 +07 2019
+<<<======This is test : 268======>>>
+Mon Sep 16 14:04:05 +07 2019
+<<<======This is test : 269======>>>
+Mon Sep 16 14:04:05 +07 2019
+<<<======This is test : 270======>>>
+Mon Sep 16 14:04:05 +07 2019
+<<<======This is test : 271======>>>
+Mon Sep 16 14:04:05 +07 2019
+<<<======This is test : 272======>>>
+Mon Sep 16 14:04:05 +07 2019
+<<<======This is test : 273======>>>
+Mon Sep 16 14:04:05 +07 2019
+<<<======This is test : 274======>>>
+Mon Sep 16 14:04:05 +07 2019
+<<<======This is test : 275======>>>
+Mon Sep 16 14:04:05 +07 2019
+<<<======This is test : 276======>>>
+Mon Sep 16 14:04:05 +07 2019
+<<<======This is test : 277======>>>
+Mon Sep 16 14:04:05 +07 2019
+<<<======This is test : 278======>>>
+Mon Sep 16 14:04:05 +07 2019
+<<<======This is test : 279======>>>
+Mon Sep 16 14:04:05 +07 2019
+<<<======This is test : 280======>>>
+Mon Sep 16 14:04:06 +07 2019
+<<<======This is test : 281======>>>
+Mon Sep 16 14:04:06 +07 2019
+<<<======This is test : 282======>>>
+Mon Sep 16 14:04:06 +07 2019
+<<<======This is test : 283======>>>
+Mon Sep 16 14:04:06 +07 2019
+<<<======This is test : 284======>>>
+Mon Sep 16 14:04:06 +07 2019
+<<<======This is test : 285======>>>
+Mon Sep 16 14:04:06 +07 2019
+<<<======This is test : 286======>>>
+Mon Sep 16 14:04:06 +07 2019
+<<<======This is test : 287======>>>
+Mon Sep 16 14:04:06 +07 2019
+<<<======This is test : 288======>>>
+Mon Sep 16 14:04:06 +07 2019
+<<<======This is test : 289======>>>
+Mon Sep 16 14:04:06 +07 2019
+<<<======This is test : 290======>>>
+Mon Sep 16 14:04:06 +07 2019
+<<<======This is test : 291======>>>
+Mon Sep 16 14:04:06 +07 2019
+<<<======This is test : 292======>>>
+Mon Sep 16 14:04:06 +07 2019
+<<<======This is test : 293======>>>
+Mon Sep 16 14:04:06 +07 2019
+<<<======This is test : 294======>>>
+Mon Sep 16 14:04:06 +07 2019
+<<<======This is test : 295======>>>
+Mon Sep 16 14:04:06 +07 2019
+<<<======This is test : 296======>>>
+Mon Sep 16 14:04:06 +07 2019
+<<<======This is test : 297======>>>
+Mon Sep 16 14:04:06 +07 2019
+<<<======This is test : 298======>>>
+Mon Sep 16 14:04:06 +07 2019
+<<<======This is test : 299======>>>
+Mon Sep 16 14:04:06 +07 2019
+<<<======This is test : 300======>>>
+Mon Sep 16 14:04:06 +07 2019
+<<<======This is test : 301======>>>
+Mon Sep 16 14:04:06 +07 2019
+<<<======This is test : 302======>>>
+Mon Sep 16 14:04:06 +07 2019
+<<<======This is test : 303======>>>
+Mon Sep 16 14:04:06 +07 2019
+<<<======This is test : 304======>>>
+Mon Sep 16 14:04:06 +07 2019
+<<<======This is test : 305======>>>
+Mon Sep 16 14:04:06 +07 2019
+<<<======This is test : 306======>>>
+Mon Sep 16 14:04:06 +07 2019
+<<<======This is test : 307======>>>
+Mon Sep 16 14:04:06 +07 2019
+<<<======This is test : 308======>>>
+Mon Sep 16 14:04:06 +07 2019
+<<<======This is test : 309======>>>
+Mon Sep 16 14:04:06 +07 2019
+<<<======This is test : 310======>>>
+Mon Sep 16 14:04:06 +07 2019
+<<<======This is test : 311======>>>
+Mon Sep 16 14:04:06 +07 2019
+<<<======This is test : 312======>>>
+Mon Sep 16 14:04:06 +07 2019
+<<<======This is test : 313======>>>
+Mon Sep 16 14:04:06 +07 2019
+<<<======This is test : 314======>>>
+Mon Sep 16 14:04:06 +07 2019
+<<<======This is test : 315======>>>
+Mon Sep 16 14:04:06 +07 2019
+<<<======This is test : 316======>>>
+Mon Sep 16 14:04:06 +07 2019
+<<<======This is test : 317======>>>
+Mon Sep 16 14:04:06 +07 2019
+<<<======This is test : 318======>>>
+Mon Sep 16 14:04:06 +07 2019
+<<<======This is test : 319======>>>
+Mon Sep 16 14:04:06 +07 2019
+<<<======This is test : 320======>>>
+Mon Sep 16 14:04:06 +07 2019
+<<<======This is test : 321======>>>
+Mon Sep 16 14:04:06 +07 2019
+<<<======This is test : 322======>>>
+Mon Sep 16 14:04:07 +07 2019
+<<<======This is test : 323======>>>
+Mon Sep 16 14:04:07 +07 2019
+<<<======This is test : 324======>>>
+Mon Sep 16 14:04:07 +07 2019
+<<<======This is test : 325======>>>
+Mon Sep 16 14:04:07 +07 2019
+<<<======This is test : 326======>>>
+Mon Sep 16 14:04:07 +07 2019
+<<<======This is test : 327======>>>
+Mon Sep 16 14:04:07 +07 2019
+<<<======This is test : 328======>>>
+Mon Sep 16 14:04:07 +07 2019
+<<<======This is test : 329======>>>
+Mon Sep 16 14:04:07 +07 2019
+<<<======This is test : 330======>>>
+Mon Sep 16 14:04:07 +07 2019
+<<<======This is test : 331======>>>
+Mon Sep 16 14:04:07 +07 2019
+<<<======This is test : 332======>>>
+Mon Sep 16 14:04:07 +07 2019
+<<<======This is test : 333======>>>
+Mon Sep 16 14:04:07 +07 2019
+<<<======This is test : 334======>>>
+Mon Sep 16 14:04:07 +07 2019
+<<<======This is test : 335======>>>
+Mon Sep 16 14:04:07 +07 2019
+<<<======This is test : 336======>>>
+Mon Sep 16 14:04:07 +07 2019
+<<<======This is test : 337======>>>
+Mon Sep 16 14:04:07 +07 2019
+<<<======This is test : 338======>>>
+Mon Sep 16 14:04:07 +07 2019
+<<<======This is test : 339======>>>
+Mon Sep 16 14:04:07 +07 2019
+<<<======This is test : 340======>>>
+Mon Sep 16 14:04:07 +07 2019
+<<<======This is test : 341======>>>
+Mon Sep 16 14:04:07 +07 2019
+<<<======This is test : 342======>>>
+Mon Sep 16 14:04:07 +07 2019
+<<<======This is test : 343======>>>
+Mon Sep 16 14:04:07 +07 2019
+<<<======This is test : 344======>>>
+Mon Sep 16 14:04:07 +07 2019
+<<<======This is test : 345======>>>
+Mon Sep 16 14:04:07 +07 2019
+<<<======This is test : 346======>>>
+Mon Sep 16 14:04:07 +07 2019
+<<<======This is test : 347======>>>
+Mon Sep 16 14:04:07 +07 2019
+<<<======This is test : 348======>>>
+Mon Sep 16 14:04:07 +07 2019
+<<<======This is test : 349======>>>
+Mon Sep 16 14:04:07 +07 2019
+<<<======This is test : 350======>>>
+Mon Sep 16 14:04:07 +07 2019
+<<<======This is test : 351======>>>
+Mon Sep 16 14:04:07 +07 2019
+<<<======This is test : 352======>>>
+Mon Sep 16 14:04:07 +07 2019
+<<<======This is test : 353======>>>
+Mon Sep 16 14:04:07 +07 2019
+<<<======This is test : 354======>>>
+Mon Sep 16 14:04:07 +07 2019
+<<<======This is test : 355======>>>
+Mon Sep 16 14:04:07 +07 2019
+<<<======This is test : 356======>>>
+Mon Sep 16 14:04:07 +07 2019
+<<<======This is test : 357======>>>
+Mon Sep 16 14:04:07 +07 2019
+<<<======This is test : 358======>>>
+Mon Sep 16 14:04:07 +07 2019
+<<<======This is test : 359======>>>
+Mon Sep 16 14:04:07 +07 2019
+<<<======This is test : 360======>>>
+Mon Sep 16 14:04:07 +07 2019
+<<<======This is test : 361======>>>
+Mon Sep 16 14:04:07 +07 2019
+<<<======This is test : 362======>>>
+Mon Sep 16 14:04:07 +07 2019
+<<<======This is test : 363======>>>
+Mon Sep 16 14:04:07 +07 2019
+<<<======This is test : 364======>>>
+Mon Sep 16 14:04:07 +07 2019
+<<<======This is test : 365======>>>
+Mon Sep 16 14:04:08 +07 2019
+<<<======This is test : 366======>>>
+Mon Sep 16 14:04:08 +07 2019
+<<<======This is test : 367======>>>
+Mon Sep 16 14:04:08 +07 2019
+<<<======This is test : 368======>>>
+Mon Sep 16 14:04:08 +07 2019
+<<<======This is test : 369======>>>
+Mon Sep 16 14:04:08 +07 2019
+<<<======This is test : 370======>>>
+Mon Sep 16 14:04:08 +07 2019
+<<<======This is test : 371======>>>
+Mon Sep 16 14:04:08 +07 2019
+<<<======This is test : 372======>>>
+Mon Sep 16 14:04:08 +07 2019
+<<<======This is test : 373======>>>
+Mon Sep 16 14:04:08 +07 2019
+<<<======This is test : 374======>>>
+Mon Sep 16 14:04:08 +07 2019
+<<<======This is test : 375======>>>
+Mon Sep 16 14:04:08 +07 2019
+<<<======This is test : 376======>>>
+Mon Sep 16 14:04:08 +07 2019
+<<<======This is test : 377======>>>
+Mon Sep 16 14:04:08 +07 2019
+<<<======This is test : 378======>>>
+Mon Sep 16 14:04:08 +07 2019
+<<<======This is test : 379======>>>
+Mon Sep 16 14:04:08 +07 2019
+<<<======This is test : 380======>>>
+Mon Sep 16 14:04:08 +07 2019
+<<<======This is test : 381======>>>
+Mon Sep 16 14:04:08 +07 2019
+<<<======This is test : 382======>>>
+Mon Sep 16 14:04:08 +07 2019
+<<<======This is test : 383======>>>
+Mon Sep 16 14:04:08 +07 2019
+<<<======This is test : 384======>>>
+Mon Sep 16 14:04:08 +07 2019
+<<<======This is test : 385======>>>
+Mon Sep 16 14:04:08 +07 2019
+<<<======This is test : 386======>>>
+Mon Sep 16 14:04:08 +07 2019
+<<<======This is test : 387======>>>
+Mon Sep 16 14:04:08 +07 2019
+<<<======This is test : 388======>>>
+Mon Sep 16 14:04:08 +07 2019
+<<<======This is test : 389======>>>
+Mon Sep 16 14:04:08 +07 2019
+<<<======This is test : 390======>>>
+Mon Sep 16 14:04:08 +07 2019
+<<<======This is test : 391======>>>
+Mon Sep 16 14:04:08 +07 2019
+<<<======This is test : 392======>>>
+Mon Sep 16 14:04:08 +07 2019
+<<<======This is test : 393======>>>
+Mon Sep 16 14:04:08 +07 2019
+<<<======This is test : 394======>>>
+Mon Sep 16 14:04:08 +07 2019
+<<<======This is test : 395======>>>
+Mon Sep 16 14:04:08 +07 2019
+<<<======This is test : 396======>>>
+Mon Sep 16 14:04:08 +07 2019
+<<<======This is test : 397======>>>
+Mon Sep 16 14:04:08 +07 2019
+<<<======This is test : 398======>>>
+Mon Sep 16 14:04:08 +07 2019
+<<<======This is test : 399======>>>
+Mon Sep 16 14:04:08 +07 2019
+<<<======This is test : 400======>>>
+Mon Sep 16 14:04:08 +07 2019
+<<<======This is test : 401======>>>
+Mon Sep 16 14:04:08 +07 2019
+<<<======This is test : 402======>>>
+Mon Sep 16 14:04:08 +07 2019
+<<<======This is test : 403======>>>
+Mon Sep 16 14:04:08 +07 2019
+<<<======This is test : 404======>>>
+Mon Sep 16 14:04:08 +07 2019
+<<<======This is test : 405======>>>
+Mon Sep 16 14:04:08 +07 2019
+<<<======This is test : 406======>>>
+Mon Sep 16 14:04:09 +07 2019
+<<<======This is test : 407======>>>
+Mon Sep 16 14:04:09 +07 2019
+<<<======This is test : 408======>>>
+Mon Sep 16 14:04:09 +07 2019
+<<<======This is test : 409======>>>
+Mon Sep 16 14:04:09 +07 2019
+<<<======This is test : 410======>>>
+Mon Sep 16 14:04:09 +07 2019
+<<<======This is test : 411======>>>
+Mon Sep 16 14:04:09 +07 2019
+<<<======This is test : 412======>>>
+Mon Sep 16 14:04:09 +07 2019
+<<<======This is test : 413======>>>
+Mon Sep 16 14:04:09 +07 2019
+<<<======This is test : 414======>>>
+Mon Sep 16 14:04:09 +07 2019
+<<<======This is test : 415======>>>
+Mon Sep 16 14:04:09 +07 2019
+<<<======This is test : 416======>>>
+Mon Sep 16 14:04:09 +07 2019
+<<<======This is test : 417======>>>
+Mon Sep 16 14:04:09 +07 2019
+<<<======This is test : 418======>>>
+Mon Sep 16 14:04:09 +07 2019
+<<<======This is test : 419======>>>
+Mon Sep 16 14:04:09 +07 2019
+<<<======This is test : 420======>>>
+Mon Sep 16 14:04:09 +07 2019
+<<<======This is test : 421======>>>
+Mon Sep 16 14:04:09 +07 2019
+<<<======This is test : 422======>>>
+Mon Sep 16 14:04:09 +07 2019
+<<<======This is test : 423======>>>
+Mon Sep 16 14:04:09 +07 2019
+<<<======This is test : 424======>>>
+Mon Sep 16 14:04:09 +07 2019
+<<<======This is test : 425======>>>
+Mon Sep 16 14:04:09 +07 2019
+<<<======This is test : 426======>>>
+Mon Sep 16 14:04:09 +07 2019
+<<<======This is test : 427======>>>
+Mon Sep 16 14:04:09 +07 2019
+<<<======This is test : 428======>>>
+Mon Sep 16 14:04:09 +07 2019
+<<<======This is test : 429======>>>
+Mon Sep 16 14:04:09 +07 2019
+<<<======This is test : 430======>>>
+Mon Sep 16 14:04:09 +07 2019
+<<<======This is test : 431======>>>
+Mon Sep 16 14:04:09 +07 2019
+<<<======This is test : 432======>>>
+Mon Sep 16 14:04:09 +07 2019
+<<<======This is test : 433======>>>
+Mon Sep 16 14:04:09 +07 2019
+<<<======This is test : 434======>>>
+Mon Sep 16 14:04:09 +07 2019
+<<<======This is test : 435======>>>
+Mon Sep 16 14:04:09 +07 2019
+<<<======This is test : 436======>>>
+Mon Sep 16 14:04:09 +07 2019
+<<<======This is test : 437======>>>
+Mon Sep 16 14:04:09 +07 2019
+<<<======This is test : 438======>>>
+Mon Sep 16 14:04:09 +07 2019
+<<<======This is test : 439======>>>
+Mon Sep 16 14:04:09 +07 2019
+<<<======This is test : 440======>>>
+Mon Sep 16 14:04:09 +07 2019
+<<<======This is test : 441======>>>
+Mon Sep 16 14:04:09 +07 2019
+<<<======This is test : 442======>>>
+Mon Sep 16 14:04:09 +07 2019
+<<<======This is test : 443======>>>
+Mon Sep 16 14:04:09 +07 2019
+<<<======This is test : 444======>>>
+Mon Sep 16 14:04:09 +07 2019
+<<<======This is test : 445======>>>
+Mon Sep 16 14:04:09 +07 2019
+<<<======This is test : 446======>>>
+Mon Sep 16 14:04:09 +07 2019
+<<<======This is test : 447======>>>
+Mon Sep 16 14:04:09 +07 2019
+<<<======This is test : 448======>>>
+Mon Sep 16 14:04:10 +07 2019
+<<<======This is test : 449======>>>
+Mon Sep 16 14:04:10 +07 2019
+<<<======This is test : 450======>>>
+Mon Sep 16 14:04:10 +07 2019
+<<<======This is test : 451======>>>
+Mon Sep 16 14:04:10 +07 2019
+<<<======This is test : 452======>>>
+Mon Sep 16 14:04:10 +07 2019
+<<<======This is test : 453======>>>
+Mon Sep 16 14:04:10 +07 2019
+<<<======This is test : 454======>>>
+Mon Sep 16 14:04:10 +07 2019
+<<<======This is test : 455======>>>
+Mon Sep 16 14:04:10 +07 2019
+<<<======This is test : 456======>>>
+Mon Sep 16 14:04:10 +07 2019
+<<<======This is test : 457======>>>
+Mon Sep 16 14:04:10 +07 2019
+<<<======This is test : 458======>>>
+Mon Sep 16 14:04:10 +07 2019
+<<<======This is test : 459======>>>
+Mon Sep 16 14:04:10 +07 2019
+<<<======This is test : 460======>>>
+Mon Sep 16 14:04:10 +07 2019
+<<<======This is test : 461======>>>
+Mon Sep 16 14:04:10 +07 2019
+<<<======This is test : 462======>>>
+Mon Sep 16 14:04:10 +07 2019
+<<<======This is test : 463======>>>
+Mon Sep 16 14:04:10 +07 2019
+<<<======This is test : 464======>>>
+Mon Sep 16 14:04:10 +07 2019
+<<<======This is test : 465======>>>
+Mon Sep 16 14:04:10 +07 2019
+<<<======This is test : 466======>>>
+Mon Sep 16 14:04:10 +07 2019
+<<<======This is test : 467======>>>
+Mon Sep 16 14:04:10 +07 2019
+<<<======This is test : 468======>>>
+Mon Sep 16 14:04:10 +07 2019
+<<<======This is test : 469======>>>
+Mon Sep 16 14:04:10 +07 2019
+<<<======This is test : 470======>>>
+Mon Sep 16 14:04:10 +07 2019
+<<<======This is test : 471======>>>
+Mon Sep 16 14:04:10 +07 2019
+<<<======This is test : 472======>>>
+Mon Sep 16 14:04:10 +07 2019
+<<<======This is test : 473======>>>
+Mon Sep 16 14:04:10 +07 2019
+<<<======This is test : 474======>>>
+Mon Sep 16 14:04:10 +07 2019
+<<<======This is test : 475======>>>
+Mon Sep 16 14:04:10 +07 2019
+<<<======This is test : 476======>>>
+Mon Sep 16 14:04:10 +07 2019
+<<<======This is test : 477======>>>
+Mon Sep 16 14:04:10 +07 2019
+<<<======This is test : 478======>>>
+Mon Sep 16 14:04:10 +07 2019
+<<<======This is test : 479======>>>
+Mon Sep 16 14:04:10 +07 2019
+<<<======This is test : 480======>>>
+Mon Sep 16 14:04:10 +07 2019
+<<<======This is test : 481======>>>
+Mon Sep 16 14:04:10 +07 2019
+<<<======This is test : 482======>>>
+Mon Sep 16 14:04:10 +07 2019
+<<<======This is test : 483======>>>
+Mon Sep 16 14:04:10 +07 2019
+<<<======This is test : 484======>>>
+Mon Sep 16 14:04:10 +07 2019
+<<<======This is test : 485======>>>
+Mon Sep 16 14:04:10 +07 2019
+<<<======This is test : 486======>>>
+Mon Sep 16 14:04:10 +07 2019
+<<<======This is test : 487======>>>
+Mon Sep 16 14:04:10 +07 2019
+<<<======This is test : 488======>>>
+Mon Sep 16 14:04:10 +07 2019
+<<<======This is test : 489======>>>
+Mon Sep 16 14:04:10 +07 2019
+<<<======This is test : 490======>>>
+Mon Sep 16 14:04:11 +07 2019
+<<<======This is test : 491======>>>
+Mon Sep 16 14:04:11 +07 2019
+<<<======This is test : 492======>>>
+Mon Sep 16 14:04:11 +07 2019
+<<<======This is test : 493======>>>
+Mon Sep 16 14:04:11 +07 2019
+<<<======This is test : 494======>>>
+Mon Sep 16 14:04:11 +07 2019
+<<<======This is test : 495======>>>
+Mon Sep 16 14:04:11 +07 2019
+<<<======This is test : 496======>>>
+Mon Sep 16 14:04:11 +07 2019
+<<<======This is test : 497======>>>
+Mon Sep 16 14:04:11 +07 2019
+<<<======This is test : 498======>>>
+Mon Sep 16 14:04:11 +07 2019
+<<<======This is test : 499======>>>
+Mon Sep 16 14:04:11 +07 2019
+<<<======This is test : 500======>>>
+Mon Sep 16 14:04:11 +07 2019
