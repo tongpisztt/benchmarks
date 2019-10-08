@@ -1,0 +1,2450 @@
+<<<======This is test : 1======>>>
+Fri Oct  4 15:16:30 +07 2019
+Intel(R) LINPACK data
+
+Current date/time: Fri Oct  4 08:16:31 2019
+
+CPU frequency:    2.292 GHz
+Number of CPUs: 1
+Number of cores: 4
+Number of threads: 4
+
+Parameters are set to:
+
+Number of tests: 1
+Number of equations to solve (problem size) : 15000
+Leading dimension of array                  : 15000
+Number of trials to run                     : 1    
+Data alignment value (in Kbytes)            : 4    
+
+Maximum memory requested that can be used=1800304096, at the size=15000
+
+=================== Timing linear equation system solver ===================
+
+Size   LDA    Align. Time(s)    GFlops   Residual     Residual(norm) Check
+15000  15000  4      32.167     69.9619  2.383860e-10 3.754620e-02   pass
+
+Performance Summary (GFlops)
+
+Size   LDA    Align.  Average  Maximal
+15000  15000  4       69.9619  69.9619 
+
+Residual checks PASSED
+
+End of tests
+
+<<<======This is test : 2======>>>
+Fri Oct  4 15:17:15 +07 2019
+Intel(R) LINPACK data
+
+Current date/time: Fri Oct  4 08:17:16 2019
+
+CPU frequency:    2.288 GHz
+Number of CPUs: 1
+Number of cores: 4
+Number of threads: 4
+
+Parameters are set to:
+
+Number of tests: 1
+Number of equations to solve (problem size) : 15000
+Leading dimension of array                  : 15000
+Number of trials to run                     : 1    
+Data alignment value (in Kbytes)            : 4    
+
+Maximum memory requested that can be used=1800304096, at the size=15000
+
+=================== Timing linear equation system solver ===================
+
+Size   LDA    Align. Time(s)    GFlops   Residual     Residual(norm) Check
+15000  15000  4      28.715     78.3718  2.383860e-10 3.754620e-02   pass
+
+Performance Summary (GFlops)
+
+Size   LDA    Align.  Average  Maximal
+15000  15000  4       78.3718  78.3718 
+
+Residual checks PASSED
+
+End of tests
+
+<<<======This is test : 3======>>>
+Fri Oct  4 15:17:57 +07 2019
+Intel(R) LINPACK data
+
+Current date/time: Fri Oct  4 08:17:57 2019
+
+CPU frequency:    2.290 GHz
+Number of CPUs: 1
+Number of cores: 4
+Number of threads: 4
+
+Parameters are set to:
+
+Number of tests: 1
+Number of equations to solve (problem size) : 15000
+Leading dimension of array                  : 15000
+Number of trials to run                     : 1    
+Data alignment value (in Kbytes)            : 4    
+
+Maximum memory requested that can be used=1800304096, at the size=15000
+
+=================== Timing linear equation system solver ===================
+
+Size   LDA    Align. Time(s)    GFlops   Residual     Residual(norm) Check
+15000  15000  4      30.344     74.1656  2.383860e-10 3.754620e-02   pass
+
+Performance Summary (GFlops)
+
+Size   LDA    Align.  Average  Maximal
+15000  15000  4       74.1656  74.1656 
+
+Residual checks PASSED
+
+End of tests
+
+<<<======This is test : 4======>>>
+Fri Oct  4 15:18:39 +07 2019
+Intel(R) LINPACK data
+
+Current date/time: Fri Oct  4 08:18:40 2019
+
+CPU frequency:    2.290 GHz
+Number of CPUs: 1
+Number of cores: 4
+Number of threads: 4
+
+Parameters are set to:
+
+Number of tests: 1
+Number of equations to solve (problem size) : 15000
+Leading dimension of array                  : 15000
+Number of trials to run                     : 1    
+Data alignment value (in Kbytes)            : 4    
+
+Maximum memory requested that can be used=1800304096, at the size=15000
+
+=================== Timing linear equation system solver ===================
+
+Size   LDA    Align. Time(s)    GFlops   Residual     Residual(norm) Check
+15000  15000  4      31.131     72.2905  2.383860e-10 3.754620e-02   pass
+
+Performance Summary (GFlops)
+
+Size   LDA    Align.  Average  Maximal
+15000  15000  4       72.2905  72.2905 
+
+Residual checks PASSED
+
+End of tests
+
+<<<======This is test : 5======>>>
+Fri Oct  4 15:19:23 +07 2019
+Intel(R) LINPACK data
+
+Current date/time: Fri Oct  4 08:19:24 2019
+
+CPU frequency:    2.289 GHz
+Number of CPUs: 1
+Number of cores: 4
+Number of threads: 4
+
+Parameters are set to:
+
+Number of tests: 1
+Number of equations to solve (problem size) : 15000
+Leading dimension of array                  : 15000
+Number of trials to run                     : 1    
+Data alignment value (in Kbytes)            : 4    
+
+Maximum memory requested that can be used=1800304096, at the size=15000
+
+=================== Timing linear equation system solver ===================
+
+Size   LDA    Align. Time(s)    GFlops   Residual     Residual(norm) Check
+15000  15000  4      30.417     73.9864  2.383860e-10 3.754620e-02   pass
+
+Performance Summary (GFlops)
+
+Size   LDA    Align.  Average  Maximal
+15000  15000  4       73.9864  73.9864 
+
+Residual checks PASSED
+
+End of tests
+
+<<<======This is test : 6======>>>
+Fri Oct  4 15:20:06 +07 2019
+Intel(R) LINPACK data
+
+Current date/time: Fri Oct  4 08:20:07 2019
+
+CPU frequency:    2.294 GHz
+Number of CPUs: 1
+Number of cores: 4
+Number of threads: 4
+
+Parameters are set to:
+
+Number of tests: 1
+Number of equations to solve (problem size) : 15000
+Leading dimension of array                  : 15000
+Number of trials to run                     : 1    
+Data alignment value (in Kbytes)            : 4    
+
+Maximum memory requested that can be used=1800304096, at the size=15000
+
+=================== Timing linear equation system solver ===================
+
+Size   LDA    Align. Time(s)    GFlops   Residual     Residual(norm) Check
+15000  15000  4      31.056     72.4633  2.383860e-10 3.754620e-02   pass
+
+Performance Summary (GFlops)
+
+Size   LDA    Align.  Average  Maximal
+15000  15000  4       72.4633  72.4633 
+
+Residual checks PASSED
+
+End of tests
+
+<<<======This is test : 7======>>>
+Fri Oct  4 15:20:50 +07 2019
+Intel(R) LINPACK data
+
+Current date/time: Fri Oct  4 08:20:51 2019
+
+CPU frequency:    2.290 GHz
+Number of CPUs: 1
+Number of cores: 4
+Number of threads: 4
+
+Parameters are set to:
+
+Number of tests: 1
+Number of equations to solve (problem size) : 15000
+Leading dimension of array                  : 15000
+Number of trials to run                     : 1    
+Data alignment value (in Kbytes)            : 4    
+
+Maximum memory requested that can be used=1800304096, at the size=15000
+
+=================== Timing linear equation system solver ===================
+
+Size   LDA    Align. Time(s)    GFlops   Residual     Residual(norm) Check
+15000  15000  4      29.878     75.3214  2.383860e-10 3.754620e-02   pass
+
+Performance Summary (GFlops)
+
+Size   LDA    Align.  Average  Maximal
+15000  15000  4       75.3214  75.3214 
+
+Residual checks PASSED
+
+End of tests
+
+<<<======This is test : 8======>>>
+Fri Oct  4 15:21:33 +07 2019
+Intel(R) LINPACK data
+
+Current date/time: Fri Oct  4 08:21:33 2019
+
+CPU frequency:    2.292 GHz
+Number of CPUs: 1
+Number of cores: 4
+Number of threads: 4
+
+Parameters are set to:
+
+Number of tests: 1
+Number of equations to solve (problem size) : 15000
+Leading dimension of array                  : 15000
+Number of trials to run                     : 1    
+Data alignment value (in Kbytes)            : 4    
+
+Maximum memory requested that can be used=1800304096, at the size=15000
+
+=================== Timing linear equation system solver ===================
+
+Size   LDA    Align. Time(s)    GFlops   Residual     Residual(norm) Check
+15000  15000  4      29.996     75.0249  2.383860e-10 3.754620e-02   pass
+
+Performance Summary (GFlops)
+
+Size   LDA    Align.  Average  Maximal
+15000  15000  4       75.0249  75.0249 
+
+Residual checks PASSED
+
+End of tests
+
+<<<======This is test : 9======>>>
+Fri Oct  4 15:22:15 +07 2019
+Intel(R) LINPACK data
+
+Current date/time: Fri Oct  4 08:22:15 2019
+
+CPU frequency:    2.294 GHz
+Number of CPUs: 1
+Number of cores: 4
+Number of threads: 4
+
+Parameters are set to:
+
+Number of tests: 1
+Number of equations to solve (problem size) : 15000
+Leading dimension of array                  : 15000
+Number of trials to run                     : 1    
+Data alignment value (in Kbytes)            : 4    
+
+Maximum memory requested that can be used=1800304096, at the size=15000
+
+=================== Timing linear equation system solver ===================
+
+Size   LDA    Align. Time(s)    GFlops   Residual     Residual(norm) Check
+15000  15000  4      28.452     79.0977  2.383860e-10 3.754620e-02   pass
+
+Performance Summary (GFlops)
+
+Size   LDA    Align.  Average  Maximal
+15000  15000  4       79.0977  79.0977 
+
+Residual checks PASSED
+
+End of tests
+
+<<<======This is test : 10======>>>
+Fri Oct  4 15:22:55 +07 2019
+Intel(R) LINPACK data
+
+Current date/time: Fri Oct  4 08:22:56 2019
+
+CPU frequency:    2.289 GHz
+Number of CPUs: 1
+Number of cores: 4
+Number of threads: 4
+
+Parameters are set to:
+
+Number of tests: 1
+Number of equations to solve (problem size) : 15000
+Leading dimension of array                  : 15000
+Number of trials to run                     : 1    
+Data alignment value (in Kbytes)            : 4    
+
+Maximum memory requested that can be used=1800304096, at the size=15000
+
+=================== Timing linear equation system solver ===================
+
+Size   LDA    Align. Time(s)    GFlops   Residual     Residual(norm) Check
+15000  15000  4      29.038     77.5012  2.383860e-10 3.754620e-02   pass
+
+Performance Summary (GFlops)
+
+Size   LDA    Align.  Average  Maximal
+15000  15000  4       77.5012  77.5012 
+
+Residual checks PASSED
+
+End of tests
+
+<<<======This is test : 11======>>>
+Fri Oct  4 15:23:38 +07 2019
+Intel(R) LINPACK data
+
+Current date/time: Fri Oct  4 08:23:38 2019
+
+CPU frequency:    2.294 GHz
+Number of CPUs: 1
+Number of cores: 4
+Number of threads: 4
+
+Parameters are set to:
+
+Number of tests: 1
+Number of equations to solve (problem size) : 15000
+Leading dimension of array                  : 15000
+Number of trials to run                     : 1    
+Data alignment value (in Kbytes)            : 4    
+
+Maximum memory requested that can be used=1800304096, at the size=15000
+
+=================== Timing linear equation system solver ===================
+
+Size   LDA    Align. Time(s)    GFlops   Residual     Residual(norm) Check
+15000  15000  4      30.090     74.7899  2.383860e-10 3.754620e-02   pass
+
+Performance Summary (GFlops)
+
+Size   LDA    Align.  Average  Maximal
+15000  15000  4       74.7899  74.7899 
+
+Residual checks PASSED
+
+End of tests
+
+<<<======This is test : 12======>>>
+Fri Oct  4 15:24:19 +07 2019
+Intel(R) LINPACK data
+
+Current date/time: Fri Oct  4 08:24:20 2019
+
+CPU frequency:    2.292 GHz
+Number of CPUs: 1
+Number of cores: 4
+Number of threads: 4
+
+Parameters are set to:
+
+Number of tests: 1
+Number of equations to solve (problem size) : 15000
+Leading dimension of array                  : 15000
+Number of trials to run                     : 1    
+Data alignment value (in Kbytes)            : 4    
+
+Maximum memory requested that can be used=1800304096, at the size=15000
+
+=================== Timing linear equation system solver ===================
+
+Size   LDA    Align. Time(s)    GFlops   Residual     Residual(norm) Check
+15000  15000  4      31.386     71.7026  2.383860e-10 3.754620e-02   pass
+
+Performance Summary (GFlops)
+
+Size   LDA    Align.  Average  Maximal
+15000  15000  4       71.7026  71.7026 
+
+Residual checks PASSED
+
+End of tests
+
+<<<======This is test : 13======>>>
+Fri Oct  4 15:25:04 +07 2019
+Intel(R) LINPACK data
+
+Current date/time: Fri Oct  4 08:25:04 2019
+
+CPU frequency:    2.294 GHz
+Number of CPUs: 1
+Number of cores: 4
+Number of threads: 4
+
+Parameters are set to:
+
+Number of tests: 1
+Number of equations to solve (problem size) : 15000
+Leading dimension of array                  : 15000
+Number of trials to run                     : 1    
+Data alignment value (in Kbytes)            : 4    
+
+Maximum memory requested that can be used=1800304096, at the size=15000
+
+=================== Timing linear equation system solver ===================
+
+Size   LDA    Align. Time(s)    GFlops   Residual     Residual(norm) Check
+15000  15000  4      28.920     77.8175  2.383860e-10 3.754620e-02   pass
+
+Performance Summary (GFlops)
+
+Size   LDA    Align.  Average  Maximal
+15000  15000  4       77.8175  77.8175 
+
+Residual checks PASSED
+
+End of tests
+
+<<<======This is test : 14======>>>
+Fri Oct  4 15:25:45 +07 2019
+Intel(R) LINPACK data
+
+Current date/time: Fri Oct  4 08:25:45 2019
+
+CPU frequency:    2.294 GHz
+Number of CPUs: 1
+Number of cores: 4
+Number of threads: 4
+
+Parameters are set to:
+
+Number of tests: 1
+Number of equations to solve (problem size) : 15000
+Leading dimension of array                  : 15000
+Number of trials to run                     : 1    
+Data alignment value (in Kbytes)            : 4    
+
+Maximum memory requested that can be used=1800304096, at the size=15000
+
+=================== Timing linear equation system solver ===================
+
+Size   LDA    Align. Time(s)    GFlops   Residual     Residual(norm) Check
+15000  15000  4      31.835     70.6900  2.383860e-10 3.754620e-02   pass
+
+Performance Summary (GFlops)
+
+Size   LDA    Align.  Average  Maximal
+15000  15000  4       70.6900  70.6900 
+
+Residual checks PASSED
+
+End of tests
+
+<<<======This is test : 15======>>>
+Fri Oct  4 15:26:29 +07 2019
+Intel(R) LINPACK data
+
+Current date/time: Fri Oct  4 08:26:30 2019
+
+CPU frequency:    2.291 GHz
+Number of CPUs: 1
+Number of cores: 4
+Number of threads: 4
+
+Parameters are set to:
+
+Number of tests: 1
+Number of equations to solve (problem size) : 15000
+Leading dimension of array                  : 15000
+Number of trials to run                     : 1    
+Data alignment value (in Kbytes)            : 4    
+
+Maximum memory requested that can be used=1800304096, at the size=15000
+
+=================== Timing linear equation system solver ===================
+
+Size   LDA    Align. Time(s)    GFlops   Residual     Residual(norm) Check
+15000  15000  4      33.346     67.4878  2.383860e-10 3.754620e-02   pass
+
+Performance Summary (GFlops)
+
+Size   LDA    Align.  Average  Maximal
+15000  15000  4       67.4878  67.4878 
+
+Residual checks PASSED
+
+End of tests
+
+<<<======This is test : 16======>>>
+Fri Oct  4 15:27:15 +07 2019
+Intel(R) LINPACK data
+
+Current date/time: Fri Oct  4 08:27:16 2019
+
+CPU frequency:    2.292 GHz
+Number of CPUs: 1
+Number of cores: 4
+Number of threads: 4
+
+Parameters are set to:
+
+Number of tests: 1
+Number of equations to solve (problem size) : 15000
+Leading dimension of array                  : 15000
+Number of trials to run                     : 1    
+Data alignment value (in Kbytes)            : 4    
+
+Maximum memory requested that can be used=1800304096, at the size=15000
+
+=================== Timing linear equation system solver ===================
+
+Size   LDA    Align. Time(s)    GFlops   Residual     Residual(norm) Check
+15000  15000  4      30.347     74.1577  2.383860e-10 3.754620e-02   pass
+
+Performance Summary (GFlops)
+
+Size   LDA    Align.  Average  Maximal
+15000  15000  4       74.1577  74.1577 
+
+Residual checks PASSED
+
+End of tests
+
+<<<======This is test : 17======>>>
+Fri Oct  4 15:27:58 +07 2019
+Intel(R) LINPACK data
+
+Current date/time: Fri Oct  4 08:27:59 2019
+
+CPU frequency:    2.292 GHz
+Number of CPUs: 1
+Number of cores: 4
+Number of threads: 4
+
+Parameters are set to:
+
+Number of tests: 1
+Number of equations to solve (problem size) : 15000
+Leading dimension of array                  : 15000
+Number of trials to run                     : 1    
+Data alignment value (in Kbytes)            : 4    
+
+Maximum memory requested that can be used=1800304096, at the size=15000
+
+=================== Timing linear equation system solver ===================
+
+Size   LDA    Align. Time(s)    GFlops   Residual     Residual(norm) Check
+15000  15000  4      30.142     74.6611  2.383860e-10 3.754620e-02   pass
+
+Performance Summary (GFlops)
+
+Size   LDA    Align.  Average  Maximal
+15000  15000  4       74.6611  74.6611 
+
+Residual checks PASSED
+
+End of tests
+
+<<<======This is test : 18======>>>
+Fri Oct  4 15:28:41 +07 2019
+Intel(R) LINPACK data
+
+Current date/time: Fri Oct  4 08:28:42 2019
+
+CPU frequency:    2.293 GHz
+Number of CPUs: 1
+Number of cores: 4
+Number of threads: 4
+
+Parameters are set to:
+
+Number of tests: 1
+Number of equations to solve (problem size) : 15000
+Leading dimension of array                  : 15000
+Number of trials to run                     : 1    
+Data alignment value (in Kbytes)            : 4    
+
+Maximum memory requested that can be used=1800304096, at the size=15000
+
+=================== Timing linear equation system solver ===================
+
+Size   LDA    Align. Time(s)    GFlops   Residual     Residual(norm) Check
+15000  15000  4      29.376     76.6077  2.383860e-10 3.754620e-02   pass
+
+Performance Summary (GFlops)
+
+Size   LDA    Align.  Average  Maximal
+15000  15000  4       76.6077  76.6077 
+
+Residual checks PASSED
+
+End of tests
+
+<<<======This is test : 19======>>>
+Fri Oct  4 15:29:23 +07 2019
+Intel(R) LINPACK data
+
+Current date/time: Fri Oct  4 08:29:24 2019
+
+CPU frequency:    2.291 GHz
+Number of CPUs: 1
+Number of cores: 4
+Number of threads: 4
+
+Parameters are set to:
+
+Number of tests: 1
+Number of equations to solve (problem size) : 15000
+Leading dimension of array                  : 15000
+Number of trials to run                     : 1    
+Data alignment value (in Kbytes)            : 4    
+
+Maximum memory requested that can be used=1800304096, at the size=15000
+
+=================== Timing linear equation system solver ===================
+
+Size   LDA    Align. Time(s)    GFlops   Residual     Residual(norm) Check
+15000  15000  4      32.478     69.2921  2.383860e-10 3.754620e-02   pass
+
+Performance Summary (GFlops)
+
+Size   LDA    Align.  Average  Maximal
+15000  15000  4       69.2921  69.2921 
+
+Residual checks PASSED
+
+End of tests
+
+<<<======This is test : 20======>>>
+Fri Oct  4 15:30:08 +07 2019
+Intel(R) LINPACK data
+
+Current date/time: Fri Oct  4 08:30:09 2019
+
+CPU frequency:    2.294 GHz
+Number of CPUs: 1
+Number of cores: 4
+Number of threads: 4
+
+Parameters are set to:
+
+Number of tests: 1
+Number of equations to solve (problem size) : 15000
+Leading dimension of array                  : 15000
+Number of trials to run                     : 1    
+Data alignment value (in Kbytes)            : 4    
+
+Maximum memory requested that can be used=1800304096, at the size=15000
+
+=================== Timing linear equation system solver ===================
+
+Size   LDA    Align. Time(s)    GFlops   Residual     Residual(norm) Check
+15000  15000  4      30.549     73.6671  2.383860e-10 3.754620e-02   pass
+
+Performance Summary (GFlops)
+
+Size   LDA    Align.  Average  Maximal
+15000  15000  4       73.6671  73.6671 
+
+Residual checks PASSED
+
+End of tests
+
+<<<======This is test : 21======>>>
+Fri Oct  4 15:30:52 +07 2019
+Intel(R) LINPACK data
+
+Current date/time: Fri Oct  4 08:30:52 2019
+
+CPU frequency:    2.294 GHz
+Number of CPUs: 1
+Number of cores: 4
+Number of threads: 4
+
+Parameters are set to:
+
+Number of tests: 1
+Number of equations to solve (problem size) : 15000
+Leading dimension of array                  : 15000
+Number of trials to run                     : 1    
+Data alignment value (in Kbytes)            : 4    
+
+Maximum memory requested that can be used=1800304096, at the size=15000
+
+=================== Timing linear equation system solver ===================
+
+Size   LDA    Align. Time(s)    GFlops   Residual     Residual(norm) Check
+15000  15000  4      30.652     73.4202  2.383860e-10 3.754620e-02   pass
+
+Performance Summary (GFlops)
+
+Size   LDA    Align.  Average  Maximal
+15000  15000  4       73.4202  73.4202 
+
+Residual checks PASSED
+
+End of tests
+
+<<<======This is test : 22======>>>
+Fri Oct  4 15:31:35 +07 2019
+Intel(R) LINPACK data
+
+Current date/time: Fri Oct  4 08:31:35 2019
+
+CPU frequency:    2.294 GHz
+Number of CPUs: 1
+Number of cores: 4
+Number of threads: 4
+
+Parameters are set to:
+
+Number of tests: 1
+Number of equations to solve (problem size) : 15000
+Leading dimension of array                  : 15000
+Number of trials to run                     : 1    
+Data alignment value (in Kbytes)            : 4    
+
+Maximum memory requested that can be used=1800304096, at the size=15000
+
+=================== Timing linear equation system solver ===================
+
+Size   LDA    Align. Time(s)    GFlops   Residual     Residual(norm) Check
+15000  15000  4      31.034     72.5163  2.383860e-10 3.754620e-02   pass
+
+Performance Summary (GFlops)
+
+Size   LDA    Align.  Average  Maximal
+15000  15000  4       72.5163  72.5163 
+
+Residual checks PASSED
+
+End of tests
+
+<<<======This is test : 23======>>>
+Fri Oct  4 15:32:18 +07 2019
+Intel(R) LINPACK data
+
+Current date/time: Fri Oct  4 08:32:19 2019
+
+CPU frequency:    2.293 GHz
+Number of CPUs: 1
+Number of cores: 4
+Number of threads: 4
+
+Parameters are set to:
+
+Number of tests: 1
+Number of equations to solve (problem size) : 15000
+Leading dimension of array                  : 15000
+Number of trials to run                     : 1    
+Data alignment value (in Kbytes)            : 4    
+
+Maximum memory requested that can be used=1800304096, at the size=15000
+
+=================== Timing linear equation system solver ===================
+
+Size   LDA    Align. Time(s)    GFlops   Residual     Residual(norm) Check
+15000  15000  4      32.531     69.1794  2.383860e-10 3.754620e-02   pass
+
+Performance Summary (GFlops)
+
+Size   LDA    Align.  Average  Maximal
+15000  15000  4       69.1794  69.1794 
+
+Residual checks PASSED
+
+End of tests
+
+<<<======This is test : 24======>>>
+Fri Oct  4 15:33:03 +07 2019
+Intel(R) LINPACK data
+
+Current date/time: Fri Oct  4 08:33:04 2019
+
+CPU frequency:    2.290 GHz
+Number of CPUs: 1
+Number of cores: 4
+Number of threads: 4
+
+Parameters are set to:
+
+Number of tests: 1
+Number of equations to solve (problem size) : 15000
+Leading dimension of array                  : 15000
+Number of trials to run                     : 1    
+Data alignment value (in Kbytes)            : 4    
+
+Maximum memory requested that can be used=1800304096, at the size=15000
+
+=================== Timing linear equation system solver ===================
+
+Size   LDA    Align. Time(s)    GFlops   Residual     Residual(norm) Check
+15000  15000  4      31.554     71.3208  2.383860e-10 3.754620e-02   pass
+
+Performance Summary (GFlops)
+
+Size   LDA    Align.  Average  Maximal
+15000  15000  4       71.3208  71.3208 
+
+Residual checks PASSED
+
+End of tests
+
+<<<======This is test : 25======>>>
+Fri Oct  4 15:33:48 +07 2019
+Intel(R) LINPACK data
+
+Current date/time: Fri Oct  4 08:33:49 2019
+
+CPU frequency:    2.293 GHz
+Number of CPUs: 1
+Number of cores: 4
+Number of threads: 4
+
+Parameters are set to:
+
+Number of tests: 1
+Number of equations to solve (problem size) : 15000
+Leading dimension of array                  : 15000
+Number of trials to run                     : 1    
+Data alignment value (in Kbytes)            : 4    
+
+Maximum memory requested that can be used=1800304096, at the size=15000
+
+=================== Timing linear equation system solver ===================
+
+Size   LDA    Align. Time(s)    GFlops   Residual     Residual(norm) Check
+15000  15000  4      31.195     72.1410  2.383860e-10 3.754620e-02   pass
+
+Performance Summary (GFlops)
+
+Size   LDA    Align.  Average  Maximal
+15000  15000  4       72.1410  72.1410 
+
+Residual checks PASSED
+
+End of tests
+
+<<<======This is test : 26======>>>
+Fri Oct  4 15:34:32 +07 2019
+Intel(R) LINPACK data
+
+Current date/time: Fri Oct  4 08:34:32 2019
+
+CPU frequency:    2.294 GHz
+Number of CPUs: 1
+Number of cores: 4
+Number of threads: 4
+
+Parameters are set to:
+
+Number of tests: 1
+Number of equations to solve (problem size) : 15000
+Leading dimension of array                  : 15000
+Number of trials to run                     : 1    
+Data alignment value (in Kbytes)            : 4    
+
+Maximum memory requested that can be used=1800304096, at the size=15000
+
+=================== Timing linear equation system solver ===================
+
+Size   LDA    Align. Time(s)    GFlops   Residual     Residual(norm) Check
+15000  15000  4      28.518     78.9141  2.383860e-10 3.754620e-02   pass
+
+Performance Summary (GFlops)
+
+Size   LDA    Align.  Average  Maximal
+15000  15000  4       78.9141  78.9141 
+
+Residual checks PASSED
+
+End of tests
+
+<<<======This is test : 27======>>>
+Fri Oct  4 15:35:12 +07 2019
+Intel(R) LINPACK data
+
+Current date/time: Fri Oct  4 08:35:13 2019
+
+CPU frequency:    2.290 GHz
+Number of CPUs: 1
+Number of cores: 4
+Number of threads: 4
+
+Parameters are set to:
+
+Number of tests: 1
+Number of equations to solve (problem size) : 15000
+Leading dimension of array                  : 15000
+Number of trials to run                     : 1    
+Data alignment value (in Kbytes)            : 4    
+
+Maximum memory requested that can be used=1800304096, at the size=15000
+
+=================== Timing linear equation system solver ===================
+
+Size   LDA    Align. Time(s)    GFlops   Residual     Residual(norm) Check
+15000  15000  4      31.303     71.8914  2.383860e-10 3.754620e-02   pass
+
+Performance Summary (GFlops)
+
+Size   LDA    Align.  Average  Maximal
+15000  15000  4       71.8914  71.8914 
+
+Residual checks PASSED
+
+End of tests
+
+<<<======This is test : 28======>>>
+Fri Oct  4 15:35:56 +07 2019
+Intel(R) LINPACK data
+
+Current date/time: Fri Oct  4 08:35:57 2019
+
+CPU frequency:    2.290 GHz
+Number of CPUs: 1
+Number of cores: 4
+Number of threads: 4
+
+Parameters are set to:
+
+Number of tests: 1
+Number of equations to solve (problem size) : 15000
+Leading dimension of array                  : 15000
+Number of trials to run                     : 1    
+Data alignment value (in Kbytes)            : 4    
+
+Maximum memory requested that can be used=1800304096, at the size=15000
+
+=================== Timing linear equation system solver ===================
+
+Size   LDA    Align. Time(s)    GFlops   Residual     Residual(norm) Check
+15000  15000  4      31.524     71.3892  2.383860e-10 3.754620e-02   pass
+
+Performance Summary (GFlops)
+
+Size   LDA    Align.  Average  Maximal
+15000  15000  4       71.3892  71.3892 
+
+Residual checks PASSED
+
+End of tests
+
+<<<======This is test : 29======>>>
+Fri Oct  4 15:36:41 +07 2019
+Intel(R) LINPACK data
+
+Current date/time: Fri Oct  4 08:36:41 2019
+
+CPU frequency:    2.294 GHz
+Number of CPUs: 1
+Number of cores: 4
+Number of threads: 4
+
+Parameters are set to:
+
+Number of tests: 1
+Number of equations to solve (problem size) : 15000
+Leading dimension of array                  : 15000
+Number of trials to run                     : 1    
+Data alignment value (in Kbytes)            : 4    
+
+Maximum memory requested that can be used=1800304096, at the size=15000
+
+=================== Timing linear equation system solver ===================
+
+Size   LDA    Align. Time(s)    GFlops   Residual     Residual(norm) Check
+15000  15000  4      30.375     74.0892  2.383860e-10 3.754620e-02   pass
+
+Performance Summary (GFlops)
+
+Size   LDA    Align.  Average  Maximal
+15000  15000  4       74.0892  74.0892 
+
+Residual checks PASSED
+
+End of tests
+
+<<<======This is test : 30======>>>
+Fri Oct  4 15:37:23 +07 2019
+Intel(R) LINPACK data
+
+Current date/time: Fri Oct  4 08:37:24 2019
+
+CPU frequency:    2.288 GHz
+Number of CPUs: 1
+Number of cores: 4
+Number of threads: 4
+
+Parameters are set to:
+
+Number of tests: 1
+Number of equations to solve (problem size) : 15000
+Leading dimension of array                  : 15000
+Number of trials to run                     : 1    
+Data alignment value (in Kbytes)            : 4    
+
+Maximum memory requested that can be used=1800304096, at the size=15000
+
+=================== Timing linear equation system solver ===================
+
+Size   LDA    Align. Time(s)    GFlops   Residual     Residual(norm) Check
+15000  15000  4      30.803     73.0590  2.383860e-10 3.754620e-02   pass
+
+Performance Summary (GFlops)
+
+Size   LDA    Align.  Average  Maximal
+15000  15000  4       73.0590  73.0590 
+
+Residual checks PASSED
+
+End of tests
+
+<<<======This is test : 31======>>>
+Fri Oct  4 15:38:07 +07 2019
+Intel(R) LINPACK data
+
+Current date/time: Fri Oct  4 08:38:07 2019
+
+CPU frequency:    2.294 GHz
+Number of CPUs: 1
+Number of cores: 4
+Number of threads: 4
+
+Parameters are set to:
+
+Number of tests: 1
+Number of equations to solve (problem size) : 15000
+Leading dimension of array                  : 15000
+Number of trials to run                     : 1    
+Data alignment value (in Kbytes)            : 4    
+
+Maximum memory requested that can be used=1800304096, at the size=15000
+
+=================== Timing linear equation system solver ===================
+
+Size   LDA    Align. Time(s)    GFlops   Residual     Residual(norm) Check
+15000  15000  4      32.192     69.9064  2.383860e-10 3.754620e-02   pass
+
+Performance Summary (GFlops)
+
+Size   LDA    Align.  Average  Maximal
+15000  15000  4       69.9064  69.9064 
+
+Residual checks PASSED
+
+End of tests
+
+<<<======This is test : 32======>>>
+Fri Oct  4 15:38:51 +07 2019
+Intel(R) LINPACK data
+
+Current date/time: Fri Oct  4 08:38:51 2019
+
+CPU frequency:    2.294 GHz
+Number of CPUs: 1
+Number of cores: 4
+Number of threads: 4
+
+Parameters are set to:
+
+Number of tests: 1
+Number of equations to solve (problem size) : 15000
+Leading dimension of array                  : 15000
+Number of trials to run                     : 1    
+Data alignment value (in Kbytes)            : 4    
+
+Maximum memory requested that can be used=1800304096, at the size=15000
+
+=================== Timing linear equation system solver ===================
+
+Size   LDA    Align. Time(s)    GFlops   Residual     Residual(norm) Check
+15000  15000  4      30.391     74.0490  2.383860e-10 3.754620e-02   pass
+
+Performance Summary (GFlops)
+
+Size   LDA    Align.  Average  Maximal
+15000  15000  4       74.0490  74.0490 
+
+Residual checks PASSED
+
+End of tests
+
+<<<======This is test : 33======>>>
+Fri Oct  4 15:39:33 +07 2019
+Intel(R) LINPACK data
+
+Current date/time: Fri Oct  4 08:39:34 2019
+
+CPU frequency:    2.289 GHz
+Number of CPUs: 1
+Number of cores: 4
+Number of threads: 4
+
+Parameters are set to:
+
+Number of tests: 1
+Number of equations to solve (problem size) : 15000
+Leading dimension of array                  : 15000
+Number of trials to run                     : 1    
+Data alignment value (in Kbytes)            : 4    
+
+Maximum memory requested that can be used=1800304096, at the size=15000
+
+=================== Timing linear equation system solver ===================
+
+Size   LDA    Align. Time(s)    GFlops   Residual     Residual(norm) Check
+15000  15000  4      29.652     75.8958  2.383860e-10 3.754620e-02   pass
+
+Performance Summary (GFlops)
+
+Size   LDA    Align.  Average  Maximal
+15000  15000  4       75.8958  75.8958 
+
+Residual checks PASSED
+
+End of tests
+
+<<<======This is test : 34======>>>
+Fri Oct  4 15:40:16 +07 2019
+Intel(R) LINPACK data
+
+Current date/time: Fri Oct  4 08:40:16 2019
+
+CPU frequency:    2.290 GHz
+Number of CPUs: 1
+Number of cores: 4
+Number of threads: 4
+
+Parameters are set to:
+
+Number of tests: 1
+Number of equations to solve (problem size) : 15000
+Leading dimension of array                  : 15000
+Number of trials to run                     : 1    
+Data alignment value (in Kbytes)            : 4    
+
+Maximum memory requested that can be used=1800304096, at the size=15000
+
+=================== Timing linear equation system solver ===================
+
+Size   LDA    Align. Time(s)    GFlops   Residual     Residual(norm) Check
+15000  15000  4      33.410     67.3584  2.383860e-10 3.754620e-02   pass
+
+Performance Summary (GFlops)
+
+Size   LDA    Align.  Average  Maximal
+15000  15000  4       67.3584  67.3584 
+
+Residual checks PASSED
+
+End of tests
+
+<<<======This is test : 35======>>>
+Fri Oct  4 15:41:01 +07 2019
+Intel(R) LINPACK data
+
+Current date/time: Fri Oct  4 08:41:02 2019
+
+CPU frequency:    2.290 GHz
+Number of CPUs: 1
+Number of cores: 4
+Number of threads: 4
+
+Parameters are set to:
+
+Number of tests: 1
+Number of equations to solve (problem size) : 15000
+Leading dimension of array                  : 15000
+Number of trials to run                     : 1    
+Data alignment value (in Kbytes)            : 4    
+
+Maximum memory requested that can be used=1800304096, at the size=15000
+
+=================== Timing linear equation system solver ===================
+
+Size   LDA    Align. Time(s)    GFlops   Residual     Residual(norm) Check
+15000  15000  4      32.118     70.0673  2.383860e-10 3.754620e-02   pass
+
+Performance Summary (GFlops)
+
+Size   LDA    Align.  Average  Maximal
+15000  15000  4       70.0673  70.0673 
+
+Residual checks PASSED
+
+End of tests
+
+<<<======This is test : 36======>>>
+Fri Oct  4 15:41:46 +07 2019
+Intel(R) LINPACK data
+
+Current date/time: Fri Oct  4 08:41:47 2019
+
+CPU frequency:    2.290 GHz
+Number of CPUs: 1
+Number of cores: 4
+Number of threads: 4
+
+Parameters are set to:
+
+Number of tests: 1
+Number of equations to solve (problem size) : 15000
+Leading dimension of array                  : 15000
+Number of trials to run                     : 1    
+Data alignment value (in Kbytes)            : 4    
+
+Maximum memory requested that can be used=1800304096, at the size=15000
+
+=================== Timing linear equation system solver ===================
+
+Size   LDA    Align. Time(s)    GFlops   Residual     Residual(norm) Check
+15000  15000  4      32.947     68.3053  2.383860e-10 3.754620e-02   pass
+
+Performance Summary (GFlops)
+
+Size   LDA    Align.  Average  Maximal
+15000  15000  4       68.3053  68.3053 
+
+Residual checks PASSED
+
+End of tests
+
+<<<======This is test : 37======>>>
+Fri Oct  4 15:42:32 +07 2019
+Intel(R) LINPACK data
+
+Current date/time: Fri Oct  4 08:42:33 2019
+
+CPU frequency:    2.289 GHz
+Number of CPUs: 1
+Number of cores: 4
+Number of threads: 4
+
+Parameters are set to:
+
+Number of tests: 1
+Number of equations to solve (problem size) : 15000
+Leading dimension of array                  : 15000
+Number of trials to run                     : 1    
+Data alignment value (in Kbytes)            : 4    
+
+Maximum memory requested that can be used=1800304096, at the size=15000
+
+=================== Timing linear equation system solver ===================
+
+Size   LDA    Align. Time(s)    GFlops   Residual     Residual(norm) Check
+15000  15000  4      33.960     66.2681  2.383860e-10 3.754620e-02   pass
+
+Performance Summary (GFlops)
+
+Size   LDA    Align.  Average  Maximal
+15000  15000  4       66.2681  66.2681 
+
+Residual checks PASSED
+
+End of tests
+
+<<<======This is test : 38======>>>
+Fri Oct  4 15:43:19 +07 2019
+Intel(R) LINPACK data
+
+Current date/time: Fri Oct  4 08:43:19 2019
+
+CPU frequency:    2.294 GHz
+Number of CPUs: 1
+Number of cores: 4
+Number of threads: 4
+
+Parameters are set to:
+
+Number of tests: 1
+Number of equations to solve (problem size) : 15000
+Leading dimension of array                  : 15000
+Number of trials to run                     : 1    
+Data alignment value (in Kbytes)            : 4    
+
+Maximum memory requested that can be used=1800304096, at the size=15000
+
+=================== Timing linear equation system solver ===================
+
+Size   LDA    Align. Time(s)    GFlops   Residual     Residual(norm) Check
+15000  15000  4      30.971     72.6635  2.383860e-10 3.754620e-02   pass
+
+Performance Summary (GFlops)
+
+Size   LDA    Align.  Average  Maximal
+15000  15000  4       72.6635  72.6635 
+
+Residual checks PASSED
+
+End of tests
+
+<<<======This is test : 39======>>>
+Fri Oct  4 15:44:02 +07 2019
+Intel(R) LINPACK data
+
+Current date/time: Fri Oct  4 08:44:03 2019
+
+CPU frequency:    2.288 GHz
+Number of CPUs: 1
+Number of cores: 4
+Number of threads: 4
+
+Parameters are set to:
+
+Number of tests: 1
+Number of equations to solve (problem size) : 15000
+Leading dimension of array                  : 15000
+Number of trials to run                     : 1    
+Data alignment value (in Kbytes)            : 4    
+
+Maximum memory requested that can be used=1800304096, at the size=15000
+
+=================== Timing linear equation system solver ===================
+
+Size   LDA    Align. Time(s)    GFlops   Residual     Residual(norm) Check
+15000  15000  4      29.836     75.4263  2.383860e-10 3.754620e-02   pass
+
+Performance Summary (GFlops)
+
+Size   LDA    Align.  Average  Maximal
+15000  15000  4       75.4263  75.4263 
+
+Residual checks PASSED
+
+End of tests
+
+<<<======This is test : 40======>>>
+Fri Oct  4 15:44:45 +07 2019
+Intel(R) LINPACK data
+
+Current date/time: Fri Oct  4 08:44:45 2019
+
+CPU frequency:    2.294 GHz
+Number of CPUs: 1
+Number of cores: 4
+Number of threads: 4
+
+Parameters are set to:
+
+Number of tests: 1
+Number of equations to solve (problem size) : 15000
+Leading dimension of array                  : 15000
+Number of trials to run                     : 1    
+Data alignment value (in Kbytes)            : 4    
+
+Maximum memory requested that can be used=1800304096, at the size=15000
+
+=================== Timing linear equation system solver ===================
+
+Size   LDA    Align. Time(s)    GFlops   Residual     Residual(norm) Check
+15000  15000  4      29.412     76.5135  2.383860e-10 3.754620e-02   pass
+
+Performance Summary (GFlops)
+
+Size   LDA    Align.  Average  Maximal
+15000  15000  4       76.5135  76.5135 
+
+Residual checks PASSED
+
+End of tests
+
+<<<======This is test : 41======>>>
+Fri Oct  4 15:45:27 +07 2019
+Intel(R) LINPACK data
+
+Current date/time: Fri Oct  4 08:45:27 2019
+
+CPU frequency:    2.289 GHz
+Number of CPUs: 1
+Number of cores: 4
+Number of threads: 4
+
+Parameters are set to:
+
+Number of tests: 1
+Number of equations to solve (problem size) : 15000
+Leading dimension of array                  : 15000
+Number of trials to run                     : 1    
+Data alignment value (in Kbytes)            : 4    
+
+Maximum memory requested that can be used=1800304096, at the size=15000
+
+=================== Timing linear equation system solver ===================
+
+Size   LDA    Align. Time(s)    GFlops   Residual     Residual(norm) Check
+15000  15000  4      32.042     70.2354  2.383860e-10 3.754620e-02   pass
+
+Performance Summary (GFlops)
+
+Size   LDA    Align.  Average  Maximal
+15000  15000  4       70.2354  70.2354 
+
+Residual checks PASSED
+
+End of tests
+
+<<<======This is test : 42======>>>
+Fri Oct  4 15:46:11 +07 2019
+Intel(R) LINPACK data
+
+Current date/time: Fri Oct  4 08:46:11 2019
+
+CPU frequency:    2.294 GHz
+Number of CPUs: 1
+Number of cores: 4
+Number of threads: 4
+
+Parameters are set to:
+
+Number of tests: 1
+Number of equations to solve (problem size) : 15000
+Leading dimension of array                  : 15000
+Number of trials to run                     : 1    
+Data alignment value (in Kbytes)            : 4    
+
+Maximum memory requested that can be used=1800304096, at the size=15000
+
+=================== Timing linear equation system solver ===================
+
+Size   LDA    Align. Time(s)    GFlops   Residual     Residual(norm) Check
+15000  15000  4      31.103     72.3556  2.383860e-10 3.754620e-02   pass
+
+Performance Summary (GFlops)
+
+Size   LDA    Align.  Average  Maximal
+15000  15000  4       72.3556  72.3556 
+
+Residual checks PASSED
+
+End of tests
+
+<<<======This is test : 43======>>>
+Fri Oct  4 15:46:54 +07 2019
+Intel(R) LINPACK data
+
+Current date/time: Fri Oct  4 08:46:55 2019
+
+CPU frequency:    2.294 GHz
+Number of CPUs: 1
+Number of cores: 4
+Number of threads: 4
+
+Parameters are set to:
+
+Number of tests: 1
+Number of equations to solve (problem size) : 15000
+Leading dimension of array                  : 15000
+Number of trials to run                     : 1    
+Data alignment value (in Kbytes)            : 4    
+
+Maximum memory requested that can be used=1800304096, at the size=15000
+
+=================== Timing linear equation system solver ===================
+
+Size   LDA    Align. Time(s)    GFlops   Residual     Residual(norm) Check
+15000  15000  4      29.371     76.6222  2.383860e-10 3.754620e-02   pass
+
+Performance Summary (GFlops)
+
+Size   LDA    Align.  Average  Maximal
+15000  15000  4       76.6222  76.6222 
+
+Residual checks PASSED
+
+End of tests
+
+<<<======This is test : 44======>>>
+Fri Oct  4 15:47:36 +07 2019
+Intel(R) LINPACK data
+
+Current date/time: Fri Oct  4 08:47:37 2019
+
+CPU frequency:    2.288 GHz
+Number of CPUs: 1
+Number of cores: 4
+Number of threads: 4
+
+Parameters are set to:
+
+Number of tests: 1
+Number of equations to solve (problem size) : 15000
+Leading dimension of array                  : 15000
+Number of trials to run                     : 1    
+Data alignment value (in Kbytes)            : 4    
+
+Maximum memory requested that can be used=1800304096, at the size=15000
+
+=================== Timing linear equation system solver ===================
+
+Size   LDA    Align. Time(s)    GFlops   Residual     Residual(norm) Check
+15000  15000  4      30.794     73.0818  2.383860e-10 3.754620e-02   pass
+
+Performance Summary (GFlops)
+
+Size   LDA    Align.  Average  Maximal
+15000  15000  4       73.0818  73.0818 
+
+Residual checks PASSED
+
+End of tests
+
+<<<======This is test : 45======>>>
+Fri Oct  4 15:48:20 +07 2019
+Intel(R) LINPACK data
+
+Current date/time: Fri Oct  4 08:48:20 2019
+
+CPU frequency:    2.294 GHz
+Number of CPUs: 1
+Number of cores: 4
+Number of threads: 4
+
+Parameters are set to:
+
+Number of tests: 1
+Number of equations to solve (problem size) : 15000
+Leading dimension of array                  : 15000
+Number of trials to run                     : 1    
+Data alignment value (in Kbytes)            : 4    
+
+Maximum memory requested that can be used=1800304096, at the size=15000
+
+=================== Timing linear equation system solver ===================
+
+Size   LDA    Align. Time(s)    GFlops   Residual     Residual(norm) Check
+15000  15000  4      28.944     77.7514  2.383860e-10 3.754620e-02   pass
+
+Performance Summary (GFlops)
+
+Size   LDA    Align.  Average  Maximal
+15000  15000  4       77.7514  77.7514 
+
+Residual checks PASSED
+
+End of tests
+
+<<<======This is test : 46======>>>
+Fri Oct  4 15:49:01 +07 2019
+Intel(R) LINPACK data
+
+Current date/time: Fri Oct  4 08:49:02 2019
+
+CPU frequency:    2.292 GHz
+Number of CPUs: 1
+Number of cores: 4
+Number of threads: 4
+
+Parameters are set to:
+
+Number of tests: 1
+Number of equations to solve (problem size) : 15000
+Leading dimension of array                  : 15000
+Number of trials to run                     : 1    
+Data alignment value (in Kbytes)            : 4    
+
+Maximum memory requested that can be used=1800304096, at the size=15000
+
+=================== Timing linear equation system solver ===================
+
+Size   LDA    Align. Time(s)    GFlops   Residual     Residual(norm) Check
+15000  15000  4      30.599     73.5470  2.383860e-10 3.754620e-02   pass
+
+Performance Summary (GFlops)
+
+Size   LDA    Align.  Average  Maximal
+15000  15000  4       73.5470  73.5470 
+
+Residual checks PASSED
+
+End of tests
+
+<<<======This is test : 47======>>>
+Fri Oct  4 15:49:44 +07 2019
+Intel(R) LINPACK data
+
+Current date/time: Fri Oct  4 08:49:45 2019
+
+CPU frequency:    2.288 GHz
+Number of CPUs: 1
+Number of cores: 4
+Number of threads: 4
+
+Parameters are set to:
+
+Number of tests: 1
+Number of equations to solve (problem size) : 15000
+Leading dimension of array                  : 15000
+Number of trials to run                     : 1    
+Data alignment value (in Kbytes)            : 4    
+
+Maximum memory requested that can be used=1800304096, at the size=15000
+
+=================== Timing linear equation system solver ===================
+
+Size   LDA    Align. Time(s)    GFlops   Residual     Residual(norm) Check
+15000  15000  4      31.027     72.5317  2.383860e-10 3.754620e-02   pass
+
+Performance Summary (GFlops)
+
+Size   LDA    Align.  Average  Maximal
+15000  15000  4       72.5317  72.5317 
+
+Residual checks PASSED
+
+End of tests
+
+<<<======This is test : 48======>>>
+Fri Oct  4 15:50:28 +07 2019
+Intel(R) LINPACK data
+
+Current date/time: Fri Oct  4 08:50:29 2019
+
+CPU frequency:    2.293 GHz
+Number of CPUs: 1
+Number of cores: 4
+Number of threads: 4
+
+Parameters are set to:
+
+Number of tests: 1
+Number of equations to solve (problem size) : 15000
+Leading dimension of array                  : 15000
+Number of trials to run                     : 1    
+Data alignment value (in Kbytes)            : 4    
+
+Maximum memory requested that can be used=1800304096, at the size=15000
+
+=================== Timing linear equation system solver ===================
+
+Size   LDA    Align. Time(s)    GFlops   Residual     Residual(norm) Check
+15000  15000  4      30.031     74.9380  2.383860e-10 3.754620e-02   pass
+
+Performance Summary (GFlops)
+
+Size   LDA    Align.  Average  Maximal
+15000  15000  4       74.9380  74.9380 
+
+Residual checks PASSED
+
+End of tests
+
+<<<======This is test : 49======>>>
+Fri Oct  4 15:51:11 +07 2019
+Intel(R) LINPACK data
+
+Current date/time: Fri Oct  4 08:51:12 2019
+
+CPU frequency:    2.291 GHz
+Number of CPUs: 1
+Number of cores: 4
+Number of threads: 4
+
+Parameters are set to:
+
+Number of tests: 1
+Number of equations to solve (problem size) : 15000
+Leading dimension of array                  : 15000
+Number of trials to run                     : 1    
+Data alignment value (in Kbytes)            : 4    
+
+Maximum memory requested that can be used=1800304096, at the size=15000
+
+=================== Timing linear equation system solver ===================
+
+Size   LDA    Align. Time(s)    GFlops   Residual     Residual(norm) Check
+15000  15000  4      32.304     69.6643  2.383860e-10 3.754620e-02   pass
+
+Performance Summary (GFlops)
+
+Size   LDA    Align.  Average  Maximal
+15000  15000  4       69.6643  69.6643 
+
+Residual checks PASSED
+
+End of tests
+
+<<<======This is test : 50======>>>
+Fri Oct  4 15:51:55 +07 2019
+Intel(R) LINPACK data
+
+Current date/time: Fri Oct  4 08:51:56 2019
+
+CPU frequency:    2.291 GHz
+Number of CPUs: 1
+Number of cores: 4
+Number of threads: 4
+
+Parameters are set to:
+
+Number of tests: 1
+Number of equations to solve (problem size) : 15000
+Leading dimension of array                  : 15000
+Number of trials to run                     : 1    
+Data alignment value (in Kbytes)            : 4    
+
+Maximum memory requested that can be used=1800304096, at the size=15000
+
+=================== Timing linear equation system solver ===================
+
+Size   LDA    Align. Time(s)    GFlops   Residual     Residual(norm) Check
+15000  15000  4      31.994     70.3387  2.383860e-10 3.754620e-02   pass
+
+Performance Summary (GFlops)
+
+Size   LDA    Align.  Average  Maximal
+15000  15000  4       70.3387  70.3387 
+
+Residual checks PASSED
+
+End of tests
+
+<<<======This is test : 51======>>>
+Fri Oct  4 15:52:39 +07 2019
+Intel(R) LINPACK data
+
+Current date/time: Fri Oct  4 08:52:40 2019
+
+CPU frequency:    2.291 GHz
+Number of CPUs: 1
+Number of cores: 4
+Number of threads: 4
+
+Parameters are set to:
+
+Number of tests: 1
+Number of equations to solve (problem size) : 15000
+Leading dimension of array                  : 15000
+Number of trials to run                     : 1    
+Data alignment value (in Kbytes)            : 4    
+
+Maximum memory requested that can be used=1800304096, at the size=15000
+
+=================== Timing linear equation system solver ===================
+
+Size   LDA    Align. Time(s)    GFlops   Residual     Residual(norm) Check
+15000  15000  4      30.421     73.9771  2.383860e-10 3.754620e-02   pass
+
+Performance Summary (GFlops)
+
+Size   LDA    Align.  Average  Maximal
+15000  15000  4       73.9771  73.9771 
+
+Residual checks PASSED
+
+End of tests
+
+<<<======This is test : 52======>>>
+Fri Oct  4 15:53:22 +07 2019
+Intel(R) LINPACK data
+
+Current date/time: Fri Oct  4 08:53:23 2019
+
+CPU frequency:    2.288 GHz
+Number of CPUs: 1
+Number of cores: 4
+Number of threads: 4
+
+Parameters are set to:
+
+Number of tests: 1
+Number of equations to solve (problem size) : 15000
+Leading dimension of array                  : 15000
+Number of trials to run                     : 1    
+Data alignment value (in Kbytes)            : 4    
+
+Maximum memory requested that can be used=1800304096, at the size=15000
+
+=================== Timing linear equation system solver ===================
+
+Size   LDA    Align. Time(s)    GFlops   Residual     Residual(norm) Check
+15000  15000  4      30.818     73.0247  2.383860e-10 3.754620e-02   pass
+
+Performance Summary (GFlops)
+
+Size   LDA    Align.  Average  Maximal
+15000  15000  4       73.0247  73.0247 
+
+Residual checks PASSED
+
+End of tests
+
+<<<======This is test : 53======>>>
+Fri Oct  4 15:54:06 +07 2019
+Intel(R) LINPACK data
+
+Current date/time: Fri Oct  4 08:54:06 2019
+
+CPU frequency:    2.294 GHz
+Number of CPUs: 1
+Number of cores: 4
+Number of threads: 4
+
+Parameters are set to:
+
+Number of tests: 1
+Number of equations to solve (problem size) : 15000
+Leading dimension of array                  : 15000
+Number of trials to run                     : 1    
+Data alignment value (in Kbytes)            : 4    
+
+Maximum memory requested that can be used=1800304096, at the size=15000
+
+=================== Timing linear equation system solver ===================
+
+Size   LDA    Align. Time(s)    GFlops   Residual     Residual(norm) Check
+15000  15000  4      30.414     73.9931  2.383860e-10 3.754620e-02   pass
+
+Performance Summary (GFlops)
+
+Size   LDA    Align.  Average  Maximal
+15000  15000  4       73.9931  73.9931 
+
+Residual checks PASSED
+
+End of tests
+
+<<<======This is test : 54======>>>
+Fri Oct  4 15:54:48 +07 2019
+Intel(R) LINPACK data
+
+Current date/time: Fri Oct  4 08:54:49 2019
+
+CPU frequency:    2.293 GHz
+Number of CPUs: 1
+Number of cores: 4
+Number of threads: 4
+
+Parameters are set to:
+
+Number of tests: 1
+Number of equations to solve (problem size) : 15000
+Leading dimension of array                  : 15000
+Number of trials to run                     : 1    
+Data alignment value (in Kbytes)            : 4    
+
+Maximum memory requested that can be used=1800304096, at the size=15000
+
+=================== Timing linear equation system solver ===================
+
+Size   LDA    Align. Time(s)    GFlops   Residual     Residual(norm) Check
+15000  15000  4      33.093     68.0047  2.383860e-10 3.754620e-02   pass
+
+Performance Summary (GFlops)
+
+Size   LDA    Align.  Average  Maximal
+15000  15000  4       68.0047  68.0047 
+
+Residual checks PASSED
+
+End of tests
+
+<<<======This is test : 55======>>>
+Fri Oct  4 15:55:34 +07 2019
+Intel(R) LINPACK data
+
+Current date/time: Fri Oct  4 08:55:34 2019
+
+CPU frequency:    2.294 GHz
+Number of CPUs: 1
+Number of cores: 4
+Number of threads: 4
+
+Parameters are set to:
+
+Number of tests: 1
+Number of equations to solve (problem size) : 15000
+Leading dimension of array                  : 15000
+Number of trials to run                     : 1    
+Data alignment value (in Kbytes)            : 4    
+
+Maximum memory requested that can be used=1800304096, at the size=15000
+
+=================== Timing linear equation system solver ===================
+
+Size   LDA    Align. Time(s)    GFlops   Residual     Residual(norm) Check
+15000  15000  4      30.576     73.6029  2.383860e-10 3.754620e-02   pass
+
+Performance Summary (GFlops)
+
+Size   LDA    Align.  Average  Maximal
+15000  15000  4       73.6029  73.6029 
+
+Residual checks PASSED
+
+End of tests
+
+<<<======This is test : 56======>>>
+Fri Oct  4 15:56:17 +07 2019
+Intel(R) LINPACK data
+
+Current date/time: Fri Oct  4 08:56:17 2019
+
+CPU frequency:    2.294 GHz
+Number of CPUs: 1
+Number of cores: 4
+Number of threads: 4
+
+Parameters are set to:
+
+Number of tests: 1
+Number of equations to solve (problem size) : 15000
+Leading dimension of array                  : 15000
+Number of trials to run                     : 1    
+Data alignment value (in Kbytes)            : 4    
+
+Maximum memory requested that can be used=1800304096, at the size=15000
+
+=================== Timing linear equation system solver ===================
+
+Size   LDA    Align. Time(s)    GFlops   Residual     Residual(norm) Check
+15000  15000  4      29.033     77.5131  2.383860e-10 3.754620e-02   pass
+
+Performance Summary (GFlops)
+
+Size   LDA    Align.  Average  Maximal
+15000  15000  4       77.5131  77.5131 
+
+Residual checks PASSED
+
+End of tests
+
+<<<======This is test : 57======>>>
+Fri Oct  4 15:56:58 +07 2019
+Intel(R) LINPACK data
+
+Current date/time: Fri Oct  4 08:56:59 2019
+
+CPU frequency:    2.294 GHz
+Number of CPUs: 1
+Number of cores: 4
+Number of threads: 4
+
+Parameters are set to:
+
+Number of tests: 1
+Number of equations to solve (problem size) : 15000
+Leading dimension of array                  : 15000
+Number of trials to run                     : 1    
+Data alignment value (in Kbytes)            : 4    
+
+Maximum memory requested that can be used=1800304096, at the size=15000
+
+=================== Timing linear equation system solver ===================
+
+Size   LDA    Align. Time(s)    GFlops   Residual     Residual(norm) Check
+15000  15000  4      29.896     75.2753  2.383860e-10 3.754620e-02   pass
+
+Performance Summary (GFlops)
+
+Size   LDA    Align.  Average  Maximal
+15000  15000  4       75.2753  75.2753 
+
+Residual checks PASSED
+
+End of tests
+
+<<<======This is test : 58======>>>
+Fri Oct  4 15:57:41 +07 2019
+Intel(R) LINPACK data
+
+Current date/time: Fri Oct  4 08:57:41 2019
+
+CPU frequency:    2.294 GHz
+Number of CPUs: 1
+Number of cores: 4
+Number of threads: 4
+
+Parameters are set to:
+
+Number of tests: 1
+Number of equations to solve (problem size) : 15000
+Leading dimension of array                  : 15000
+Number of trials to run                     : 1    
+Data alignment value (in Kbytes)            : 4    
+
+Maximum memory requested that can be used=1800304096, at the size=15000
+
+=================== Timing linear equation system solver ===================
+
+Size   LDA    Align. Time(s)    GFlops   Residual     Residual(norm) Check
+15000  15000  4      34.879     64.5223  2.383860e-10 3.754620e-02   pass
+
+Performance Summary (GFlops)
+
+Size   LDA    Align.  Average  Maximal
+15000  15000  4       64.5223  64.5223 
+
+Residual checks PASSED
+
+End of tests
+
+<<<======This is test : 59======>>>
+Fri Oct  4 15:58:28 +07 2019
+Intel(R) LINPACK data
+
+Current date/time: Fri Oct  4 08:58:28 2019
+
+CPU frequency:    2.291 GHz
+Number of CPUs: 1
+Number of cores: 4
+Number of threads: 4
+
+Parameters are set to:
+
+Number of tests: 1
+Number of equations to solve (problem size) : 15000
+Leading dimension of array                  : 15000
+Number of trials to run                     : 1    
+Data alignment value (in Kbytes)            : 4    
+
+Maximum memory requested that can be used=1800304096, at the size=15000
+
+=================== Timing linear equation system solver ===================
+
+Size   LDA    Align. Time(s)    GFlops   Residual     Residual(norm) Check
+15000  15000  4      31.304     71.8895  2.383860e-10 3.754620e-02   pass
+
+Performance Summary (GFlops)
+
+Size   LDA    Align.  Average  Maximal
+15000  15000  4       71.8895  71.8895 
+
+Residual checks PASSED
+
+End of tests
+
+<<<======This is test : 60======>>>
+Fri Oct  4 15:59:11 +07 2019
+Intel(R) LINPACK data
+
+Current date/time: Fri Oct  4 08:59:12 2019
+
+CPU frequency:    2.291 GHz
+Number of CPUs: 1
+Number of cores: 4
+Number of threads: 4
+
+Parameters are set to:
+
+Number of tests: 1
+Number of equations to solve (problem size) : 15000
+Leading dimension of array                  : 15000
+Number of trials to run                     : 1    
+Data alignment value (in Kbytes)            : 4    
+
+Maximum memory requested that can be used=1800304096, at the size=15000
+
+=================== Timing linear equation system solver ===================
+
+Size   LDA    Align. Time(s)    GFlops   Residual     Residual(norm) Check
+15000  15000  4      27.483     81.8859  2.383860e-10 3.754620e-02   pass
+
+Performance Summary (GFlops)
+
+Size   LDA    Align.  Average  Maximal
+15000  15000  4       81.8859  81.8859 
+
+Residual checks PASSED
+
+End of tests
+
+<<<======This is test : 61======>>>
+Fri Oct  4 15:59:52 +07 2019
+Intel(R) LINPACK data
+
+Current date/time: Fri Oct  4 08:59:52 2019
+
+CPU frequency:    2.294 GHz
+Number of CPUs: 1
+Number of cores: 4
+Number of threads: 4
+
+Parameters are set to:
+
+Number of tests: 1
+Number of equations to solve (problem size) : 15000
+Leading dimension of array                  : 15000
+Number of trials to run                     : 1    
+Data alignment value (in Kbytes)            : 4    
+
+Maximum memory requested that can be used=1800304096, at the size=15000
+
+=================== Timing linear equation system solver ===================
+
+Size   LDA    Align. Time(s)    GFlops   Residual     Residual(norm) Check
+15000  15000  4      31.576     71.2714  2.383860e-10 3.754620e-02   pass
+
+Performance Summary (GFlops)
+
+Size   LDA    Align.  Average  Maximal
+15000  15000  4       71.2714  71.2714 
+
+Residual checks PASSED
+
+End of tests
+
+<<<======This is test : 62======>>>
+Fri Oct  4 16:00:35 +07 2019
+Intel(R) LINPACK data
+
+Current date/time: Fri Oct  4 09:00:36 2019
+
+CPU frequency:    2.289 GHz
+Number of CPUs: 1
+Number of cores: 4
+Number of threads: 4
+
+Parameters are set to:
+
+Number of tests: 1
+Number of equations to solve (problem size) : 15000
+Leading dimension of array                  : 15000
+Number of trials to run                     : 1    
+Data alignment value (in Kbytes)            : 4    
+
+Maximum memory requested that can be used=1800304096, at the size=15000
+
+=================== Timing linear equation system solver ===================
+
+Size   LDA    Align. Time(s)    GFlops   Residual     Residual(norm) Check
+15000  15000  4      31.674     71.0500  2.383860e-10 3.754620e-02   pass
+
+Performance Summary (GFlops)
+
+Size   LDA    Align.  Average  Maximal
+15000  15000  4       71.0500  71.0500 
+
+Residual checks PASSED
+
+End of tests
+
+<<<======This is test : 63======>>>
+Fri Oct  4 16:01:20 +07 2019
+Intel(R) LINPACK data
+
+Current date/time: Fri Oct  4 09:01:20 2019
+
+CPU frequency:    2.293 GHz
+Number of CPUs: 1
+Number of cores: 4
+Number of threads: 4
+
+Parameters are set to:
+
+Number of tests: 1
+Number of equations to solve (problem size) : 15000
+Leading dimension of array                  : 15000
+Number of trials to run                     : 1    
+Data alignment value (in Kbytes)            : 4    
+
+Maximum memory requested that can be used=1800304096, at the size=15000
+
+=================== Timing linear equation system solver ===================
+
+Size   LDA    Align. Time(s)    GFlops   Residual     Residual(norm) Check
+15000  15000  4      30.465     73.8689  2.383860e-10 3.754620e-02   pass
+
+Performance Summary (GFlops)
+
+Size   LDA    Align.  Average  Maximal
+15000  15000  4       73.8689  73.8689 
+
+Residual checks PASSED
+
+End of tests
+
+<<<======This is test : 64======>>>
+Fri Oct  4 16:02:02 +07 2019
+Intel(R) LINPACK data
+
+Current date/time: Fri Oct  4 09:02:03 2019
+
+CPU frequency:    2.288 GHz
+Number of CPUs: 1
+Number of cores: 4
+Number of threads: 4
+
+Parameters are set to:
+
+Number of tests: 1
+Number of equations to solve (problem size) : 15000
+Leading dimension of array                  : 15000
+Number of trials to run                     : 1    
+Data alignment value (in Kbytes)            : 4    
+
+Maximum memory requested that can be used=1800304096, at the size=15000
+
+=================== Timing linear equation system solver ===================
+
+Size   LDA    Align. Time(s)    GFlops   Residual     Residual(norm) Check
+15000  15000  4      31.097     72.3678  2.383860e-10 3.754620e-02   pass
+
+Performance Summary (GFlops)
+
+Size   LDA    Align.  Average  Maximal
+15000  15000  4       72.3678  72.3678 
+
+Residual checks PASSED
+
+End of tests
+
+<<<======This is test : 65======>>>
+Fri Oct  4 16:02:46 +07 2019
+Intel(R) LINPACK data
+
+Current date/time: Fri Oct  4 09:02:46 2019
+
+CPU frequency:    2.294 GHz
+Number of CPUs: 1
+Number of cores: 4
+Number of threads: 4
+
+Parameters are set to:
+
+Number of tests: 1
+Number of equations to solve (problem size) : 15000
+Leading dimension of array                  : 15000
+Number of trials to run                     : 1    
+Data alignment value (in Kbytes)            : 4    
+
+Maximum memory requested that can be used=1800304096, at the size=15000
+
+=================== Timing linear equation system solver ===================
+
+Size   LDA    Align. Time(s)    GFlops   Residual     Residual(norm) Check
+15000  15000  4      31.982     70.3651  2.383860e-10 3.754620e-02   pass
+
+Performance Summary (GFlops)
+
+Size   LDA    Align.  Average  Maximal
+15000  15000  4       70.3651  70.3651 
+
+Residual checks PASSED
+
+End of tests
+
+<<<======This is test : 66======>>>
+Fri Oct  4 16:03:29 +07 2019
+Intel(R) LINPACK data
+
+Current date/time: Fri Oct  4 09:03:30 2019
+
+CPU frequency:    2.290 GHz
+Number of CPUs: 1
+Number of cores: 4
+Number of threads: 4
+
+Parameters are set to:
+
+Number of tests: 1
+Number of equations to solve (problem size) : 15000
+Leading dimension of array                  : 15000
+Number of trials to run                     : 1    
+Data alignment value (in Kbytes)            : 4    
+
+Maximum memory requested that can be used=1800304096, at the size=15000
+
+=================== Timing linear equation system solver ===================
+
+Size   LDA    Align. Time(s)    GFlops   Residual     Residual(norm) Check
+15000  15000  4      32.991     68.2135  2.383860e-10 3.754620e-02   pass
+
+Performance Summary (GFlops)
+
+Size   LDA    Align.  Average  Maximal
+15000  15000  4       68.2135  68.2135 
+
+Residual checks PASSED
+
+End of tests
+
+<<<======This is test : 67======>>>
+Fri Oct  4 16:04:15 +07 2019
+Intel(R) LINPACK data
+
+Current date/time: Fri Oct  4 09:04:15 2019
+
+CPU frequency:    2.294 GHz
+Number of CPUs: 1
+Number of cores: 4
+Number of threads: 4
+
+Parameters are set to:
+
+Number of tests: 1
+Number of equations to solve (problem size) : 15000
+Leading dimension of array                  : 15000
+Number of trials to run                     : 1    
+Data alignment value (in Kbytes)            : 4    
+
+Maximum memory requested that can be used=1800304096, at the size=15000
+
+=================== Timing linear equation system solver ===================
+
+Size   LDA    Align. Time(s)    GFlops   Residual     Residual(norm) Check
+15000  15000  4      30.894     72.8444  2.383860e-10 3.754620e-02   pass
+
+Performance Summary (GFlops)
+
+Size   LDA    Align.  Average  Maximal
+15000  15000  4       72.8444  72.8444 
+
+Residual checks PASSED
+
+End of tests
+
+<<<======This is test : 68======>>>
+Fri Oct  4 16:04:58 +07 2019
+Intel(R) LINPACK data
+
+Current date/time: Fri Oct  4 09:04:59 2019
+
+CPU frequency:    2.293 GHz
+Number of CPUs: 1
+Number of cores: 4
+Number of threads: 4
+
+Parameters are set to:
+
+Number of tests: 1
+Number of equations to solve (problem size) : 15000
+Leading dimension of array                  : 15000
+Number of trials to run                     : 1    
+Data alignment value (in Kbytes)            : 4    
+
+Maximum memory requested that can be used=1800304096, at the size=15000
+
+=================== Timing linear equation system solver ===================
+
+Size   LDA    Align. Time(s)    GFlops   Residual     Residual(norm) Check
+15000  15000  4      30.970     72.6646  2.383860e-10 3.754620e-02   pass
+
+Performance Summary (GFlops)
+
+Size   LDA    Align.  Average  Maximal
+15000  15000  4       72.6646  72.6646 
+
+Residual checks PASSED
+
+End of tests
+
+<<<======This is test : 69======>>>
+Fri Oct  4 16:05:42 +07 2019
+Intel(R) LINPACK data
+
+Current date/time: Fri Oct  4 09:05:42 2019
+
+CPU frequency:    2.294 GHz
+Number of CPUs: 1
+Number of cores: 4
+Number of threads: 4
+
+Parameters are set to:
+
+Number of tests: 1
+Number of equations to solve (problem size) : 15000
+Leading dimension of array                  : 15000
+Number of trials to run                     : 1    
+Data alignment value (in Kbytes)            : 4    
+
+Maximum memory requested that can be used=1800304096, at the size=15000
+
+=================== Timing linear equation system solver ===================
+
+Size   LDA    Align. Time(s)    GFlops   Residual     Residual(norm) Check
+15000  15000  4      30.849     72.9495  2.383860e-10 3.754620e-02   pass
+
+Performance Summary (GFlops)
+
+Size   LDA    Align.  Average  Maximal
+15000  15000  4       72.9495  72.9495 
+
+Residual checks PASSED
+
+End of tests
+
+<<<======This is test : 70======>>>
+Fri Oct  4 16:06:24 +07 2019
+Intel(R) LINPACK data
+
+Current date/time: Fri Oct  4 09:06:25 2019
+
+CPU frequency:    2.292 GHz
+Number of CPUs: 1
+Number of cores: 4
+Number of threads: 4
+
+Parameters are set to:
+
+Number of tests: 1
+Number of equations to solve (problem size) : 15000
+Leading dimension of array                  : 15000
+Number of trials to run                     : 1    
+Data alignment value (in Kbytes)            : 4    
+
+Maximum memory requested that can be used=1800304096, at the size=15000
+
+=================== Timing linear equation system solver ===================
+
+Size   LDA    Align. Time(s)    GFlops   Residual     Residual(norm) Check
+15000  15000  4      30.547     73.6726  2.383860e-10 3.754620e-02   pass
+
+Performance Summary (GFlops)
+
+Size   LDA    Align.  Average  Maximal
+15000  15000  4       73.6726  73.6726 
+
+Residual checks PASSED
+
+End of tests
+

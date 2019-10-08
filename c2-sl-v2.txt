@@ -1,0 +1,2145 @@
+<<<======This is test : 1======>>>
+Fri Oct  4 15:16:31 +07 2019
+-------------------------------------------------------------
+STREAM version $Revision: 5.10 $
+-------------------------------------------------------------
+This system uses 8 bytes per array element.
+-------------------------------------------------------------
+Array size = 60000000 (elements), Offset = 0 (elements)
+Memory per array = 457.8 MiB (= 0.4 GiB).
+Total memory required = 1373.3 MiB (= 1.3 GiB).
+Each kernel will be executed 200 times.
+ The *best* time for each kernel (excluding the first iteration)
+ will be used to compute the reported bandwidth.
+-------------------------------------------------------------
+Your clock granularity/precision appears to be 1 microseconds.
+Each test below will take on the order of 69555 microseconds.
+   (= 69555 clock ticks)
+Increase the size of the arrays if this shows that
+you are not getting at least 20 clock ticks per test.
+-------------------------------------------------------------
+WARNING -- The above is only a rough guideline.
+For best results, please be sure you know the
+precision of your system timer.
+-------------------------------------------------------------
+<<<======This is test : 2======>>>
+Fri Oct  4 15:17:15 +07 2019
+<<<======This is test : 3======>>>
+Fri Oct  4 15:17:15 +07 2019
+-------------------------------------------------------------
+STREAM version $Revision: 5.10 $
+-------------------------------------------------------------
+This system uses 8 bytes per array element.
+-------------------------------------------------------------
+Array size = 60000000 (elements), Offset = 0 (elements)
+Memory per array = 457.8 MiB (= 0.4 GiB).
+Total memory required = 1373.3 MiB (= 1.3 GiB).
+Each kernel will be executed 200 times.
+ The *best* time for each kernel (excluding the first iteration)
+ will be used to compute the reported bandwidth.
+-------------------------------------------------------------
+Your clock granularity/precision appears to be 1 microseconds.
+Each test below will take on the order of 70186 microseconds.
+   (= 70186 clock ticks)
+Increase the size of the arrays if this shows that
+you are not getting at least 20 clock ticks per test.
+-------------------------------------------------------------
+WARNING -- The above is only a rough guideline.
+For best results, please be sure you know the
+precision of your system timer.
+-------------------------------------------------------------
+<<<======This is test : 4======>>>
+Fri Oct  4 15:17:56 +07 2019
+<<<======This is test : 5======>>>
+Fri Oct  4 15:17:57 +07 2019
+-------------------------------------------------------------
+STREAM version $Revision: 5.10 $
+-------------------------------------------------------------
+This system uses 8 bytes per array element.
+-------------------------------------------------------------
+Array size = 60000000 (elements), Offset = 0 (elements)
+Memory per array = 457.8 MiB (= 0.4 GiB).
+Total memory required = 1373.3 MiB (= 1.3 GiB).
+Each kernel will be executed 200 times.
+ The *best* time for each kernel (excluding the first iteration)
+ will be used to compute the reported bandwidth.
+-------------------------------------------------------------
+Your clock granularity/precision appears to be 1 microseconds.
+Each test below will take on the order of 69291 microseconds.
+   (= 69291 clock ticks)
+Increase the size of the arrays if this shows that
+you are not getting at least 20 clock ticks per test.
+-------------------------------------------------------------
+WARNING -- The above is only a rough guideline.
+For best results, please be sure you know the
+precision of your system timer.
+-------------------------------------------------------------
+<<<======This is test : 6======>>>
+Fri Oct  4 15:18:39 +07 2019
+<<<======This is test : 7======>>>
+Fri Oct  4 15:18:39 +07 2019
+-------------------------------------------------------------
+STREAM version $Revision: 5.10 $
+-------------------------------------------------------------
+This system uses 8 bytes per array element.
+-------------------------------------------------------------
+Array size = 60000000 (elements), Offset = 0 (elements)
+Memory per array = 457.8 MiB (= 0.4 GiB).
+Total memory required = 1373.3 MiB (= 1.3 GiB).
+Each kernel will be executed 200 times.
+ The *best* time for each kernel (excluding the first iteration)
+ will be used to compute the reported bandwidth.
+-------------------------------------------------------------
+Your clock granularity/precision appears to be 1 microseconds.
+Each test below will take on the order of 69527 microseconds.
+   (= 69527 clock ticks)
+Increase the size of the arrays if this shows that
+you are not getting at least 20 clock ticks per test.
+-------------------------------------------------------------
+WARNING -- The above is only a rough guideline.
+For best results, please be sure you know the
+precision of your system timer.
+-------------------------------------------------------------
+<<<======This is test : 8======>>>
+Fri Oct  4 15:19:23 +07 2019
+<<<======This is test : 9======>>>
+Fri Oct  4 15:19:23 +07 2019
+-------------------------------------------------------------
+STREAM version $Revision: 5.10 $
+-------------------------------------------------------------
+This system uses 8 bytes per array element.
+-------------------------------------------------------------
+Array size = 60000000 (elements), Offset = 0 (elements)
+Memory per array = 457.8 MiB (= 0.4 GiB).
+Total memory required = 1373.3 MiB (= 1.3 GiB).
+Each kernel will be executed 200 times.
+ The *best* time for each kernel (excluding the first iteration)
+ will be used to compute the reported bandwidth.
+-------------------------------------------------------------
+Your clock granularity/precision appears to be 1 microseconds.
+Each test below will take on the order of 68400 microseconds.
+   (= 68400 clock ticks)
+Increase the size of the arrays if this shows that
+you are not getting at least 20 clock ticks per test.
+-------------------------------------------------------------
+WARNING -- The above is only a rough guideline.
+For best results, please be sure you know the
+precision of your system timer.
+-------------------------------------------------------------
+<<<======This is test : 10======>>>
+Fri Oct  4 15:20:06 +07 2019
+cannot exec in a stopped state: unknown
+<<<======This is test : 11======>>>
+Fri Oct  4 15:20:06 +07 2019
+<<<======This is test : 12======>>>
+Fri Oct  4 15:20:06 +07 2019
+-------------------------------------------------------------
+STREAM version $Revision: 5.10 $
+-------------------------------------------------------------
+This system uses 8 bytes per array element.
+-------------------------------------------------------------
+Array size = 60000000 (elements), Offset = 0 (elements)
+Memory per array = 457.8 MiB (= 0.4 GiB).
+Total memory required = 1373.3 MiB (= 1.3 GiB).
+Each kernel will be executed 200 times.
+ The *best* time for each kernel (excluding the first iteration)
+ will be used to compute the reported bandwidth.
+-------------------------------------------------------------
+Your clock granularity/precision appears to be 1 microseconds.
+Each test below will take on the order of 65588 microseconds.
+   (= 65588 clock ticks)
+Increase the size of the arrays if this shows that
+you are not getting at least 20 clock ticks per test.
+-------------------------------------------------------------
+WARNING -- The above is only a rough guideline.
+For best results, please be sure you know the
+precision of your system timer.
+-------------------------------------------------------------
+<<<======This is test : 13======>>>
+Fri Oct  4 15:20:50 +07 2019
+<<<======This is test : 14======>>>
+Fri Oct  4 15:20:50 +07 2019
+-------------------------------------------------------------
+STREAM version $Revision: 5.10 $
+-------------------------------------------------------------
+This system uses 8 bytes per array element.
+-------------------------------------------------------------
+Array size = 60000000 (elements), Offset = 0 (elements)
+Memory per array = 457.8 MiB (= 0.4 GiB).
+Total memory required = 1373.3 MiB (= 1.3 GiB).
+Each kernel will be executed 200 times.
+ The *best* time for each kernel (excluding the first iteration)
+ will be used to compute the reported bandwidth.
+-------------------------------------------------------------
+Your clock granularity/precision appears to be 1 microseconds.
+Each test below will take on the order of 83977 microseconds.
+   (= 83977 clock ticks)
+Increase the size of the arrays if this shows that
+you are not getting at least 20 clock ticks per test.
+-------------------------------------------------------------
+WARNING -- The above is only a rough guideline.
+For best results, please be sure you know the
+precision of your system timer.
+-------------------------------------------------------------
+<<<======This is test : 15======>>>
+Fri Oct  4 15:21:32 +07 2019
+<<<======This is test : 16======>>>
+Fri Oct  4 15:21:33 +07 2019
+<<<======This is test : 17======>>>
+Fri Oct  4 15:21:33 +07 2019
+-------------------------------------------------------------
+STREAM version $Revision: 5.10 $
+-------------------------------------------------------------
+This system uses 8 bytes per array element.
+-------------------------------------------------------------
+Array size = 60000000 (elements), Offset = 0 (elements)
+Memory per array = 457.8 MiB (= 0.4 GiB).
+Total memory required = 1373.3 MiB (= 1.3 GiB).
+Each kernel will be executed 200 times.
+ The *best* time for each kernel (excluding the first iteration)
+ will be used to compute the reported bandwidth.
+-------------------------------------------------------------
+Your clock granularity/precision appears to be 1 microseconds.
+Each test below will take on the order of 68425 microseconds.
+   (= 68425 clock ticks)
+Increase the size of the arrays if this shows that
+you are not getting at least 20 clock ticks per test.
+-------------------------------------------------------------
+WARNING -- The above is only a rough guideline.
+For best results, please be sure you know the
+precision of your system timer.
+-------------------------------------------------------------
+<<<======This is test : 18======>>>
+Fri Oct  4 15:22:14 +07 2019
+<<<======This is test : 19======>>>
+Fri Oct  4 15:22:15 +07 2019
+<<<======This is test : 20======>>>
+Fri Oct  4 15:22:15 +07 2019
+-------------------------------------------------------------
+STREAM version $Revision: 5.10 $
+-------------------------------------------------------------
+This system uses 8 bytes per array element.
+-------------------------------------------------------------
+Array size = 60000000 (elements), Offset = 0 (elements)
+Memory per array = 457.8 MiB (= 0.4 GiB).
+Total memory required = 1373.3 MiB (= 1.3 GiB).
+Each kernel will be executed 200 times.
+ The *best* time for each kernel (excluding the first iteration)
+ will be used to compute the reported bandwidth.
+-------------------------------------------------------------
+Your clock granularity/precision appears to be 1 microseconds.
+Each test below will take on the order of 69393 microseconds.
+   (= 69393 clock ticks)
+Increase the size of the arrays if this shows that
+you are not getting at least 20 clock ticks per test.
+-------------------------------------------------------------
+WARNING -- The above is only a rough guideline.
+For best results, please be sure you know the
+precision of your system timer.
+-------------------------------------------------------------
+<<<======This is test : 21======>>>
+Fri Oct  4 15:22:55 +07 2019
+<<<======This is test : 22======>>>
+Fri Oct  4 15:22:55 +07 2019
+-------------------------------------------------------------
+STREAM version $Revision: 5.10 $
+-------------------------------------------------------------
+This system uses 8 bytes per array element.
+-------------------------------------------------------------
+Array size = 60000000 (elements), Offset = 0 (elements)
+Memory per array = 457.8 MiB (= 0.4 GiB).
+Total memory required = 1373.3 MiB (= 1.3 GiB).
+Each kernel will be executed 200 times.
+ The *best* time for each kernel (excluding the first iteration)
+ will be used to compute the reported bandwidth.
+-------------------------------------------------------------
+Your clock granularity/precision appears to be 1 microseconds.
+Each test below will take on the order of 67150 microseconds.
+   (= 67150 clock ticks)
+Increase the size of the arrays if this shows that
+you are not getting at least 20 clock ticks per test.
+-------------------------------------------------------------
+WARNING -- The above is only a rough guideline.
+For best results, please be sure you know the
+precision of your system timer.
+-------------------------------------------------------------
+<<<======This is test : 23======>>>
+Fri Oct  4 15:23:37 +07 2019
+<<<======This is test : 24======>>>
+Fri Oct  4 15:23:38 +07 2019
+-------------------------------------------------------------
+STREAM version $Revision: 5.10 $
+-------------------------------------------------------------
+This system uses 8 bytes per array element.
+-------------------------------------------------------------
+Array size = 60000000 (elements), Offset = 0 (elements)
+Memory per array = 457.8 MiB (= 0.4 GiB).
+Total memory required = 1373.3 MiB (= 1.3 GiB).
+Each kernel will be executed 200 times.
+ The *best* time for each kernel (excluding the first iteration)
+ will be used to compute the reported bandwidth.
+-------------------------------------------------------------
+Your clock granularity/precision appears to be 1 microseconds.
+Each test below will take on the order of 65308 microseconds.
+   (= 65308 clock ticks)
+Increase the size of the arrays if this shows that
+you are not getting at least 20 clock ticks per test.
+-------------------------------------------------------------
+WARNING -- The above is only a rough guideline.
+For best results, please be sure you know the
+precision of your system timer.
+-------------------------------------------------------------
+<<<======This is test : 25======>>>
+Fri Oct  4 15:24:19 +07 2019
+<<<======This is test : 26======>>>
+Fri Oct  4 15:24:19 +07 2019
+-------------------------------------------------------------
+STREAM version $Revision: 5.10 $
+-------------------------------------------------------------
+This system uses 8 bytes per array element.
+-------------------------------------------------------------
+Array size = 60000000 (elements), Offset = 0 (elements)
+Memory per array = 457.8 MiB (= 0.4 GiB).
+Total memory required = 1373.3 MiB (= 1.3 GiB).
+Each kernel will be executed 200 times.
+ The *best* time for each kernel (excluding the first iteration)
+ will be used to compute the reported bandwidth.
+-------------------------------------------------------------
+Your clock granularity/precision appears to be 1 microseconds.
+Each test below will take on the order of 65443 microseconds.
+   (= 65443 clock ticks)
+Increase the size of the arrays if this shows that
+you are not getting at least 20 clock ticks per test.
+-------------------------------------------------------------
+WARNING -- The above is only a rough guideline.
+For best results, please be sure you know the
+precision of your system timer.
+-------------------------------------------------------------
+<<<======This is test : 27======>>>
+Fri Oct  4 15:25:03 +07 2019
+<<<======This is test : 28======>>>
+Fri Oct  4 15:25:04 +07 2019
+<<<======This is test : 29======>>>
+Fri Oct  4 15:25:04 +07 2019
+-------------------------------------------------------------
+STREAM version $Revision: 5.10 $
+-------------------------------------------------------------
+This system uses 8 bytes per array element.
+-------------------------------------------------------------
+Array size = 60000000 (elements), Offset = 0 (elements)
+Memory per array = 457.8 MiB (= 0.4 GiB).
+Total memory required = 1373.3 MiB (= 1.3 GiB).
+Each kernel will be executed 200 times.
+ The *best* time for each kernel (excluding the first iteration)
+ will be used to compute the reported bandwidth.
+-------------------------------------------------------------
+Your clock granularity/precision appears to be 1 microseconds.
+Each test below will take on the order of 125438 microseconds.
+   (= 125438 clock ticks)
+Increase the size of the arrays if this shows that
+you are not getting at least 20 clock ticks per test.
+-------------------------------------------------------------
+WARNING -- The above is only a rough guideline.
+For best results, please be sure you know the
+precision of your system timer.
+-------------------------------------------------------------
+<<<======This is test : 30======>>>
+Fri Oct  4 15:25:44 +07 2019
+<<<======This is test : 31======>>>
+Fri Oct  4 15:25:45 +07 2019
+<<<======This is test : 32======>>>
+Fri Oct  4 15:25:45 +07 2019
+-------------------------------------------------------------
+STREAM version $Revision: 5.10 $
+-------------------------------------------------------------
+This system uses 8 bytes per array element.
+-------------------------------------------------------------
+Array size = 60000000 (elements), Offset = 0 (elements)
+Memory per array = 457.8 MiB (= 0.4 GiB).
+Total memory required = 1373.3 MiB (= 1.3 GiB).
+Each kernel will be executed 200 times.
+ The *best* time for each kernel (excluding the first iteration)
+ will be used to compute the reported bandwidth.
+-------------------------------------------------------------
+Your clock granularity/precision appears to be 1 microseconds.
+Each test below will take on the order of 67384 microseconds.
+   (= 67384 clock ticks)
+Increase the size of the arrays if this shows that
+you are not getting at least 20 clock ticks per test.
+-------------------------------------------------------------
+WARNING -- The above is only a rough guideline.
+For best results, please be sure you know the
+precision of your system timer.
+-------------------------------------------------------------
+<<<======This is test : 33======>>>
+Fri Oct  4 15:26:29 +07 2019
+<<<======This is test : 34======>>>
+Fri Oct  4 15:26:29 +07 2019
+-------------------------------------------------------------
+STREAM version $Revision: 5.10 $
+-------------------------------------------------------------
+This system uses 8 bytes per array element.
+-------------------------------------------------------------
+Array size = 60000000 (elements), Offset = 0 (elements)
+Memory per array = 457.8 MiB (= 0.4 GiB).
+Total memory required = 1373.3 MiB (= 1.3 GiB).
+Each kernel will be executed 200 times.
+ The *best* time for each kernel (excluding the first iteration)
+ will be used to compute the reported bandwidth.
+-------------------------------------------------------------
+Your clock granularity/precision appears to be 1 microseconds.
+Each test below will take on the order of 67423 microseconds.
+   (= 67423 clock ticks)
+Increase the size of the arrays if this shows that
+you are not getting at least 20 clock ticks per test.
+-------------------------------------------------------------
+WARNING -- The above is only a rough guideline.
+For best results, please be sure you know the
+precision of your system timer.
+-------------------------------------------------------------
+<<<======This is test : 35======>>>
+Fri Oct  4 15:27:15 +07 2019
+<<<======This is test : 36======>>>
+Fri Oct  4 15:27:15 +07 2019
+<<<======This is test : 37======>>>
+Fri Oct  4 15:27:15 +07 2019
+-------------------------------------------------------------
+STREAM version $Revision: 5.10 $
+-------------------------------------------------------------
+This system uses 8 bytes per array element.
+-------------------------------------------------------------
+Array size = 60000000 (elements), Offset = 0 (elements)
+Memory per array = 457.8 MiB (= 0.4 GiB).
+Total memory required = 1373.3 MiB (= 1.3 GiB).
+Each kernel will be executed 200 times.
+ The *best* time for each kernel (excluding the first iteration)
+ will be used to compute the reported bandwidth.
+-------------------------------------------------------------
+Your clock granularity/precision appears to be 1 microseconds.
+Each test below will take on the order of 68898 microseconds.
+   (= 68898 clock ticks)
+Increase the size of the arrays if this shows that
+you are not getting at least 20 clock ticks per test.
+-------------------------------------------------------------
+WARNING -- The above is only a rough guideline.
+For best results, please be sure you know the
+precision of your system timer.
+-------------------------------------------------------------
+<<<======This is test : 38======>>>
+Fri Oct  4 15:27:58 +07 2019
+<<<======This is test : 39======>>>
+Fri Oct  4 15:27:58 +07 2019
+<<<======This is test : 40======>>>
+Fri Oct  4 15:27:58 +07 2019
+-------------------------------------------------------------
+STREAM version $Revision: 5.10 $
+-------------------------------------------------------------
+This system uses 8 bytes per array element.
+-------------------------------------------------------------
+Array size = 60000000 (elements), Offset = 0 (elements)
+Memory per array = 457.8 MiB (= 0.4 GiB).
+Total memory required = 1373.3 MiB (= 1.3 GiB).
+Each kernel will be executed 200 times.
+ The *best* time for each kernel (excluding the first iteration)
+ will be used to compute the reported bandwidth.
+-------------------------------------------------------------
+Your clock granularity/precision appears to be 1 microseconds.
+Each test below will take on the order of 67538 microseconds.
+   (= 67538 clock ticks)
+Increase the size of the arrays if this shows that
+you are not getting at least 20 clock ticks per test.
+-------------------------------------------------------------
+WARNING -- The above is only a rough guideline.
+For best results, please be sure you know the
+precision of your system timer.
+-------------------------------------------------------------
+<<<======This is test : 41======>>>
+Fri Oct  4 15:28:41 +07 2019
+<<<======This is test : 42======>>>
+Fri Oct  4 15:28:41 +07 2019
+-------------------------------------------------------------
+STREAM version $Revision: 5.10 $
+-------------------------------------------------------------
+This system uses 8 bytes per array element.
+-------------------------------------------------------------
+Array size = 60000000 (elements), Offset = 0 (elements)
+Memory per array = 457.8 MiB (= 0.4 GiB).
+Total memory required = 1373.3 MiB (= 1.3 GiB).
+Each kernel will be executed 200 times.
+ The *best* time for each kernel (excluding the first iteration)
+ will be used to compute the reported bandwidth.
+-------------------------------------------------------------
+Your clock granularity/precision appears to be 1 microseconds.
+Each test below will take on the order of 67905 microseconds.
+   (= 67905 clock ticks)
+Increase the size of the arrays if this shows that
+you are not getting at least 20 clock ticks per test.
+-------------------------------------------------------------
+WARNING -- The above is only a rough guideline.
+For best results, please be sure you know the
+precision of your system timer.
+-------------------------------------------------------------
+<<<======This is test : 43======>>>
+Fri Oct  4 15:29:23 +07 2019
+<<<======This is test : 44======>>>
+Fri Oct  4 15:29:23 +07 2019
+-------------------------------------------------------------
+STREAM version $Revision: 5.10 $
+-------------------------------------------------------------
+This system uses 8 bytes per array element.
+-------------------------------------------------------------
+Array size = 60000000 (elements), Offset = 0 (elements)
+Memory per array = 457.8 MiB (= 0.4 GiB).
+Total memory required = 1373.3 MiB (= 1.3 GiB).
+Each kernel will be executed 200 times.
+ The *best* time for each kernel (excluding the first iteration)
+ will be used to compute the reported bandwidth.
+-------------------------------------------------------------
+Your clock granularity/precision appears to be 1 microseconds.
+Each test below will take on the order of 65334 microseconds.
+   (= 65334 clock ticks)
+Increase the size of the arrays if this shows that
+you are not getting at least 20 clock ticks per test.
+-------------------------------------------------------------
+WARNING -- The above is only a rough guideline.
+For best results, please be sure you know the
+precision of your system timer.
+-------------------------------------------------------------
+<<<======This is test : 45======>>>
+Fri Oct  4 15:30:08 +07 2019
+<<<======This is test : 46======>>>
+Fri Oct  4 15:30:08 +07 2019
+<<<======This is test : 47======>>>
+Fri Oct  4 15:30:08 +07 2019
+-------------------------------------------------------------
+STREAM version $Revision: 5.10 $
+-------------------------------------------------------------
+This system uses 8 bytes per array element.
+-------------------------------------------------------------
+Array size = 60000000 (elements), Offset = 0 (elements)
+Memory per array = 457.8 MiB (= 0.4 GiB).
+Total memory required = 1373.3 MiB (= 1.3 GiB).
+Each kernel will be executed 200 times.
+ The *best* time for each kernel (excluding the first iteration)
+ will be used to compute the reported bandwidth.
+-------------------------------------------------------------
+Your clock granularity/precision appears to be 1 microseconds.
+Each test below will take on the order of 67334 microseconds.
+   (= 67334 clock ticks)
+Increase the size of the arrays if this shows that
+you are not getting at least 20 clock ticks per test.
+-------------------------------------------------------------
+WARNING -- The above is only a rough guideline.
+For best results, please be sure you know the
+precision of your system timer.
+-------------------------------------------------------------
+<<<======This is test : 48======>>>
+Fri Oct  4 15:30:51 +07 2019
+<<<======This is test : 49======>>>
+Fri Oct  4 15:30:52 +07 2019
+-------------------------------------------------------------
+STREAM version $Revision: 5.10 $
+-------------------------------------------------------------
+This system uses 8 bytes per array element.
+-------------------------------------------------------------
+Array size = 60000000 (elements), Offset = 0 (elements)
+Memory per array = 457.8 MiB (= 0.4 GiB).
+Total memory required = 1373.3 MiB (= 1.3 GiB).
+Each kernel will be executed 200 times.
+ The *best* time for each kernel (excluding the first iteration)
+ will be used to compute the reported bandwidth.
+-------------------------------------------------------------
+Your clock granularity/precision appears to be 1 microseconds.
+Each test below will take on the order of 68521 microseconds.
+   (= 68521 clock ticks)
+Increase the size of the arrays if this shows that
+you are not getting at least 20 clock ticks per test.
+-------------------------------------------------------------
+WARNING -- The above is only a rough guideline.
+For best results, please be sure you know the
+precision of your system timer.
+-------------------------------------------------------------
+<<<======This is test : 50======>>>
+Fri Oct  4 15:31:34 +07 2019
+<<<======This is test : 51======>>>
+Fri Oct  4 15:31:35 +07 2019
+<<<======This is test : 52======>>>
+Fri Oct  4 15:31:35 +07 2019
+-------------------------------------------------------------
+STREAM version $Revision: 5.10 $
+-------------------------------------------------------------
+This system uses 8 bytes per array element.
+-------------------------------------------------------------
+Array size = 60000000 (elements), Offset = 0 (elements)
+Memory per array = 457.8 MiB (= 0.4 GiB).
+Total memory required = 1373.3 MiB (= 1.3 GiB).
+Each kernel will be executed 200 times.
+ The *best* time for each kernel (excluding the first iteration)
+ will be used to compute the reported bandwidth.
+-------------------------------------------------------------
+Your clock granularity/precision appears to be 1 microseconds.
+Each test below will take on the order of 83710 microseconds.
+   (= 83710 clock ticks)
+Increase the size of the arrays if this shows that
+you are not getting at least 20 clock ticks per test.
+-------------------------------------------------------------
+WARNING -- The above is only a rough guideline.
+For best results, please be sure you know the
+precision of your system timer.
+-------------------------------------------------------------
+<<<======This is test : 53======>>>
+Fri Oct  4 15:32:18 +07 2019
+<<<======This is test : 54======>>>
+Fri Oct  4 15:32:18 +07 2019
+<<<======This is test : 55======>>>
+Fri Oct  4 15:32:18 +07 2019
+-------------------------------------------------------------
+STREAM version $Revision: 5.10 $
+-------------------------------------------------------------
+This system uses 8 bytes per array element.
+-------------------------------------------------------------
+Array size = 60000000 (elements), Offset = 0 (elements)
+Memory per array = 457.8 MiB (= 0.4 GiB).
+Total memory required = 1373.3 MiB (= 1.3 GiB).
+Each kernel will be executed 200 times.
+ The *best* time for each kernel (excluding the first iteration)
+ will be used to compute the reported bandwidth.
+-------------------------------------------------------------
+Your clock granularity/precision appears to be 1 microseconds.
+Each test below will take on the order of 67881 microseconds.
+   (= 67881 clock ticks)
+Increase the size of the arrays if this shows that
+you are not getting at least 20 clock ticks per test.
+-------------------------------------------------------------
+WARNING -- The above is only a rough guideline.
+For best results, please be sure you know the
+precision of your system timer.
+-------------------------------------------------------------
+<<<======This is test : 56======>>>
+Fri Oct  4 15:33:03 +07 2019
+<<<======This is test : 57======>>>
+Fri Oct  4 15:33:03 +07 2019
+-------------------------------------------------------------
+STREAM version $Revision: 5.10 $
+-------------------------------------------------------------
+This system uses 8 bytes per array element.
+-------------------------------------------------------------
+Array size = 60000000 (elements), Offset = 0 (elements)
+Memory per array = 457.8 MiB (= 0.4 GiB).
+Total memory required = 1373.3 MiB (= 1.3 GiB).
+Each kernel will be executed 200 times.
+ The *best* time for each kernel (excluding the first iteration)
+ will be used to compute the reported bandwidth.
+-------------------------------------------------------------
+Your clock granularity/precision appears to be 1 microseconds.
+Each test below will take on the order of 71712 microseconds.
+   (= 71712 clock ticks)
+Increase the size of the arrays if this shows that
+you are not getting at least 20 clock ticks per test.
+-------------------------------------------------------------
+WARNING -- The above is only a rough guideline.
+For best results, please be sure you know the
+precision of your system timer.
+-------------------------------------------------------------
+<<<======This is test : 58======>>>
+Fri Oct  4 15:33:48 +07 2019
+<<<======This is test : 59======>>>
+Fri Oct  4 15:33:48 +07 2019
+-------------------------------------------------------------
+STREAM version $Revision: 5.10 $
+-------------------------------------------------------------
+This system uses 8 bytes per array element.
+-------------------------------------------------------------
+Array size = 60000000 (elements), Offset = 0 (elements)
+Memory per array = 457.8 MiB (= 0.4 GiB).
+Total memory required = 1373.3 MiB (= 1.3 GiB).
+Each kernel will be executed 200 times.
+ The *best* time for each kernel (excluding the first iteration)
+ will be used to compute the reported bandwidth.
+-------------------------------------------------------------
+Your clock granularity/precision appears to be 1 microseconds.
+Each test below will take on the order of 66622 microseconds.
+   (= 66622 clock ticks)
+Increase the size of the arrays if this shows that
+you are not getting at least 20 clock ticks per test.
+-------------------------------------------------------------
+WARNING -- The above is only a rough guideline.
+For best results, please be sure you know the
+precision of your system timer.
+-------------------------------------------------------------
+<<<======This is test : 60======>>>
+Fri Oct  4 15:34:31 +07 2019
+cannot exec in a stopped state: unknown
+<<<======This is test : 61======>>>
+Fri Oct  4 15:34:31 +07 2019
+<<<======This is test : 62======>>>
+Fri Oct  4 15:34:32 +07 2019
+-------------------------------------------------------------
+STREAM version $Revision: 5.10 $
+-------------------------------------------------------------
+This system uses 8 bytes per array element.
+-------------------------------------------------------------
+Array size = 60000000 (elements), Offset = 0 (elements)
+Memory per array = 457.8 MiB (= 0.4 GiB).
+Total memory required = 1373.3 MiB (= 1.3 GiB).
+Each kernel will be executed 200 times.
+ The *best* time for each kernel (excluding the first iteration)
+ will be used to compute the reported bandwidth.
+-------------------------------------------------------------
+Your clock granularity/precision appears to be 1 microseconds.
+Each test below will take on the order of 68659 microseconds.
+   (= 68659 clock ticks)
+Increase the size of the arrays if this shows that
+you are not getting at least 20 clock ticks per test.
+-------------------------------------------------------------
+WARNING -- The above is only a rough guideline.
+For best results, please be sure you know the
+precision of your system timer.
+-------------------------------------------------------------
+<<<======This is test : 63======>>>
+Fri Oct  4 15:35:12 +07 2019
+<<<======This is test : 64======>>>
+Fri Oct  4 15:35:12 +07 2019
+<<<======This is test : 65======>>>
+Fri Oct  4 15:35:12 +07 2019
+-------------------------------------------------------------
+STREAM version $Revision: 5.10 $
+-------------------------------------------------------------
+This system uses 8 bytes per array element.
+-------------------------------------------------------------
+Array size = 60000000 (elements), Offset = 0 (elements)
+Memory per array = 457.8 MiB (= 0.4 GiB).
+Total memory required = 1373.3 MiB (= 1.3 GiB).
+Each kernel will be executed 200 times.
+ The *best* time for each kernel (excluding the first iteration)
+ will be used to compute the reported bandwidth.
+-------------------------------------------------------------
+Your clock granularity/precision appears to be 1 microseconds.
+Each test below will take on the order of 79262 microseconds.
+   (= 79262 clock ticks)
+Increase the size of the arrays if this shows that
+you are not getting at least 20 clock ticks per test.
+-------------------------------------------------------------
+WARNING -- The above is only a rough guideline.
+For best results, please be sure you know the
+precision of your system timer.
+-------------------------------------------------------------
+<<<======This is test : 66======>>>
+Fri Oct  4 15:35:56 +07 2019
+<<<======This is test : 67======>>>
+Fri Oct  4 15:35:56 +07 2019
+<<<======This is test : 68======>>>
+Fri Oct  4 15:35:56 +07 2019
+-------------------------------------------------------------
+STREAM version $Revision: 5.10 $
+-------------------------------------------------------------
+This system uses 8 bytes per array element.
+-------------------------------------------------------------
+Array size = 60000000 (elements), Offset = 0 (elements)
+Memory per array = 457.8 MiB (= 0.4 GiB).
+Total memory required = 1373.3 MiB (= 1.3 GiB).
+Each kernel will be executed 200 times.
+ The *best* time for each kernel (excluding the first iteration)
+ will be used to compute the reported bandwidth.
+-------------------------------------------------------------
+Your clock granularity/precision appears to be 1 microseconds.
+Each test below will take on the order of 65943 microseconds.
+   (= 65943 clock ticks)
+Increase the size of the arrays if this shows that
+you are not getting at least 20 clock ticks per test.
+-------------------------------------------------------------
+WARNING -- The above is only a rough guideline.
+For best results, please be sure you know the
+precision of your system timer.
+-------------------------------------------------------------
+<<<======This is test : 69======>>>
+Fri Oct  4 15:36:41 +07 2019
+<<<======This is test : 70======>>>
+Fri Oct  4 15:36:41 +07 2019
+<<<======This is test : 71======>>>
+Fri Oct  4 15:36:41 +07 2019
+-------------------------------------------------------------
+STREAM version $Revision: 5.10 $
+-------------------------------------------------------------
+This system uses 8 bytes per array element.
+-------------------------------------------------------------
+Array size = 60000000 (elements), Offset = 0 (elements)
+Memory per array = 457.8 MiB (= 0.4 GiB).
+Total memory required = 1373.3 MiB (= 1.3 GiB).
+Each kernel will be executed 200 times.
+ The *best* time for each kernel (excluding the first iteration)
+ will be used to compute the reported bandwidth.
+-------------------------------------------------------------
+Your clock granularity/precision appears to be 1 microseconds.
+Each test below will take on the order of 130254 microseconds.
+   (= 130254 clock ticks)
+Increase the size of the arrays if this shows that
+you are not getting at least 20 clock ticks per test.
+-------------------------------------------------------------
+WARNING -- The above is only a rough guideline.
+For best results, please be sure you know the
+precision of your system timer.
+-------------------------------------------------------------
+<<<======This is test : 72======>>>
+Fri Oct  4 15:37:23 +07 2019
+<<<======This is test : 73======>>>
+Fri Oct  4 15:37:23 +07 2019
+-------------------------------------------------------------
+STREAM version $Revision: 5.10 $
+-------------------------------------------------------------
+This system uses 8 bytes per array element.
+-------------------------------------------------------------
+Array size = 60000000 (elements), Offset = 0 (elements)
+Memory per array = 457.8 MiB (= 0.4 GiB).
+Total memory required = 1373.3 MiB (= 1.3 GiB).
+Each kernel will be executed 200 times.
+ The *best* time for each kernel (excluding the first iteration)
+ will be used to compute the reported bandwidth.
+-------------------------------------------------------------
+Your clock granularity/precision appears to be 1 microseconds.
+Each test below will take on the order of 80849 microseconds.
+   (= 80849 clock ticks)
+Increase the size of the arrays if this shows that
+you are not getting at least 20 clock ticks per test.
+-------------------------------------------------------------
+WARNING -- The above is only a rough guideline.
+For best results, please be sure you know the
+precision of your system timer.
+-------------------------------------------------------------
+<<<======This is test : 74======>>>
+Fri Oct  4 15:38:06 +07 2019
+<<<======This is test : 75======>>>
+Fri Oct  4 15:38:07 +07 2019
+-------------------------------------------------------------
+STREAM version $Revision: 5.10 $
+-------------------------------------------------------------
+This system uses 8 bytes per array element.
+-------------------------------------------------------------
+Array size = 60000000 (elements), Offset = 0 (elements)
+Memory per array = 457.8 MiB (= 0.4 GiB).
+Total memory required = 1373.3 MiB (= 1.3 GiB).
+Each kernel will be executed 200 times.
+ The *best* time for each kernel (excluding the first iteration)
+ will be used to compute the reported bandwidth.
+-------------------------------------------------------------
+Your clock granularity/precision appears to be 1 microseconds.
+Each test below will take on the order of 132127 microseconds.
+   (= 132127 clock ticks)
+Increase the size of the arrays if this shows that
+you are not getting at least 20 clock ticks per test.
+-------------------------------------------------------------
+WARNING -- The above is only a rough guideline.
+For best results, please be sure you know the
+precision of your system timer.
+-------------------------------------------------------------
+<<<======This is test : 76======>>>
+Fri Oct  4 15:38:51 +07 2019
+<<<======This is test : 77======>>>
+Fri Oct  4 15:38:51 +07 2019
+-------------------------------------------------------------
+STREAM version $Revision: 5.10 $
+-------------------------------------------------------------
+This system uses 8 bytes per array element.
+-------------------------------------------------------------
+Array size = 60000000 (elements), Offset = 0 (elements)
+Memory per array = 457.8 MiB (= 0.4 GiB).
+Total memory required = 1373.3 MiB (= 1.3 GiB).
+Each kernel will be executed 200 times.
+ The *best* time for each kernel (excluding the first iteration)
+ will be used to compute the reported bandwidth.
+-------------------------------------------------------------
+Your clock granularity/precision appears to be 1 microseconds.
+Each test below will take on the order of 67943 microseconds.
+   (= 67943 clock ticks)
+Increase the size of the arrays if this shows that
+you are not getting at least 20 clock ticks per test.
+-------------------------------------------------------------
+WARNING -- The above is only a rough guideline.
+For best results, please be sure you know the
+precision of your system timer.
+-------------------------------------------------------------
+<<<======This is test : 78======>>>
+Fri Oct  4 15:39:33 +07 2019
+cannot exec in a stopped state: unknown
+<<<======This is test : 79======>>>
+Fri Oct  4 15:39:33 +07 2019
+<<<======This is test : 80======>>>
+Fri Oct  4 15:39:33 +07 2019
+-------------------------------------------------------------
+STREAM version $Revision: 5.10 $
+-------------------------------------------------------------
+This system uses 8 bytes per array element.
+-------------------------------------------------------------
+Array size = 60000000 (elements), Offset = 0 (elements)
+Memory per array = 457.8 MiB (= 0.4 GiB).
+Total memory required = 1373.3 MiB (= 1.3 GiB).
+Each kernel will be executed 200 times.
+ The *best* time for each kernel (excluding the first iteration)
+ will be used to compute the reported bandwidth.
+-------------------------------------------------------------
+Your clock granularity/precision appears to be 1 microseconds.
+Each test below will take on the order of 67264 microseconds.
+   (= 67264 clock ticks)
+Increase the size of the arrays if this shows that
+you are not getting at least 20 clock ticks per test.
+-------------------------------------------------------------
+WARNING -- The above is only a rough guideline.
+For best results, please be sure you know the
+precision of your system timer.
+-------------------------------------------------------------
+<<<======This is test : 81======>>>
+Fri Oct  4 15:40:15 +07 2019
+cannot exec in a stopped state: unknown
+<<<======This is test : 82======>>>
+Fri Oct  4 15:40:15 +07 2019
+<<<======This is test : 83======>>>
+Fri Oct  4 15:40:16 +07 2019
+<<<======This is test : 84======>>>
+Fri Oct  4 15:40:16 +07 2019
+-------------------------------------------------------------
+STREAM version $Revision: 5.10 $
+-------------------------------------------------------------
+This system uses 8 bytes per array element.
+-------------------------------------------------------------
+Array size = 60000000 (elements), Offset = 0 (elements)
+Memory per array = 457.8 MiB (= 0.4 GiB).
+Total memory required = 1373.3 MiB (= 1.3 GiB).
+Each kernel will be executed 200 times.
+ The *best* time for each kernel (excluding the first iteration)
+ will be used to compute the reported bandwidth.
+-------------------------------------------------------------
+Your clock granularity/precision appears to be 1 microseconds.
+Each test below will take on the order of 68449 microseconds.
+   (= 68449 clock ticks)
+Increase the size of the arrays if this shows that
+you are not getting at least 20 clock ticks per test.
+-------------------------------------------------------------
+WARNING -- The above is only a rough guideline.
+For best results, please be sure you know the
+precision of your system timer.
+-------------------------------------------------------------
+<<<======This is test : 85======>>>
+Fri Oct  4 15:41:01 +07 2019
+<<<======This is test : 86======>>>
+Fri Oct  4 15:41:01 +07 2019
+-------------------------------------------------------------
+STREAM version $Revision: 5.10 $
+-------------------------------------------------------------
+This system uses 8 bytes per array element.
+-------------------------------------------------------------
+Array size = 60000000 (elements), Offset = 0 (elements)
+Memory per array = 457.8 MiB (= 0.4 GiB).
+Total memory required = 1373.3 MiB (= 1.3 GiB).
+Each kernel will be executed 200 times.
+ The *best* time for each kernel (excluding the first iteration)
+ will be used to compute the reported bandwidth.
+-------------------------------------------------------------
+Your clock granularity/precision appears to be 1 microseconds.
+Each test below will take on the order of 67494 microseconds.
+   (= 67494 clock ticks)
+Increase the size of the arrays if this shows that
+you are not getting at least 20 clock ticks per test.
+-------------------------------------------------------------
+WARNING -- The above is only a rough guideline.
+For best results, please be sure you know the
+precision of your system timer.
+-------------------------------------------------------------
+<<<======This is test : 87======>>>
+Fri Oct  4 15:41:46 +07 2019
+<<<======This is test : 88======>>>
+Fri Oct  4 15:41:46 +07 2019
+<<<======This is test : 89======>>>
+Fri Oct  4 15:41:46 +07 2019
+-------------------------------------------------------------
+STREAM version $Revision: 5.10 $
+-------------------------------------------------------------
+This system uses 8 bytes per array element.
+-------------------------------------------------------------
+Array size = 60000000 (elements), Offset = 0 (elements)
+Memory per array = 457.8 MiB (= 0.4 GiB).
+Total memory required = 1373.3 MiB (= 1.3 GiB).
+Each kernel will be executed 200 times.
+ The *best* time for each kernel (excluding the first iteration)
+ will be used to compute the reported bandwidth.
+-------------------------------------------------------------
+Your clock granularity/precision appears to be 1 microseconds.
+Each test below will take on the order of 67742 microseconds.
+   (= 67742 clock ticks)
+Increase the size of the arrays if this shows that
+you are not getting at least 20 clock ticks per test.
+-------------------------------------------------------------
+WARNING -- The above is only a rough guideline.
+For best results, please be sure you know the
+precision of your system timer.
+-------------------------------------------------------------
+<<<======This is test : 90======>>>
+Fri Oct  4 15:42:32 +07 2019
+<<<======This is test : 91======>>>
+Fri Oct  4 15:42:32 +07 2019
+-------------------------------------------------------------
+STREAM version $Revision: 5.10 $
+-------------------------------------------------------------
+This system uses 8 bytes per array element.
+-------------------------------------------------------------
+Array size = 60000000 (elements), Offset = 0 (elements)
+Memory per array = 457.8 MiB (= 0.4 GiB).
+Total memory required = 1373.3 MiB (= 1.3 GiB).
+Each kernel will be executed 200 times.
+ The *best* time for each kernel (excluding the first iteration)
+ will be used to compute the reported bandwidth.
+-------------------------------------------------------------
+Your clock granularity/precision appears to be 1 microseconds.
+Each test below will take on the order of 67148 microseconds.
+   (= 67148 clock ticks)
+Increase the size of the arrays if this shows that
+you are not getting at least 20 clock ticks per test.
+-------------------------------------------------------------
+WARNING -- The above is only a rough guideline.
+For best results, please be sure you know the
+precision of your system timer.
+-------------------------------------------------------------
+<<<======This is test : 92======>>>
+Fri Oct  4 15:43:19 +07 2019
+<<<======This is test : 93======>>>
+Fri Oct  4 15:43:19 +07 2019
+-------------------------------------------------------------
+STREAM version $Revision: 5.10 $
+-------------------------------------------------------------
+This system uses 8 bytes per array element.
+-------------------------------------------------------------
+Array size = 60000000 (elements), Offset = 0 (elements)
+Memory per array = 457.8 MiB (= 0.4 GiB).
+Total memory required = 1373.3 MiB (= 1.3 GiB).
+Each kernel will be executed 200 times.
+ The *best* time for each kernel (excluding the first iteration)
+ will be used to compute the reported bandwidth.
+-------------------------------------------------------------
+Your clock granularity/precision appears to be 1 microseconds.
+Each test below will take on the order of 122917 microseconds.
+   (= 122917 clock ticks)
+Increase the size of the arrays if this shows that
+you are not getting at least 20 clock ticks per test.
+-------------------------------------------------------------
+WARNING -- The above is only a rough guideline.
+For best results, please be sure you know the
+precision of your system timer.
+-------------------------------------------------------------
+<<<======This is test : 94======>>>
+Fri Oct  4 15:44:02 +07 2019
+<<<======This is test : 95======>>>
+Fri Oct  4 15:44:02 +07 2019
+-------------------------------------------------------------
+STREAM version $Revision: 5.10 $
+-------------------------------------------------------------
+This system uses 8 bytes per array element.
+-------------------------------------------------------------
+Array size = 60000000 (elements), Offset = 0 (elements)
+Memory per array = 457.8 MiB (= 0.4 GiB).
+Total memory required = 1373.3 MiB (= 1.3 GiB).
+Each kernel will be executed 200 times.
+ The *best* time for each kernel (excluding the first iteration)
+ will be used to compute the reported bandwidth.
+-------------------------------------------------------------
+Your clock granularity/precision appears to be 1 microseconds.
+Each test below will take on the order of 69270 microseconds.
+   (= 69270 clock ticks)
+Increase the size of the arrays if this shows that
+you are not getting at least 20 clock ticks per test.
+-------------------------------------------------------------
+WARNING -- The above is only a rough guideline.
+For best results, please be sure you know the
+precision of your system timer.
+-------------------------------------------------------------
+<<<======This is test : 96======>>>
+Fri Oct  4 15:44:45 +07 2019
+<<<======This is test : 97======>>>
+Fri Oct  4 15:44:45 +07 2019
+<<<======This is test : 98======>>>
+Fri Oct  4 15:44:45 +07 2019
+-------------------------------------------------------------
+STREAM version $Revision: 5.10 $
+-------------------------------------------------------------
+This system uses 8 bytes per array element.
+-------------------------------------------------------------
+Array size = 60000000 (elements), Offset = 0 (elements)
+Memory per array = 457.8 MiB (= 0.4 GiB).
+Total memory required = 1373.3 MiB (= 1.3 GiB).
+Each kernel will be executed 200 times.
+ The *best* time for each kernel (excluding the first iteration)
+ will be used to compute the reported bandwidth.
+-------------------------------------------------------------
+Your clock granularity/precision appears to be 1 microseconds.
+Each test below will take on the order of 67346 microseconds.
+   (= 67346 clock ticks)
+Increase the size of the arrays if this shows that
+you are not getting at least 20 clock ticks per test.
+-------------------------------------------------------------
+WARNING -- The above is only a rough guideline.
+For best results, please be sure you know the
+precision of your system timer.
+-------------------------------------------------------------
+<<<======This is test : 99======>>>
+Fri Oct  4 15:45:26 +07 2019
+<<<======This is test : 100======>>>
+Fri Oct  4 15:45:27 +07 2019
+<<<======This is test : 101======>>>
+Fri Oct  4 15:45:27 +07 2019
+-------------------------------------------------------------
+STREAM version $Revision: 5.10 $
+-------------------------------------------------------------
+This system uses 8 bytes per array element.
+-------------------------------------------------------------
+Array size = 60000000 (elements), Offset = 0 (elements)
+Memory per array = 457.8 MiB (= 0.4 GiB).
+Total memory required = 1373.3 MiB (= 1.3 GiB).
+Each kernel will be executed 200 times.
+ The *best* time for each kernel (excluding the first iteration)
+ will be used to compute the reported bandwidth.
+-------------------------------------------------------------
+Your clock granularity/precision appears to be 1 microseconds.
+Each test below will take on the order of 67916 microseconds.
+   (= 67916 clock ticks)
+Increase the size of the arrays if this shows that
+you are not getting at least 20 clock ticks per test.
+-------------------------------------------------------------
+WARNING -- The above is only a rough guideline.
+For best results, please be sure you know the
+precision of your system timer.
+-------------------------------------------------------------
+<<<======This is test : 102======>>>
+Fri Oct  4 15:46:10 +07 2019
+<<<======This is test : 103======>>>
+Fri Oct  4 15:46:11 +07 2019
+-------------------------------------------------------------
+STREAM version $Revision: 5.10 $
+-------------------------------------------------------------
+This system uses 8 bytes per array element.
+-------------------------------------------------------------
+Array size = 60000000 (elements), Offset = 0 (elements)
+Memory per array = 457.8 MiB (= 0.4 GiB).
+Total memory required = 1373.3 MiB (= 1.3 GiB).
+Each kernel will be executed 200 times.
+ The *best* time for each kernel (excluding the first iteration)
+ will be used to compute the reported bandwidth.
+-------------------------------------------------------------
+Your clock granularity/precision appears to be 1 microseconds.
+Each test below will take on the order of 67967 microseconds.
+   (= 67967 clock ticks)
+Increase the size of the arrays if this shows that
+you are not getting at least 20 clock ticks per test.
+-------------------------------------------------------------
+WARNING -- The above is only a rough guideline.
+For best results, please be sure you know the
+precision of your system timer.
+-------------------------------------------------------------
+<<<======This is test : 104======>>>
+Fri Oct  4 15:46:54 +07 2019
+<<<======This is test : 105======>>>
+Fri Oct  4 15:46:54 +07 2019
+<<<======This is test : 106======>>>
+Fri Oct  4 15:46:54 +07 2019
+-------------------------------------------------------------
+STREAM version $Revision: 5.10 $
+-------------------------------------------------------------
+This system uses 8 bytes per array element.
+-------------------------------------------------------------
+Array size = 60000000 (elements), Offset = 0 (elements)
+Memory per array = 457.8 MiB (= 0.4 GiB).
+Total memory required = 1373.3 MiB (= 1.3 GiB).
+Each kernel will be executed 200 times.
+ The *best* time for each kernel (excluding the first iteration)
+ will be used to compute the reported bandwidth.
+-------------------------------------------------------------
+Your clock granularity/precision appears to be 1 microseconds.
+Each test below will take on the order of 68557 microseconds.
+   (= 68557 clock ticks)
+Increase the size of the arrays if this shows that
+you are not getting at least 20 clock ticks per test.
+-------------------------------------------------------------
+WARNING -- The above is only a rough guideline.
+For best results, please be sure you know the
+precision of your system timer.
+-------------------------------------------------------------
+<<<======This is test : 107======>>>
+Fri Oct  4 15:47:36 +07 2019
+<<<======This is test : 108======>>>
+Fri Oct  4 15:47:36 +07 2019
+<<<======This is test : 109======>>>
+Fri Oct  4 15:47:36 +07 2019
+-------------------------------------------------------------
+STREAM version $Revision: 5.10 $
+-------------------------------------------------------------
+This system uses 8 bytes per array element.
+-------------------------------------------------------------
+Array size = 60000000 (elements), Offset = 0 (elements)
+Memory per array = 457.8 MiB (= 0.4 GiB).
+Total memory required = 1373.3 MiB (= 1.3 GiB).
+Each kernel will be executed 200 times.
+ The *best* time for each kernel (excluding the first iteration)
+ will be used to compute the reported bandwidth.
+-------------------------------------------------------------
+Your clock granularity/precision appears to be 1 microseconds.
+Each test below will take on the order of 65695 microseconds.
+   (= 65695 clock ticks)
+Increase the size of the arrays if this shows that
+you are not getting at least 20 clock ticks per test.
+-------------------------------------------------------------
+WARNING -- The above is only a rough guideline.
+For best results, please be sure you know the
+precision of your system timer.
+-------------------------------------------------------------
+<<<======This is test : 110======>>>
+Fri Oct  4 15:48:19 +07 2019
+cannot exec in a stopped state: unknown
+<<<======This is test : 111======>>>
+Fri Oct  4 15:48:19 +07 2019
+<<<======This is test : 112======>>>
+Fri Oct  4 15:48:20 +07 2019
+<<<======This is test : 113======>>>
+Fri Oct  4 15:48:20 +07 2019
+-------------------------------------------------------------
+STREAM version $Revision: 5.10 $
+-------------------------------------------------------------
+This system uses 8 bytes per array element.
+-------------------------------------------------------------
+Array size = 60000000 (elements), Offset = 0 (elements)
+Memory per array = 457.8 MiB (= 0.4 GiB).
+Total memory required = 1373.3 MiB (= 1.3 GiB).
+Each kernel will be executed 200 times.
+ The *best* time for each kernel (excluding the first iteration)
+ will be used to compute the reported bandwidth.
+-------------------------------------------------------------
+Your clock granularity/precision appears to be 1 microseconds.
+Each test below will take on the order of 67603 microseconds.
+   (= 67603 clock ticks)
+Increase the size of the arrays if this shows that
+you are not getting at least 20 clock ticks per test.
+-------------------------------------------------------------
+WARNING -- The above is only a rough guideline.
+For best results, please be sure you know the
+precision of your system timer.
+-------------------------------------------------------------
+<<<======This is test : 114======>>>
+Fri Oct  4 15:49:01 +07 2019
+<<<======This is test : 115======>>>
+Fri Oct  4 15:49:01 +07 2019
+<<<======This is test : 116======>>>
+Fri Oct  4 15:49:01 +07 2019
+-------------------------------------------------------------
+STREAM version $Revision: 5.10 $
+-------------------------------------------------------------
+This system uses 8 bytes per array element.
+-------------------------------------------------------------
+Array size = 60000000 (elements), Offset = 0 (elements)
+Memory per array = 457.8 MiB (= 0.4 GiB).
+Total memory required = 1373.3 MiB (= 1.3 GiB).
+Each kernel will be executed 200 times.
+ The *best* time for each kernel (excluding the first iteration)
+ will be used to compute the reported bandwidth.
+-------------------------------------------------------------
+Your clock granularity/precision appears to be 1 microseconds.
+Each test below will take on the order of 67224 microseconds.
+   (= 67224 clock ticks)
+Increase the size of the arrays if this shows that
+you are not getting at least 20 clock ticks per test.
+-------------------------------------------------------------
+WARNING -- The above is only a rough guideline.
+For best results, please be sure you know the
+precision of your system timer.
+-------------------------------------------------------------
+<<<======This is test : 117======>>>
+Fri Oct  4 15:49:44 +07 2019
+<<<======This is test : 118======>>>
+Fri Oct  4 15:49:44 +07 2019
+<<<======This is test : 119======>>>
+Fri Oct  4 15:49:44 +07 2019
+-------------------------------------------------------------
+STREAM version $Revision: 5.10 $
+-------------------------------------------------------------
+This system uses 8 bytes per array element.
+-------------------------------------------------------------
+Array size = 60000000 (elements), Offset = 0 (elements)
+Memory per array = 457.8 MiB (= 0.4 GiB).
+Total memory required = 1373.3 MiB (= 1.3 GiB).
+Each kernel will be executed 200 times.
+ The *best* time for each kernel (excluding the first iteration)
+ will be used to compute the reported bandwidth.
+-------------------------------------------------------------
+Your clock granularity/precision appears to be 1 microseconds.
+Each test below will take on the order of 67538 microseconds.
+   (= 67538 clock ticks)
+Increase the size of the arrays if this shows that
+you are not getting at least 20 clock ticks per test.
+-------------------------------------------------------------
+WARNING -- The above is only a rough guideline.
+For best results, please be sure you know the
+precision of your system timer.
+-------------------------------------------------------------
+<<<======This is test : 120======>>>
+Fri Oct  4 15:50:28 +07 2019
+<<<======This is test : 121======>>>
+Fri Oct  4 15:50:28 +07 2019
+<<<======This is test : 122======>>>
+Fri Oct  4 15:50:28 +07 2019
+-------------------------------------------------------------
+STREAM version $Revision: 5.10 $
+-------------------------------------------------------------
+This system uses 8 bytes per array element.
+-------------------------------------------------------------
+Array size = 60000000 (elements), Offset = 0 (elements)
+Memory per array = 457.8 MiB (= 0.4 GiB).
+Total memory required = 1373.3 MiB (= 1.3 GiB).
+Each kernel will be executed 200 times.
+ The *best* time for each kernel (excluding the first iteration)
+ will be used to compute the reported bandwidth.
+-------------------------------------------------------------
+Your clock granularity/precision appears to be 1 microseconds.
+Each test below will take on the order of 67026 microseconds.
+   (= 67026 clock ticks)
+Increase the size of the arrays if this shows that
+you are not getting at least 20 clock ticks per test.
+-------------------------------------------------------------
+WARNING -- The above is only a rough guideline.
+For best results, please be sure you know the
+precision of your system timer.
+-------------------------------------------------------------
+<<<======This is test : 123======>>>
+Fri Oct  4 15:51:11 +07 2019
+<<<======This is test : 124======>>>
+Fri Oct  4 15:51:11 +07 2019
+<<<======This is test : 125======>>>
+Fri Oct  4 15:51:11 +07 2019
+-------------------------------------------------------------
+STREAM version $Revision: 5.10 $
+-------------------------------------------------------------
+This system uses 8 bytes per array element.
+-------------------------------------------------------------
+Array size = 60000000 (elements), Offset = 0 (elements)
+Memory per array = 457.8 MiB (= 0.4 GiB).
+Total memory required = 1373.3 MiB (= 1.3 GiB).
+Each kernel will be executed 200 times.
+ The *best* time for each kernel (excluding the first iteration)
+ will be used to compute the reported bandwidth.
+-------------------------------------------------------------
+Your clock granularity/precision appears to be 1 microseconds.
+Each test below will take on the order of 68852 microseconds.
+   (= 68852 clock ticks)
+Increase the size of the arrays if this shows that
+you are not getting at least 20 clock ticks per test.
+-------------------------------------------------------------
+WARNING -- The above is only a rough guideline.
+For best results, please be sure you know the
+precision of your system timer.
+-------------------------------------------------------------
+<<<======This is test : 126======>>>
+Fri Oct  4 15:51:55 +07 2019
+<<<======This is test : 127======>>>
+Fri Oct  4 15:51:55 +07 2019
+<<<======This is test : 128======>>>
+Fri Oct  4 15:51:55 +07 2019
+-------------------------------------------------------------
+STREAM version $Revision: 5.10 $
+-------------------------------------------------------------
+This system uses 8 bytes per array element.
+-------------------------------------------------------------
+Array size = 60000000 (elements), Offset = 0 (elements)
+Memory per array = 457.8 MiB (= 0.4 GiB).
+Total memory required = 1373.3 MiB (= 1.3 GiB).
+Each kernel will be executed 200 times.
+ The *best* time for each kernel (excluding the first iteration)
+ will be used to compute the reported bandwidth.
+-------------------------------------------------------------
+Your clock granularity/precision appears to be 1 microseconds.
+Each test below will take on the order of 67345 microseconds.
+   (= 67345 clock ticks)
+Increase the size of the arrays if this shows that
+you are not getting at least 20 clock ticks per test.
+-------------------------------------------------------------
+WARNING -- The above is only a rough guideline.
+For best results, please be sure you know the
+precision of your system timer.
+-------------------------------------------------------------
+<<<======This is test : 129======>>>
+Fri Oct  4 15:52:39 +07 2019
+<<<======This is test : 130======>>>
+Fri Oct  4 15:52:39 +07 2019
+<<<======This is test : 131======>>>
+Fri Oct  4 15:52:39 +07 2019
+-------------------------------------------------------------
+STREAM version $Revision: 5.10 $
+-------------------------------------------------------------
+This system uses 8 bytes per array element.
+-------------------------------------------------------------
+Array size = 60000000 (elements), Offset = 0 (elements)
+Memory per array = 457.8 MiB (= 0.4 GiB).
+Total memory required = 1373.3 MiB (= 1.3 GiB).
+Each kernel will be executed 200 times.
+ The *best* time for each kernel (excluding the first iteration)
+ will be used to compute the reported bandwidth.
+-------------------------------------------------------------
+Your clock granularity/precision appears to be 1 microseconds.
+Each test below will take on the order of 67228 microseconds.
+   (= 67228 clock ticks)
+Increase the size of the arrays if this shows that
+you are not getting at least 20 clock ticks per test.
+-------------------------------------------------------------
+WARNING -- The above is only a rough guideline.
+For best results, please be sure you know the
+precision of your system timer.
+-------------------------------------------------------------
+<<<======This is test : 132======>>>
+Fri Oct  4 15:53:22 +07 2019
+<<<======This is test : 133======>>>
+Fri Oct  4 15:53:22 +07 2019
+-------------------------------------------------------------
+STREAM version $Revision: 5.10 $
+-------------------------------------------------------------
+This system uses 8 bytes per array element.
+-------------------------------------------------------------
+Array size = 60000000 (elements), Offset = 0 (elements)
+Memory per array = 457.8 MiB (= 0.4 GiB).
+Total memory required = 1373.3 MiB (= 1.3 GiB).
+Each kernel will be executed 200 times.
+ The *best* time for each kernel (excluding the first iteration)
+ will be used to compute the reported bandwidth.
+-------------------------------------------------------------
+Your clock granularity/precision appears to be 1 microseconds.
+Each test below will take on the order of 67390 microseconds.
+   (= 67390 clock ticks)
+Increase the size of the arrays if this shows that
+you are not getting at least 20 clock ticks per test.
+-------------------------------------------------------------
+WARNING -- The above is only a rough guideline.
+For best results, please be sure you know the
+precision of your system timer.
+-------------------------------------------------------------
+<<<======This is test : 134======>>>
+Fri Oct  4 15:54:06 +07 2019
+<<<======This is test : 135======>>>
+Fri Oct  4 15:54:06 +07 2019
+-------------------------------------------------------------
+STREAM version $Revision: 5.10 $
+-------------------------------------------------------------
+This system uses 8 bytes per array element.
+-------------------------------------------------------------
+Array size = 60000000 (elements), Offset = 0 (elements)
+Memory per array = 457.8 MiB (= 0.4 GiB).
+Total memory required = 1373.3 MiB (= 1.3 GiB).
+Each kernel will be executed 200 times.
+ The *best* time for each kernel (excluding the first iteration)
+ will be used to compute the reported bandwidth.
+-------------------------------------------------------------
+Your clock granularity/precision appears to be 1 microseconds.
+Each test below will take on the order of 129948 microseconds.
+   (= 129948 clock ticks)
+Increase the size of the arrays if this shows that
+you are not getting at least 20 clock ticks per test.
+-------------------------------------------------------------
+WARNING -- The above is only a rough guideline.
+For best results, please be sure you know the
+precision of your system timer.
+-------------------------------------------------------------
+<<<======This is test : 136======>>>
+Fri Oct  4 15:54:48 +07 2019
+<<<======This is test : 137======>>>
+Fri Oct  4 15:54:48 +07 2019
+<<<======This is test : 138======>>>
+Fri Oct  4 15:54:48 +07 2019
+-------------------------------------------------------------
+STREAM version $Revision: 5.10 $
+-------------------------------------------------------------
+This system uses 8 bytes per array element.
+-------------------------------------------------------------
+Array size = 60000000 (elements), Offset = 0 (elements)
+Memory per array = 457.8 MiB (= 0.4 GiB).
+Total memory required = 1373.3 MiB (= 1.3 GiB).
+Each kernel will be executed 200 times.
+ The *best* time for each kernel (excluding the first iteration)
+ will be used to compute the reported bandwidth.
+-------------------------------------------------------------
+Your clock granularity/precision appears to be 1 microseconds.
+Each test below will take on the order of 67465 microseconds.
+   (= 67465 clock ticks)
+Increase the size of the arrays if this shows that
+you are not getting at least 20 clock ticks per test.
+-------------------------------------------------------------
+WARNING -- The above is only a rough guideline.
+For best results, please be sure you know the
+precision of your system timer.
+-------------------------------------------------------------
+<<<======This is test : 139======>>>
+Fri Oct  4 15:55:33 +07 2019
+<<<======This is test : 140======>>>
+Fri Oct  4 15:55:34 +07 2019
+-------------------------------------------------------------
+STREAM version $Revision: 5.10 $
+-------------------------------------------------------------
+This system uses 8 bytes per array element.
+-------------------------------------------------------------
+Array size = 60000000 (elements), Offset = 0 (elements)
+Memory per array = 457.8 MiB (= 0.4 GiB).
+Total memory required = 1373.3 MiB (= 1.3 GiB).
+Each kernel will be executed 200 times.
+ The *best* time for each kernel (excluding the first iteration)
+ will be used to compute the reported bandwidth.
+-------------------------------------------------------------
+Your clock granularity/precision appears to be 1 microseconds.
+Each test below will take on the order of 65608 microseconds.
+   (= 65608 clock ticks)
+Increase the size of the arrays if this shows that
+you are not getting at least 20 clock ticks per test.
+-------------------------------------------------------------
+WARNING -- The above is only a rough guideline.
+For best results, please be sure you know the
+precision of your system timer.
+-------------------------------------------------------------
+<<<======This is test : 141======>>>
+Fri Oct  4 15:56:16 +07 2019
+<<<======This is test : 142======>>>
+Fri Oct  4 15:56:17 +07 2019
+-------------------------------------------------------------
+STREAM version $Revision: 5.10 $
+-------------------------------------------------------------
+This system uses 8 bytes per array element.
+-------------------------------------------------------------
+Array size = 60000000 (elements), Offset = 0 (elements)
+Memory per array = 457.8 MiB (= 0.4 GiB).
+Total memory required = 1373.3 MiB (= 1.3 GiB).
+Each kernel will be executed 200 times.
+ The *best* time for each kernel (excluding the first iteration)
+ will be used to compute the reported bandwidth.
+-------------------------------------------------------------
+Your clock granularity/precision appears to be 1 microseconds.
+Each test below will take on the order of 66815 microseconds.
+   (= 66815 clock ticks)
+Increase the size of the arrays if this shows that
+you are not getting at least 20 clock ticks per test.
+-------------------------------------------------------------
+WARNING -- The above is only a rough guideline.
+For best results, please be sure you know the
+precision of your system timer.
+-------------------------------------------------------------
+<<<======This is test : 143======>>>
+Fri Oct  4 15:56:58 +07 2019
+<<<======This is test : 144======>>>
+Fri Oct  4 15:56:58 +07 2019
+<<<======This is test : 145======>>>
+Fri Oct  4 15:56:58 +07 2019
+-------------------------------------------------------------
+STREAM version $Revision: 5.10 $
+-------------------------------------------------------------
+This system uses 8 bytes per array element.
+-------------------------------------------------------------
+Array size = 60000000 (elements), Offset = 0 (elements)
+Memory per array = 457.8 MiB (= 0.4 GiB).
+Total memory required = 1373.3 MiB (= 1.3 GiB).
+Each kernel will be executed 200 times.
+ The *best* time for each kernel (excluding the first iteration)
+ will be used to compute the reported bandwidth.
+-------------------------------------------------------------
+Your clock granularity/precision appears to be 1 microseconds.
+Each test below will take on the order of 67264 microseconds.
+   (= 67264 clock ticks)
+Increase the size of the arrays if this shows that
+you are not getting at least 20 clock ticks per test.
+-------------------------------------------------------------
+WARNING -- The above is only a rough guideline.
+For best results, please be sure you know the
+precision of your system timer.
+-------------------------------------------------------------
+<<<======This is test : 146======>>>
+Fri Oct  4 15:57:40 +07 2019
+<<<======This is test : 147======>>>
+Fri Oct  4 15:57:41 +07 2019
+-------------------------------------------------------------
+STREAM version $Revision: 5.10 $
+-------------------------------------------------------------
+This system uses 8 bytes per array element.
+-------------------------------------------------------------
+Array size = 60000000 (elements), Offset = 0 (elements)
+Memory per array = 457.8 MiB (= 0.4 GiB).
+Total memory required = 1373.3 MiB (= 1.3 GiB).
+Each kernel will be executed 200 times.
+ The *best* time for each kernel (excluding the first iteration)
+ will be used to compute the reported bandwidth.
+-------------------------------------------------------------
+Your clock granularity/precision appears to be 1 microseconds.
+Each test below will take on the order of 65393 microseconds.
+   (= 65393 clock ticks)
+Increase the size of the arrays if this shows that
+you are not getting at least 20 clock ticks per test.
+-------------------------------------------------------------
+WARNING -- The above is only a rough guideline.
+For best results, please be sure you know the
+precision of your system timer.
+-------------------------------------------------------------
+<<<======This is test : 148======>>>
+Fri Oct  4 15:58:27 +07 2019
+<<<======This is test : 149======>>>
+Fri Oct  4 15:58:28 +07 2019
+<<<======This is test : 150======>>>
+Fri Oct  4 15:58:28 +07 2019
+-------------------------------------------------------------
+STREAM version $Revision: 5.10 $
+-------------------------------------------------------------
+This system uses 8 bytes per array element.
+-------------------------------------------------------------
+Array size = 60000000 (elements), Offset = 0 (elements)
+Memory per array = 457.8 MiB (= 0.4 GiB).
+Total memory required = 1373.3 MiB (= 1.3 GiB).
+Each kernel will be executed 200 times.
+ The *best* time for each kernel (excluding the first iteration)
+ will be used to compute the reported bandwidth.
+-------------------------------------------------------------
+Your clock granularity/precision appears to be 1 microseconds.
+Each test below will take on the order of 68473 microseconds.
+   (= 68473 clock ticks)
+Increase the size of the arrays if this shows that
+you are not getting at least 20 clock ticks per test.
+-------------------------------------------------------------
+WARNING -- The above is only a rough guideline.
+For best results, please be sure you know the
+precision of your system timer.
+-------------------------------------------------------------
+<<<======This is test : 151======>>>
+Fri Oct  4 15:59:11 +07 2019
+<<<======This is test : 152======>>>
+Fri Oct  4 15:59:11 +07 2019
+-------------------------------------------------------------
+STREAM version $Revision: 5.10 $
+-------------------------------------------------------------
+This system uses 8 bytes per array element.
+-------------------------------------------------------------
+Array size = 60000000 (elements), Offset = 0 (elements)
+Memory per array = 457.8 MiB (= 0.4 GiB).
+Total memory required = 1373.3 MiB (= 1.3 GiB).
+Each kernel will be executed 200 times.
+ The *best* time for each kernel (excluding the first iteration)
+ will be used to compute the reported bandwidth.
+-------------------------------------------------------------
+Your clock granularity/precision appears to be 1 microseconds.
+Each test below will take on the order of 69878 microseconds.
+   (= 69878 clock ticks)
+Increase the size of the arrays if this shows that
+you are not getting at least 20 clock ticks per test.
+-------------------------------------------------------------
+WARNING -- The above is only a rough guideline.
+For best results, please be sure you know the
+precision of your system timer.
+-------------------------------------------------------------
+<<<======This is test : 153======>>>
+Fri Oct  4 15:59:51 +07 2019
+<<<======This is test : 154======>>>
+Fri Oct  4 15:59:52 +07 2019
+<<<======This is test : 155======>>>
+Fri Oct  4 15:59:52 +07 2019
+-------------------------------------------------------------
+STREAM version $Revision: 5.10 $
+-------------------------------------------------------------
+This system uses 8 bytes per array element.
+-------------------------------------------------------------
+Array size = 60000000 (elements), Offset = 0 (elements)
+Memory per array = 457.8 MiB (= 0.4 GiB).
+Total memory required = 1373.3 MiB (= 1.3 GiB).
+Each kernel will be executed 200 times.
+ The *best* time for each kernel (excluding the first iteration)
+ will be used to compute the reported bandwidth.
+-------------------------------------------------------------
+Your clock granularity/precision appears to be 1 microseconds.
+Each test below will take on the order of 69471 microseconds.
+   (= 69471 clock ticks)
+Increase the size of the arrays if this shows that
+you are not getting at least 20 clock ticks per test.
+-------------------------------------------------------------
+WARNING -- The above is only a rough guideline.
+For best results, please be sure you know the
+precision of your system timer.
+-------------------------------------------------------------
+<<<======This is test : 156======>>>
+Fri Oct  4 16:00:35 +07 2019
+<<<======This is test : 157======>>>
+Fri Oct  4 16:00:35 +07 2019
+-------------------------------------------------------------
+STREAM version $Revision: 5.10 $
+-------------------------------------------------------------
+This system uses 8 bytes per array element.
+-------------------------------------------------------------
+Array size = 60000000 (elements), Offset = 0 (elements)
+Memory per array = 457.8 MiB (= 0.4 GiB).
+Total memory required = 1373.3 MiB (= 1.3 GiB).
+Each kernel will be executed 200 times.
+ The *best* time for each kernel (excluding the first iteration)
+ will be used to compute the reported bandwidth.
+-------------------------------------------------------------
+Your clock granularity/precision appears to be 1 microseconds.
+Each test below will take on the order of 67317 microseconds.
+   (= 67317 clock ticks)
+Increase the size of the arrays if this shows that
+you are not getting at least 20 clock ticks per test.
+-------------------------------------------------------------
+WARNING -- The above is only a rough guideline.
+For best results, please be sure you know the
+precision of your system timer.
+-------------------------------------------------------------
+<<<======This is test : 158======>>>
+Fri Oct  4 16:01:20 +07 2019
+<<<======This is test : 159======>>>
+Fri Oct  4 16:01:20 +07 2019
+<<<======This is test : 160======>>>
+Fri Oct  4 16:01:20 +07 2019
+-------------------------------------------------------------
+STREAM version $Revision: 5.10 $
+-------------------------------------------------------------
+This system uses 8 bytes per array element.
+-------------------------------------------------------------
+Array size = 60000000 (elements), Offset = 0 (elements)
+Memory per array = 457.8 MiB (= 0.4 GiB).
+Total memory required = 1373.3 MiB (= 1.3 GiB).
+Each kernel will be executed 200 times.
+ The *best* time for each kernel (excluding the first iteration)
+ will be used to compute the reported bandwidth.
+-------------------------------------------------------------
+Your clock granularity/precision appears to be 1 microseconds.
+Each test below will take on the order of 98306 microseconds.
+   (= 98306 clock ticks)
+Increase the size of the arrays if this shows that
+you are not getting at least 20 clock ticks per test.
+-------------------------------------------------------------
+WARNING -- The above is only a rough guideline.
+For best results, please be sure you know the
+precision of your system timer.
+-------------------------------------------------------------
+<<<======This is test : 161======>>>
+Fri Oct  4 16:02:02 +07 2019
+<<<======This is test : 162======>>>
+Fri Oct  4 16:02:02 +07 2019
+<<<======This is test : 163======>>>
+Fri Oct  4 16:02:02 +07 2019
+-------------------------------------------------------------
+STREAM version $Revision: 5.10 $
+-------------------------------------------------------------
+This system uses 8 bytes per array element.
+-------------------------------------------------------------
+Array size = 60000000 (elements), Offset = 0 (elements)
+Memory per array = 457.8 MiB (= 0.4 GiB).
+Total memory required = 1373.3 MiB (= 1.3 GiB).
+Each kernel will be executed 200 times.
+ The *best* time for each kernel (excluding the first iteration)
+ will be used to compute the reported bandwidth.
+-------------------------------------------------------------
+Your clock granularity/precision appears to be 1 microseconds.
+Each test below will take on the order of 67741 microseconds.
+   (= 67741 clock ticks)
+Increase the size of the arrays if this shows that
+you are not getting at least 20 clock ticks per test.
+-------------------------------------------------------------
+WARNING -- The above is only a rough guideline.
+For best results, please be sure you know the
+precision of your system timer.
+-------------------------------------------------------------
+<<<======This is test : 164======>>>
+Fri Oct  4 16:02:46 +07 2019
+<<<======This is test : 165======>>>
+Fri Oct  4 16:02:46 +07 2019
+-------------------------------------------------------------
+STREAM version $Revision: 5.10 $
+-------------------------------------------------------------
+This system uses 8 bytes per array element.
+-------------------------------------------------------------
+Array size = 60000000 (elements), Offset = 0 (elements)
+Memory per array = 457.8 MiB (= 0.4 GiB).
+Total memory required = 1373.3 MiB (= 1.3 GiB).
+Each kernel will be executed 200 times.
+ The *best* time for each kernel (excluding the first iteration)
+ will be used to compute the reported bandwidth.
+-------------------------------------------------------------
+Your clock granularity/precision appears to be 1 microseconds.
+Each test below will take on the order of 130825 microseconds.
+   (= 130825 clock ticks)
+Increase the size of the arrays if this shows that
+you are not getting at least 20 clock ticks per test.
+-------------------------------------------------------------
+WARNING -- The above is only a rough guideline.
+For best results, please be sure you know the
+precision of your system timer.
+-------------------------------------------------------------
+<<<======This is test : 166======>>>
+Fri Oct  4 16:03:29 +07 2019
+<<<======This is test : 167======>>>
+Fri Oct  4 16:03:29 +07 2019
+-------------------------------------------------------------
+STREAM version $Revision: 5.10 $
+-------------------------------------------------------------
+This system uses 8 bytes per array element.
+-------------------------------------------------------------
+Array size = 60000000 (elements), Offset = 0 (elements)
+Memory per array = 457.8 MiB (= 0.4 GiB).
+Total memory required = 1373.3 MiB (= 1.3 GiB).
+Each kernel will be executed 200 times.
+ The *best* time for each kernel (excluding the first iteration)
+ will be used to compute the reported bandwidth.
+-------------------------------------------------------------
+Your clock granularity/precision appears to be 1 microseconds.
+Each test below will take on the order of 68680 microseconds.
+   (= 68680 clock ticks)
+Increase the size of the arrays if this shows that
+you are not getting at least 20 clock ticks per test.
+-------------------------------------------------------------
+WARNING -- The above is only a rough guideline.
+For best results, please be sure you know the
+precision of your system timer.
+-------------------------------------------------------------
+<<<======This is test : 168======>>>
+Fri Oct  4 16:04:15 +07 2019
+<<<======This is test : 169======>>>
+Fri Oct  4 16:04:15 +07 2019
+<<<======This is test : 170======>>>
+Fri Oct  4 16:04:15 +07 2019
+-------------------------------------------------------------
+STREAM version $Revision: 5.10 $
+-------------------------------------------------------------
+This system uses 8 bytes per array element.
+-------------------------------------------------------------
+Array size = 60000000 (elements), Offset = 0 (elements)
+Memory per array = 457.8 MiB (= 0.4 GiB).
+Total memory required = 1373.3 MiB (= 1.3 GiB).
+Each kernel will be executed 200 times.
+ The *best* time for each kernel (excluding the first iteration)
+ will be used to compute the reported bandwidth.
+-------------------------------------------------------------
+Your clock granularity/precision appears to be 1 microseconds.
+Each test below will take on the order of 68388 microseconds.
+   (= 68388 clock ticks)
+Increase the size of the arrays if this shows that
+you are not getting at least 20 clock ticks per test.
+-------------------------------------------------------------
+WARNING -- The above is only a rough guideline.
+For best results, please be sure you know the
+precision of your system timer.
+-------------------------------------------------------------
+<<<======This is test : 171======>>>
+Fri Oct  4 16:04:58 +07 2019
+<<<======This is test : 172======>>>
+Fri Oct  4 16:04:58 +07 2019
+<<<======This is test : 173======>>>
+Fri Oct  4 16:04:58 +07 2019
+-------------------------------------------------------------
+STREAM version $Revision: 5.10 $
+-------------------------------------------------------------
+This system uses 8 bytes per array element.
+-------------------------------------------------------------
+Array size = 60000000 (elements), Offset = 0 (elements)
+Memory per array = 457.8 MiB (= 0.4 GiB).
+Total memory required = 1373.3 MiB (= 1.3 GiB).
+Each kernel will be executed 200 times.
+ The *best* time for each kernel (excluding the first iteration)
+ will be used to compute the reported bandwidth.
+-------------------------------------------------------------
+Your clock granularity/precision appears to be 1 microseconds.
+Each test below will take on the order of 66940 microseconds.
+   (= 66940 clock ticks)
+Increase the size of the arrays if this shows that
+you are not getting at least 20 clock ticks per test.
+-------------------------------------------------------------
+WARNING -- The above is only a rough guideline.
+For best results, please be sure you know the
+precision of your system timer.
+-------------------------------------------------------------
+<<<======This is test : 174======>>>
+Fri Oct  4 16:05:42 +07 2019
+<<<======This is test : 175======>>>
+Fri Oct  4 16:05:42 +07 2019
+-------------------------------------------------------------
+STREAM version $Revision: 5.10 $
+-------------------------------------------------------------
+This system uses 8 bytes per array element.
+-------------------------------------------------------------
+Array size = 60000000 (elements), Offset = 0 (elements)
+Memory per array = 457.8 MiB (= 0.4 GiB).
+Total memory required = 1373.3 MiB (= 1.3 GiB).
+Each kernel will be executed 200 times.
+ The *best* time for each kernel (excluding the first iteration)
+ will be used to compute the reported bandwidth.
+-------------------------------------------------------------
+Your clock granularity/precision appears to be 1 microseconds.
+Each test below will take on the order of 128771 microseconds.
+   (= 128771 clock ticks)
+Increase the size of the arrays if this shows that
+you are not getting at least 20 clock ticks per test.
+-------------------------------------------------------------
+WARNING -- The above is only a rough guideline.
+For best results, please be sure you know the
+precision of your system timer.
+-------------------------------------------------------------
+<<<======This is test : 176======>>>
+Fri Oct  4 16:06:24 +07 2019
+<<<======This is test : 177======>>>
+Fri Oct  4 16:06:24 +07 2019
+<<<======This is test : 178======>>>
+Fri Oct  4 16:06:24 +07 2019
+-------------------------------------------------------------
+STREAM version $Revision: 5.10 $
+-------------------------------------------------------------
+This system uses 8 bytes per array element.
+-------------------------------------------------------------
+Array size = 60000000 (elements), Offset = 0 (elements)
+Memory per array = 457.8 MiB (= 0.4 GiB).
+Total memory required = 1373.3 MiB (= 1.3 GiB).
+Each kernel will be executed 200 times.
+ The *best* time for each kernel (excluding the first iteration)
+ will be used to compute the reported bandwidth.
+-------------------------------------------------------------
+Your clock granularity/precision appears to be 1 microseconds.
+Each test below will take on the order of 65526 microseconds.
+   (= 65526 clock ticks)
+Increase the size of the arrays if this shows that
+you are not getting at least 20 clock ticks per test.
+-------------------------------------------------------------
+WARNING -- The above is only a rough guideline.
+For best results, please be sure you know the
+precision of your system timer.
+-------------------------------------------------------------
+<<<======This is test : 179======>>>
+Fri Oct  4 16:07:07 +07 2019
+<<<======This is test : 180======>>>
+Fri Oct  4 16:07:07 +07 2019
+<<<======This is test : 181======>>>
+Fri Oct  4 16:07:07 +07 2019
+<<<======This is test : 182======>>>
+Fri Oct  4 16:07:07 +07 2019
+<<<======This is test : 183======>>>
+Fri Oct  4 16:07:08 +07 2019
+<<<======This is test : 184======>>>
+Fri Oct  4 16:07:08 +07 2019
+<<<======This is test : 185======>>>
+Fri Oct  4 16:07:08 +07 2019
+<<<======This is test : 186======>>>
+Fri Oct  4 16:07:08 +07 2019
+<<<======This is test : 187======>>>
+Fri Oct  4 16:07:08 +07 2019
+<<<======This is test : 188======>>>
+Fri Oct  4 16:07:08 +07 2019
+<<<======This is test : 189======>>>
+Fri Oct  4 16:07:08 +07 2019
+<<<======This is test : 190======>>>
+Fri Oct  4 16:07:08 +07 2019
+<<<======This is test : 191======>>>
+Fri Oct  4 16:07:08 +07 2019
+<<<======This is test : 192======>>>
+Fri Oct  4 16:07:08 +07 2019
+<<<======This is test : 193======>>>
+Fri Oct  4 16:07:08 +07 2019
+<<<======This is test : 194======>>>
+Fri Oct  4 16:07:08 +07 2019
+<<<======This is test : 195======>>>
+Fri Oct  4 16:07:08 +07 2019
+<<<======This is test : 196======>>>
+Fri Oct  4 16:07:08 +07 2019
+<<<======This is test : 197======>>>
+Fri Oct  4 16:07:08 +07 2019
+<<<======This is test : 198======>>>
+Fri Oct  4 16:07:08 +07 2019
+<<<======This is test : 199======>>>
+Fri Oct  4 16:07:08 +07 2019
+<<<======This is test : 200======>>>
+Fri Oct  4 16:07:08 +07 2019
+<<<======This is test : 201======>>>
+Fri Oct  4 16:07:08 +07 2019
+<<<======This is test : 202======>>>
+Fri Oct  4 16:07:08 +07 2019
+<<<======This is test : 203======>>>
+Fri Oct  4 16:07:08 +07 2019
+<<<======This is test : 204======>>>
+Fri Oct  4 16:07:08 +07 2019
+<<<======This is test : 205======>>>
+Fri Oct  4 16:07:08 +07 2019
+<<<======This is test : 206======>>>
+Fri Oct  4 16:07:08 +07 2019
+<<<======This is test : 207======>>>
+Fri Oct  4 16:07:08 +07 2019
+<<<======This is test : 208======>>>
+Fri Oct  4 16:07:08 +07 2019
+<<<======This is test : 209======>>>
+Fri Oct  4 16:07:08 +07 2019
+<<<======This is test : 210======>>>
+Fri Oct  4 16:07:08 +07 2019
+<<<======This is test : 211======>>>
+Fri Oct  4 16:07:08 +07 2019
+<<<======This is test : 212======>>>
+Fri Oct  4 16:07:09 +07 2019
+<<<======This is test : 213======>>>
+Fri Oct  4 16:07:09 +07 2019
+<<<======This is test : 214======>>>
+Fri Oct  4 16:07:09 +07 2019
+<<<======This is test : 215======>>>
+Fri Oct  4 16:07:09 +07 2019
+<<<======This is test : 216======>>>
+Fri Oct  4 16:07:09 +07 2019
+<<<======This is test : 217======>>>
+Fri Oct  4 16:07:09 +07 2019
+<<<======This is test : 218======>>>
+Fri Oct  4 16:07:09 +07 2019
+<<<======This is test : 219======>>>
+Fri Oct  4 16:07:09 +07 2019
+<<<======This is test : 220======>>>
+Fri Oct  4 16:07:09 +07 2019
+<<<======This is test : 221======>>>
+Fri Oct  4 16:07:09 +07 2019
+<<<======This is test : 222======>>>
+Fri Oct  4 16:07:09 +07 2019
+<<<======This is test : 223======>>>
+Fri Oct  4 16:07:09 +07 2019
+<<<======This is test : 224======>>>
+Fri Oct  4 16:07:09 +07 2019
+<<<======This is test : 225======>>>
+Fri Oct  4 16:07:09 +07 2019
+<<<======This is test : 226======>>>
+Fri Oct  4 16:07:09 +07 2019
+<<<======This is test : 227======>>>
+Fri Oct  4 16:07:09 +07 2019
+<<<======This is test : 228======>>>
+Fri Oct  4 16:07:09 +07 2019
+<<<======This is test : 229======>>>
+Fri Oct  4 16:07:09 +07 2019
+<<<======This is test : 230======>>>
+Fri Oct  4 16:07:09 +07 2019
+<<<======This is test : 231======>>>
+Fri Oct  4 16:07:09 +07 2019
+<<<======This is test : 232======>>>
+Fri Oct  4 16:07:09 +07 2019
+<<<======This is test : 233======>>>
+Fri Oct  4 16:07:09 +07 2019
+<<<======This is test : 234======>>>
+Fri Oct  4 16:07:09 +07 2019
+<<<======This is test : 235======>>>
+Fri Oct  4 16:07:09 +07 2019
+<<<======This is test : 236======>>>
+Fri Oct  4 16:07:09 +07 2019
+<<<======This is test : 237======>>>
+Fri Oct  4 16:07:09 +07 2019
+<<<======This is test : 238======>>>
+Fri Oct  4 16:07:09 +07 2019
+<<<======This is test : 239======>>>
+Fri Oct  4 16:07:09 +07 2019
+<<<======This is test : 240======>>>
+Fri Oct  4 16:07:10 +07 2019
+<<<======This is test : 241======>>>
+Fri Oct  4 16:07:10 +07 2019
+<<<======This is test : 242======>>>
+Fri Oct  4 16:07:10 +07 2019
+<<<======This is test : 243======>>>
+Fri Oct  4 16:07:10 +07 2019
+<<<======This is test : 244======>>>
+Fri Oct  4 16:07:10 +07 2019
+<<<======This is test : 245======>>>
+Fri Oct  4 16:07:10 +07 2019
+<<<======This is test : 246======>>>
+Fri Oct  4 16:07:10 +07 2019
+<<<======This is test : 247======>>>
+Fri Oct  4 16:07:10 +07 2019
+<<<======This is test : 248======>>>
+Fri Oct  4 16:07:10 +07 2019
+<<<======This is test : 249======>>>
+Fri Oct  4 16:07:10 +07 2019
+<<<======This is test : 250======>>>
+Fri Oct  4 16:07:10 +07 2019
+<<<======This is test : 251======>>>
+Fri Oct  4 16:07:10 +07 2019
+<<<======This is test : 252======>>>
+Fri Oct  4 16:07:10 +07 2019
+<<<======This is test : 253======>>>
+Fri Oct  4 16:07:10 +07 2019
+<<<======This is test : 254======>>>
+Fri Oct  4 16:07:10 +07 2019
+<<<======This is test : 255======>>>
+Fri Oct  4 16:07:10 +07 2019
+<<<======This is test : 256======>>>
+Fri Oct  4 16:07:10 +07 2019
+<<<======This is test : 257======>>>
+Fri Oct  4 16:07:10 +07 2019
+<<<======This is test : 258======>>>
+Fri Oct  4 16:07:10 +07 2019
+<<<======This is test : 259======>>>
+Fri Oct  4 16:07:10 +07 2019
+<<<======This is test : 260======>>>
+Fri Oct  4 16:07:10 +07 2019
+<<<======This is test : 261======>>>
+Fri Oct  4 16:07:10 +07 2019
+<<<======This is test : 262======>>>
+Fri Oct  4 16:07:10 +07 2019
+<<<======This is test : 263======>>>
+Fri Oct  4 16:07:10 +07 2019
+<<<======This is test : 264======>>>
+Fri Oct  4 16:07:10 +07 2019
+<<<======This is test : 265======>>>
+Fri Oct  4 16:07:10 +07 2019
+<<<======This is test : 266======>>>
+Fri Oct  4 16:07:10 +07 2019
+<<<======This is test : 267======>>>
+Fri Oct  4 16:07:10 +07 2019
+<<<======This is test : 268======>>>
+Fri Oct  4 16:07:11 +07 2019
+<<<======This is test : 269======>>>
+Fri Oct  4 16:07:11 +07 2019
+<<<======This is test : 270======>>>
+Fri Oct  4 16:07:11 +07 2019
+<<<======This is test : 271======>>>
+Fri Oct  4 16:07:11 +07 2019
+<<<======This is test : 272======>>>
+Fri Oct  4 16:07:11 +07 2019
+<<<======This is test : 273======>>>
+Fri Oct  4 16:07:11 +07 2019
+<<<======This is test : 274======>>>
+Fri Oct  4 16:07:11 +07 2019
+<<<======This is test : 275======>>>
+Fri Oct  4 16:07:11 +07 2019
+<<<======This is test : 276======>>>
+Fri Oct  4 16:07:11 +07 2019
+<<<======This is test : 277======>>>
+Fri Oct  4 16:07:11 +07 2019
+<<<======This is test : 278======>>>
+Fri Oct  4 16:07:11 +07 2019
+<<<======This is test : 279======>>>
+Fri Oct  4 16:07:11 +07 2019
+<<<======This is test : 280======>>>
+Fri Oct  4 16:07:11 +07 2019
+<<<======This is test : 281======>>>
+Fri Oct  4 16:07:11 +07 2019
+<<<======This is test : 282======>>>
+Fri Oct  4 16:07:11 +07 2019
+<<<======This is test : 283======>>>
+Fri Oct  4 16:07:11 +07 2019
+<<<======This is test : 284======>>>
+Fri Oct  4 16:07:11 +07 2019
+<<<======This is test : 285======>>>
+Fri Oct  4 16:07:11 +07 2019
+<<<======This is test : 286======>>>
+Fri Oct  4 16:07:11 +07 2019
+<<<======This is test : 287======>>>
+Fri Oct  4 16:07:11 +07 2019
+<<<======This is test : 288======>>>
+Fri Oct  4 16:07:11 +07 2019
+<<<======This is test : 289======>>>
+Fri Oct  4 16:07:11 +07 2019
+<<<======This is test : 290======>>>
+Fri Oct  4 16:07:11 +07 2019
+<<<======This is test : 291======>>>
+Fri Oct  4 16:07:11 +07 2019
+<<<======This is test : 292======>>>
+Fri Oct  4 16:07:11 +07 2019
+<<<======This is test : 293======>>>
+Fri Oct  4 16:07:11 +07 2019
+<<<======This is test : 294======>>>
+Fri Oct  4 16:07:11 +07 2019
+<<<======This is test : 295======>>>
+Fri Oct  4 16:07:11 +07 2019
+<<<======This is test : 296======>>>
+Fri Oct  4 16:07:11 +07 2019
+<<<======This is test : 297======>>>
+Fri Oct  4 16:07:12 +07 2019
+<<<======This is test : 298======>>>
+Fri Oct  4 16:07:12 +07 2019
+<<<======This is test : 299======>>>
+Fri Oct  4 16:07:12 +07 2019
+<<<======This is test : 300======>>>
+Fri Oct  4 16:07:12 +07 2019
